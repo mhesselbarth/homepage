@@ -56,11 +56,8 @@ enableGitInfo = false
   # Your details.
   name = "Maximilian H. K. Hesselbarth"
   role = "PhD candidate"
-
-    organizations = [ { name = "University of Goettingen", 
-                        url = "http://www.uni-goettingen.de/en/1.html" }, 
-                      { name = "Department of Ecosystem Modelling",
-                        url = "https://www.uni-goettingen.de/en/102170.html" }]
+  organizations = [ { name = "University of Goettingen", url = "http://www.uni-goettingen.de/en/1.html" }, 
+                    { name = "Department of Ecosystem Modelling", url = "https://www.uni-goettingen.de/en/102170.html" }]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -68,7 +65,7 @@ enableGitInfo = false
   address = "Room 0.129, Buesgenweg 4, 37077 Goettingen, Germany"
   phone = "0049 551 3933824"
   skype = "maximilian.hesselbarth"
-
+  
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
 
