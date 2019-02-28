@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on M.H.K. Hesselbarth Research</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on M.H.K. Hesselbarth Research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 07 Jan 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>shar</title>
+      <link>/project/shar/</link>
+      <pubDate>Mon, 07 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/project/shar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>r-spatialecology</title>
+      <link>/project/r_landscape_ecology/</link>
+      <pubDate>Wed, 08 Aug 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/project/r_landscape_ecology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IDESSA</title>
+      <link>/project/idessa/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/project/idessa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling Problems in Statistics</title>
+      <link>/project/rtg/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/project/rtg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Role of Heterogeneity in Spatial Plant Population Dynamics</title>
+      <link>/project/phd_project/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/project/phd_project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>landscapemetrics</title>
+      <link>/project/landscapemetrics/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/project/landscapemetrics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

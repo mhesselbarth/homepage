@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on M.H.K. Hesselbarth Research</title>
+    <link>/tags/research/</link>
+    <description>Recent content in Research on M.H.K. Hesselbarth Research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 12 Jun 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IDESSA</title>
+      <link>/project/idessa/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/project/idessa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Role of Heterogeneity in Spatial Plant Population Dynamics</title>
+      <link>/project/phd_project/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/project/phd_project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
