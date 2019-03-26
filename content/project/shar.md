@@ -6,7 +6,7 @@ date = 2019-01-07
 title = "shar"
 
 # Project summary to display on homepage.
-summary = "A R package to analyse species-habitat associations"
+summary = "R package to analyse species-habitat associations"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "package.png"
