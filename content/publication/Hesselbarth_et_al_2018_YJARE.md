@@ -38,7 +38,7 @@ image_preview = "JAE.jpg"
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename of your project in `content/project/`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["idessa.md"]
 
 # Links (optional).
 url_pdf = "https://www.sciencedirect.com/science/article/pii/S0140196318303422"

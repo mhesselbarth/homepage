@@ -34,7 +34,7 @@ image_preview = ""
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename of your project in `content/project/`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["phd_project.md"]
   
 # Links (optional).
 url_pdf = ""
