@@ -14,7 +14,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: 
-  - IDESSA
+  - landscapemetrics
 publication: '*Ecography*'
 publication_short: ""
 publication_types: ["2"]
@@ -22,12 +22,12 @@ publishDate: "2018-06-08"
 slides: ""
 summary: ""
 tags: []
-title: landscapemetrics an open‐source R tool to calculate landscape metrics 
-url_code: ""
+title: landscapemetrics. An open‐source R tool to calculate landscape metrics 
+url_code: https://github.com/mhesselbarth/Hesselbarth_et_al_2019_Ecography
 url_dataset: ""
-url_pdf: ""
+url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1111/ecog.04617
 url_poster: ""
-url_project: ""
+url_project: https://r-spatialecology.github.io/landscapemetrics/
 url_slides: ""
 url_source: ""
 url_video: ""
