@@ -22,7 +22,7 @@ publishDate: "2019-07-02"
 slides: ""
 summary: ""
 tags: []
-title: landscapemetrics. An open‐source R tool to calculate landscape metrics 
+title: "landscapemetrics: an open‐source R tool to calculate landscape metrics"
 url_code: https://github.com/mhesselbarth/Hesselbarth_et_al_2019_Ecography
 url_dataset: ""
 url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1111/ecog.04617
