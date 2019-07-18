@@ -1,5 +1,5 @@
 ---
-title: "landscapemetrics: introducing a new R tiil to characterise landscapes"
+title: "landscapemetrics: introducing a new R tool to characterise landscapes"
 event: 10th World Congress International Association of Landscape Ecology
 event_url: http://www.iale2019.unimib.it/
 location: Milano, Italy
