@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Hesselbarth {year}</copyright>
-    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://mhesselbarth.rbind.io/authors/jakub-nowosad/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>landscapemetrics. An open‐source R tool to calculate landscape metrics</title>
+      <link>https://mhesselbarth.rbind.io/publication/hesselbarth_el_al_2019_ecography/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mhesselbarth.rbind.io/publication/hesselbarth_el_al_2019_ecography/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>landscapemetrics: introducing a new R tool to characterise landscapes</title>
@@ -18,15 +27,6 @@
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://mhesselbarth.rbind.io/talk/hesselbarth_et_al_2019_iale/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>landscapemetrics. An open‐source R tool to calculate landscape metrics</title>
-      <link>https://mhesselbarth.rbind.io/publication/hesselbarth_el_al_2019_ecography/</link>
-      <pubDate>Fri, 08 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://mhesselbarth.rbind.io/publication/hesselbarth_el_al_2019_ecography/</guid>
       <description></description>
     </item>
     

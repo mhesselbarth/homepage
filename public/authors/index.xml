@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Hesselbarth {year}</copyright>
-    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://mhesselbarth.rbind.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://mhesselbarth.rbind.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://mhesselbarth.rbind.io/authors/admin/</guid>
       <description>&lt;p&gt;I am a PhD candidate at the Department of Ecosystem Modelling based at University of Goettingen. I am interested in ecological modelling and especially in considering the spatial explicit characteristics of most ecologicals processes.&lt;/p&gt;
@@ -29,16 +29,34 @@
     <item>
       <title>Jakub Nowosad</title>
       <link>https://mhesselbarth.rbind.io/authors/jakub-nowosad/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://mhesselbarth.rbind.io/authors/jakub-nowosad/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Kerstin Wiegand</title>
+      <link>https://mhesselbarth.rbind.io/authors/kerstin-wiegand/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mhesselbarth.rbind.io/authors/kerstin-wiegand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kimberly A. With</title>
+      <link>https://mhesselbarth.rbind.io/authors/kimberly-a.-with/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mhesselbarth.rbind.io/authors/kimberly-a.-with/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Marco Sciaini</title>
       <link>https://mhesselbarth.rbind.io/authors/marco-sciaini/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://mhesselbarth.rbind.io/authors/marco-sciaini/</guid>
       <description></description>
@@ -54,29 +72,11 @@
     </item>
     
     <item>
-      <title>Kerstin Wiegand</title>
-      <link>https://mhesselbarth.rbind.io/authors/kerstin-wiegand/</link>
-      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://mhesselbarth.rbind.io/authors/kerstin-wiegand/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Daniel Esser</title>
       <link>https://mhesselbarth.rbind.io/authors/daniel-esser/</link>
       <pubDate>Fri, 08 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://mhesselbarth.rbind.io/authors/daniel-esser/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kimberly A. With</title>
-      <link>https://mhesselbarth.rbind.io/authors/kimberly-a.-with/</link>
-      <pubDate>Fri, 08 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://mhesselbarth.rbind.io/authors/kimberly-a.-with/</guid>
       <description></description>
     </item>
     

@@ -6,7 +6,7 @@ authors:
 - Kimberly A. With
 - Kerstin Wiegand
 - Jakub Nowosad
-date: "2018-06-08"
+date: "2019-07-02"
 doi: "10.1111/ecog.04617"
 featured: false
 image:
@@ -18,7 +18,7 @@ projects:
 publication: '*Ecography*'
 publication_short: ""
 publication_types: ["2"]
-publishDate: "2018-06-08"
+publishDate: "2019-07-02"
 slides: ""
 summary: ""
 tags: []

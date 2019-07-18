@@ -75,25 +75,59 @@
   
   <url>
     <loc>https://mhesselbarth.rbind.io/authors/admin/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mhesselbarth.rbind.io/publication_types/2/</loc>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mhesselbarth.rbind.io/authors/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mhesselbarth.rbind.io/authors/jakub-nowosad/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mhesselbarth.rbind.io/authors/kerstin-wiegand/</loc>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mhesselbarth.rbind.io/authors/kimberly-a.-with/</loc>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mhesselbarth.rbind.io/authors/marco-sciaini/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mhesselbarth.rbind.io/publication_types/</loc>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mhesselbarth.rbind.io/publication/</loc>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mhesselbarth.rbind.io/publication/hesselbarth_el_al_2019_ecography/</loc>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -118,18 +152,6 @@
   </url>
   
   <url>
-    <loc>https://mhesselbarth.rbind.io/authors/kerstin-wiegand/</loc>
-    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mhesselbarth.rbind.io/publication_types/2/</loc>
-    <lastmod>2018-06-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://mhesselbarth.rbind.io/authors/daniel-esser/</loc>
     <lastmod>2018-06-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -138,12 +160,6 @@
   <url>
     <loc>https://mhesselbarth.rbind.io/publication/hesselbarth_et_al_2018_j_arid_environ/</loc>
     <lastmod>2018-06-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mhesselbarth.rbind.io/authors/kimberly-a.-with/</loc>
-    <lastmod>2018-06-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -159,25 +175,9 @@
   </url>
   
   <url>
-    <loc>https://mhesselbarth.rbind.io/publication_types/</loc>
-    <lastmod>2018-06-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mhesselbarth.rbind.io/publication/</loc>
-    <lastmod>2018-06-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mhesselbarth.rbind.io/authors/zivanai-tsvuura/</loc>
     <lastmod>2018-06-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mhesselbarth.rbind.io/publication/hesselbarth_el_al_2019_ecography/</loc>
-    <lastmod>2018-06-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
