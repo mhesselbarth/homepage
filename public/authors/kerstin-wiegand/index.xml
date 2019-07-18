@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kerstin Wiegand on M.H.K. Hesselbarth</title>
+    <link>https://mhesselbarth.rbind.io/authors/kerstin-wiegand/</link>
+    <description>Recent content in Kerstin Wiegand on M.H.K. Hesselbarth</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://mhesselbarth.rbind.io/authors/kerstin-wiegand/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A simulation study comparing methods to analyze species-habitat associations of forest trees</title>
+      <link>https://mhesselbarth.rbind.io/talk/hesselbarth_et_al_2018_gfo/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mhesselbarth.rbind.io/talk/hesselbarth_et_al_2018_gfo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Density-dependent spatial patterning of woody plants differs between a semi-arid and a mesic savanna in South Africa</title>
+      <link>https://mhesselbarth.rbind.io/publication/hesselbarth_et_al_2018_j_arid_environ/</link>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mhesselbarth.rbind.io/publication/hesselbarth_et_al_2018_j_arid_environ/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

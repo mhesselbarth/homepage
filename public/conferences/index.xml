@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conferences on M.H.K. Hesselbarth</title>
+    <link>/conferences/</link>
+    <description>Recent content in Conferences on M.H.K. Hesselbarth</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/conferences/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Conferences</title>
+      <link>/conferences/conferences/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/conferences/conferences/</guid>
+      <description>
+
+&lt;h3 id=&#34;conferences&#34;&gt;Conferences&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;29 / 04 / 2017 &amp;ndash; 05 / 05 / 2017: Young Modellers in Ecology, Freiburg (Germany)&lt;/li&gt;
+&lt;li&gt;10 / 09 / 2018 &amp;ndash; 14 / 09 / 2018: 48th Annual Meeting of the Ecological Society of Germany, Austria and Switzerland, Vienna (Austria)
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;workshops&#34;&gt;Workshops&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;07 / 09 / 2013 &amp;ndash; 22 / 09 / 2013: Fire protection and management, Cyprus Forestry College, Podromos (Cyprus)&lt;/li&gt;
+&lt;li&gt;02 / 04 / 2017 &amp;ndash; 07 / 04 / 2017: Advances in spatial analysis of multivariate ecological data: Theory and practice, Port Talbot (UK)&lt;/li&gt;
+&lt;li&gt;18 / 01 / 2018 &amp;ndash; 19 / 01 / 2018: Deep learning with &lt;em&gt;Keras&lt;/em&gt; and &lt;em&gt;TensorFlow&lt;/em&gt;, Solingen (Germany)&lt;/li&gt;
+&lt;li&gt;26 / 03 / 2018 &amp;ndash; 30 / 03 / 2018: Spatial modelling inlabru, St. Andrews (GB)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;internships-research-visits&#34;&gt;Internships, Research visits&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;08 / 2009 &amp;ndash; 09 / 2009: State forestry department &amp;lsquo;Heuberg&amp;rsquo;, Meßstetten (Germany)&lt;/li&gt;
+&lt;li&gt;08 / 2010 &amp;ndash; 08 / 2010: State forestry department &amp;lsquo;Heuberg&amp;rsquo;, Meßstetten (Germany)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;06 / 2011 &amp;ndash; 08 / 2011: Wise Batten Inc, Timber management, Estill, SC (USA)&lt;/li&gt;
+&lt;li&gt;11 / 2013 &amp;ndash; 03 / 2014: SilvaTerra Ltd, Forestry consulting and research, Lilongwe (Malawi)&lt;/li&gt;
+&lt;li&gt;09 / 2015 &amp;ndash; 10 / 2015: Northwest German Forestry Research Institute, Department of growth modeling, Göttingen (Germany)&lt;/li&gt;
+&lt;li&gt;10 / 2017 &amp;ndash; 12 / 2017: Department of Ecology, Evolution, and Organismal Biology, Iowa State University, Ames (USA)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

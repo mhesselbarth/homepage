@@ -1,23 +1,56 @@
 +++
-# Custom widget.
-# An example of using the custom widget to create your own homepage section.
-# To create more sections, duplicate this file and edit the values below as desired.
-widget = "custom"
-active = true
-date = 2018-06-15
+# A Demo section created with the Blank widget.
+# Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
+# Add more sections by duplicating this file and customizing to your requirements.
 
-# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Conferences"
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 4  # Order that this section will appear.
+
+title = "Conferences/Workshops/Visits"
 subtitle = ""
 
-# Order that this section will appear in.
-weight = 6
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1"
 
+[design.background]
+  # Apply a background color, gradient, or image.
+  #   Uncomment (by removing `#`) an option to apply it.
+  #   Choose a light or dark text color by setting `text_color_light`.
+  #   Any HTML color name or Hex value is valid.
+
+  # Background color.
+  # color = "navy"
+  
+  # Background gradient.
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
+  
+  # Background image.
+  # image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+
+  # Text color (true=light or false=dark).
+  # text_color_light = true
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  # padding = ["20px", "20px", "20px", "20px"]
+
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
 +++
 
 ### Conferences
 - 29 / 04 / 2017 -- 05 / 05 / 2017: Young Modellers in Ecology, Freiburg (Germany)
 - 10 / 09 / 2018 -- 14 / 09 / 2018: 48th Annual Meeting of the Ecological Society of Germany, Austria and Switzerland, Vienna (Austria)
+- 07 / 07 / 2019 -- 05 / 07 / 2019: 10th World Congress International Association of Landscape Ecology, Milano (Italy)
 	
 ### Workshops
 - 07 / 09 / 2013 -- 22 / 09 / 2013: Fire protection and management, Cyprus Forestry College, Podromos (Cyprus)

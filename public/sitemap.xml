@@ -1,296 +1,177 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    
-    <url>
-    
-      <loc>/publication/hesselbarth_et_al_2019_iale/</loc>
-      <lastmod>2019-07-01T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://mhesselbarth.rbind.io/project/idessa/</loc>
+    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/project/onpoint/</loc>
-      <lastmod>2019-03-26T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://mhesselbarth.rbind.io/</loc>
+    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/project/shar/</loc>
-      <lastmod>2019-01-07T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://mhesselbarth.rbind.io/project/</loc>
+    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/hesselbarth_wiegand_2018_gfo/</loc>
-      <lastmod>2018-09-10T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://mhesselbarth.rbind.io/project/rtg-1644/</loc>
+    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/project/r_landscape_ecology/</loc>
-      <lastmod>2018-08-08T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://mhesselbarth.rbind.io/tags/</loc>
+    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/project/idessa/</loc>
-      <lastmod>2018-06-12T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://mhesselbarth.rbind.io/project/phd-project/</loc>
+    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/project/rtg/</loc>
-      <lastmod>2018-06-12T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://mhesselbarth.rbind.io/project/landscapemetrics/</loc>
+    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/project/phd_project/</loc>
-      <lastmod>2018-06-12T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://mhesselbarth.rbind.io/project/onpoint/</loc>
+    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/project/landscapemetrics/</loc>
-      <lastmod>2018-06-12T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://mhesselbarth.rbind.io/tags/other/</loc>
+    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/hesselbarth_et_al_2018_yjare/</loc>
-      <lastmod>2018-06-08T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://mhesselbarth.rbind.io/tags/r/</loc>
+    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://mhesselbarth.rbind.io/project/r-spatialecology/</loc>
+    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/post/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://mhesselbarth.rbind.io/tags/research/</loc>
+    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://mhesselbarth.rbind.io/project/shar/</loc>
+    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://mhesselbarth.rbind.io/authors/admin/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/post/2015-07-23-r-rmarkdown/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://mhesselbarth.rbind.io/authors/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/hesselbarth_et_al_2019_ecography/</loc>
-    </url>
-    
+  <url>
+    <loc>https://mhesselbarth.rbind.io/authors/jakub-nowosad/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication_types/1/</loc>
-      <lastmod>2019-07-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mhesselbarth.rbind.io/authors/marco-sciaini/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication_types/2/</loc>
-      <lastmod>2018-06-08T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mhesselbarth.rbind.io/talk/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mhesselbarth.rbind.io/authors/sebastian-hanss/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2018-06-12T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mhesselbarth.rbind.io/talk/hesselbarth_et_al_2019_iale/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/other/</loc>
-      <lastmod>2018-08-08T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mhesselbarth.rbind.io/talk/hesselbarth_et_al_2018_gfo/</loc>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/plot/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mhesselbarth.rbind.io/authors/kerstin-wiegand/</loc>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/project/</loc>
-      <lastmod>2019-03-26T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mhesselbarth.rbind.io/publication_types/2/</loc>
+    <lastmod>2018-06-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication_types/</loc>
-      <lastmod>2019-07-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mhesselbarth.rbind.io/authors/daniel-esser/</loc>
+    <lastmod>2018-06-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/</loc>
-      <lastmod>2019-07-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mhesselbarth.rbind.io/publication/hesselbarth_et_al_2018_j_arid_environ/</loc>
+    <lastmod>2018-06-08T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/r/</loc>
-      <lastmod>2019-03-26T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mhesselbarth.rbind.io/authors/klaus-kellner/</loc>
+    <lastmod>2018-06-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/categories/r/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mhesselbarth.rbind.io/authors/niels-dreber/</loc>
+    <lastmod>2018-06-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/r-markdown/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mhesselbarth.rbind.io/publication_types/</loc>
+    <lastmod>2018-06-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/regression/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mhesselbarth.rbind.io/publication/</loc>
+    <lastmod>2018-06-08T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/research/</loc>
-      <lastmod>2018-06-12T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mhesselbarth.rbind.io/authors/zivanai-tsvuura/</loc>
+    <lastmod>2018-06-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mhesselbarth.rbind.io/categories/</loc>
+    <priority>0</priority>
+  </url>
   
 </urlset>

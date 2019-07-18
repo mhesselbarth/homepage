@@ -1,77 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on M.H.K. Hesselbarth Research</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on M.H.K. Hesselbarth Research</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Tags on M.H.K. Hesselbarth</title>
+    <link>https://mhesselbarth.rbind.io/tags/</link>
+    <description>Recent content in Tags on M.H.K. Hesselbarth</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://mhesselbarth.rbind.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Content tagged as &#39;Academic&#39;</title>
-      <link>/tags/academic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/academic/</guid>
-      <description>Here is a list of all the content that has been tagged as academic.</description>
-    </item>
     
     <item>
-      <title>Other</title>
-      <link>/tags/other/</link>
-      <pubDate>Wed, 08 Aug 2018 00:00:00 +0200</pubDate>
+      <title>other</title>
+      <link>https://mhesselbarth.rbind.io/tags/other/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/other/</guid>
+      <guid>https://mhesselbarth.rbind.io/tags/other/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Plot</title>
-      <link>/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>r</title>
+      <link>https://mhesselbarth.rbind.io/tags/r/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/plot/</guid>
+      <guid>https://mhesselbarth.rbind.io/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>R</title>
-      <link>/tags/r/</link>
-      <pubDate>Tue, 26 Mar 2019 00:00:00 +0100</pubDate>
+      <title>research</title>
+      <link>https://mhesselbarth.rbind.io/tags/research/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/r-markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Regression</title>
-      <link>/tags/regression/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/regression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>/tags/research/</link>
-      <pubDate>Tue, 12 Jun 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/research/</guid>
+      <guid>https://mhesselbarth.rbind.io/tags/research/</guid>
       <description></description>
     </item>
     
