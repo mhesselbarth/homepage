@@ -1,8 +1,8 @@
 ---
-date: "2019-07-18"
+date: "2019-08-05"
 external_link: ""
 image:
-  caption: landscapemetrics 
+  caption: onpoint 
   focal_point: Smart
 links: 
 slides: 
@@ -11,7 +11,7 @@ links:
   icon_pack: fas
   name: Homepage
   url: https://r-spatialecology.github.io/onpoint/
-summary: Landscape Metrics for Categorical Map Patterns
+summary: Helper functions for point pattern analysis
 tags: ["r"]
 title: onpoint
 url_code: ""

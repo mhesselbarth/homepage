@@ -7,10 +7,20 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Hesselbarth {year}</copyright>
-    <lastBuildDate>Thu, 18 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://mhesselbarth.rbind.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>onpoint</title>
+      <link>https://mhesselbarth.rbind.io/project/onpoint/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mhesselbarth.rbind.io/project/onpoint/</guid>
+      <description>&lt;p&gt;Growing collection of small helper functions for point pattern analysis. Most functions are designed to work with the spatstat package.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>landscapemetrics</title>
@@ -19,16 +29,6 @@
       
       <guid>https://mhesselbarth.rbind.io/project/landscapemetrics/</guid>
       <description>&lt;p&gt;Calculates landscape metrics for categorical landscape patterns in a tidy workflow. &amp;lsquo;landscapemetrics&amp;rsquo; reimplements the most common metrics from &lt;a href=&#34;https://www.umass.edu/landeco/research/fragstats/fragstats.html&#34; target=&#34;_blank&#34;&gt;&amp;lsquo;FRAGSTATS&amp;rsquo;&lt;/a&gt; and new ones from the current literature on landscape metrics. This package supports &amp;lsquo;raster&amp;rsquo; spatial objects and takes RasterLayer, RasterStacks, RasterBricks or lists of RasterLayer from the &amp;lsquo;raster&amp;rsquo; package as input arguments. It further provides utility functions to visualize patches, select metrics and building blocks to develop new metrics.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>onpoint</title>
-      <link>https://mhesselbarth.rbind.io/project/onpoint/</link>
-      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mhesselbarth.rbind.io/project/onpoint/</guid>
-      <description>&lt;p&gt;Growing collection of small helper functions for point pattern analysis. Most functions are designed to work with the spatstat package.&lt;/p&gt;
 </description>
     </item>
     

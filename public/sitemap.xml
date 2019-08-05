@@ -3,31 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mhesselbarth.rbind.io/project/idessa/</loc>
-    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mhesselbarth.rbind.io/</loc>
-    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mhesselbarth.rbind.io/project/</loc>
-    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mhesselbarth.rbind.io/tags/</loc>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mhesselbarth.rbind.io/project/onpoint/</loc>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mhesselbarth.rbind.io/tags/r/</loc>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mhesselbarth.rbind.io/project/idessa/</loc>
+    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://mhesselbarth.rbind.io/project/rtg-1644/</loc>
     <lastmod>2019-07-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mhesselbarth.rbind.io/tags/</loc>
-    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -41,18 +52,7 @@
   </url>
   
   <url>
-    <loc>https://mhesselbarth.rbind.io/project/onpoint/</loc>
-    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mhesselbarth.rbind.io/tags/other/</loc>
-    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mhesselbarth.rbind.io/tags/r/</loc>
     <lastmod>2019-07-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
