@@ -59,8 +59,8 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = ""
-phone = "+49 551 3933824"
-address = "Room 0.129, Buesgenweg 4, 37077 Goettingen, Germany"
+phone = "+49 551 39-20637"
+address = "Room 0.126, Buesgenweg 4, 37077 Goettingen, Germany"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
