@@ -28,7 +28,7 @@
       <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://mhesselbarth.rbind.io/project/landscapemetrics/</guid>
-      <description>&lt;p&gt;Calculates landscape metrics for categorical landscape patterns in a tidy workflow. &amp;lsquo;landscapemetrics&amp;rsquo; reimplements the most common metrics from &lt;a href=&#34;https://www.umass.edu/landeco/research/fragstats/fragstats.html&#34; target=&#34;_blank&#34;&gt;&amp;lsquo;FRAGSTATS&amp;rsquo;&lt;/a&gt; and new ones from the current literature on landscape metrics. This package supports &amp;lsquo;raster&amp;rsquo; spatial objects and takes RasterLayer, RasterStacks, RasterBricks or lists of RasterLayer from the &amp;lsquo;raster&amp;rsquo; package as input arguments. It further provides utility functions to visualize patches, select metrics and building blocks to develop new metrics.&lt;/p&gt;
+      <description>&lt;p&gt;Calculates landscape metrics for categorical landscape patterns in a tidy workflow. &amp;lsquo;landscapemetrics&amp;rsquo; reimplements the most common metrics from &lt;a href=&#34;https://www.umass.edu/landeco/research/fragstats/fragstats.html&#34;&gt;&amp;lsquo;FRAGSTATS&amp;rsquo;&lt;/a&gt; and new ones from the current literature on landscape metrics. This package supports &amp;lsquo;raster&amp;rsquo; spatial objects and takes RasterLayer, RasterStacks, RasterBricks or lists of RasterLayer from the &amp;lsquo;raster&amp;rsquo; package as input arguments. It further provides utility functions to visualize patches, select metrics and building blocks to develop new metrics.&lt;/p&gt;
 </description>
     </item>
     
@@ -38,7 +38,7 @@
       <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://mhesselbarth.rbind.io/project/shar/</guid>
-      <description>&lt;p&gt;Analyse species-habitat associations in R. Therefore, information about the location of the species is needed and about the environmental conditions. To test for significance habitat associations, one of the two components is randomized.  Methods are mainly based on Plotkin et al. (2000) &lt;a href=&#34;doi:10.1006/jtbi.2000.2158&#34; target=&#34;_blank&#34;&gt;doi:10.1006/jtbi.2000.2158&lt;/a&gt; and Harms et al. (2001) &lt;a href=&#34;doi:10.1111/j.1365-2745.2001.00615.x&#34; target=&#34;_blank&#34;&gt;doi:10.1111/j.1365-2745.2001.00615.x&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Analyse species-habitat associations in R. Therefore, information about the location of the species is needed and about the environmental conditions. To test for significance habitat associations, one of the two components is randomized.  Methods are mainly based on Plotkin et al. (2000) &lt;a href=&#34;doi:10.1006/jtbi.2000.2158&#34;&gt;doi:10.1006/jtbi.2000.2158&lt;/a&gt; and Harms et al. (2001) &lt;a href=&#34;doi:10.1111/j.1365-2745.2001.00615.x&#34;&gt;doi:10.1111/j.1365-2745.2001.00615.x&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
