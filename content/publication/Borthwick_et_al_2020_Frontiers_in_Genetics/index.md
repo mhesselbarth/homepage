@@ -14,8 +14,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-projects: 
-  - landscapemetrics
+projects: ""
 publication: '*Frontiers in Genetics*'
 publication_short: ""
 publication_types: ["2"]
