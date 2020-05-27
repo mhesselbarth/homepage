@@ -17,17 +17,17 @@
   name = "Projects"
   url = "#projects"
   weight = 3
-
-[[main]]
-  name = "Conferences"
-  url = "#conferences"
-  weight = 4
   
 [[main]]
   name = "Poster/Talks"
   url = "#talks"
-  weight = 5
+  weight = 4
 
+[[main]]
+  name = "Conferences"
+  url = "#conferences"
+  weight = 5
+  
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
