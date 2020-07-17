@@ -19,7 +19,7 @@ interests:
 - Individual-based modelling
 - Landscape ecology
 - R
-name: Maximilian H.K. Hesselbarth
+name: Dr. Maximilian H.K. Hesselbarth
 organizations:
 - name: University of Goettingen
   url: "http://www.uni-goettingen.de/"
@@ -46,6 +46,6 @@ user_groups:
 - Visitors
 ---
 
-I am a computational ecologist at the Department of Ecosystem Modelling based at University of Goettingen. I am interested in ecological modelling and especially in considering the spatial explicit characteristics of most ecologicals processes.
+I am a computational ecologist at the Department of Ecosystem Modelling based at University of Goettingen. I am interested in ecological modelling and especially in considering the spatial explicit characteristics of most ecological processes.
 
-My research is mainly focued on how we can use spatial patterns to infer the underlying ecological processes. Mostly, I deal with point pattern analyis and modelling, however, I also have expertise in individual-based modelling and landscape ecology. Lastly, I am always interested in R programming.
+My research is mainly focused on how we can use spatial patterns to infer the underlying ecological processes. Mostly, I deal with point pattern analysis and modelling, however, I also have expertise in individual-based modelling and landscape ecology. Lastly, I am always interested in R programming.
