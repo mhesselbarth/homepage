@@ -21,9 +21,11 @@ interests:
 - R
 name: Dr. Maximilian H.K. Hesselbarth
 organizations:
-- name: University of Goettingen
-  url: "http://www.uni-goettingen.de/"
-role: Computational ecologist
+- name: University of Michigan
+  url: "https://umich.edu"
+- name: Coastal Ecology and Conservation Lab
+  url: "https://www.jacoballgeier.com"
+role: Postdoctoral Fellow
 social:
 - icon: envelope
   icon_pack: fas
@@ -46,6 +48,6 @@ user_groups:
 - Visitors
 ---
 
-I am a computational ecologist at the Department of Ecosystem Modelling based at University of Goettingen. I am interested in ecological modelling and especially in considering the spatial explicit characteristics of most ecological processes.
+I am a computational ecologist at the *Coastal Ecology and Conservation Lab* based at *University of Michigan*. I am interested in ecological modelling and especially in considering the spatial explicit characteristics of most ecological processes.
 
-My research is mainly focused on how we can use spatial patterns to infer the underlying ecological processes. Mostly, I deal with point pattern analysis and modelling, however, I also have expertise in individual-based modelling and landscape ecology. Lastly, I am always interested in R programming.
+My research is mainly focused on how we can use spatial patterns to infer the underlying ecological processes. Mostly, I deal with point pattern analysis and modelling, however, I also have expertise in individual-based modelling and landscape ecology. Lastly, I am always interested in *R* programming.

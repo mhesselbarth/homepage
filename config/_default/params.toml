@@ -59,8 +59,8 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = ""
-phone = "+49 551 39-20637"
-address = "Room 0.126, Buesgenweg 4, 37077 Goettingen, Germany"
+phone = ""
+address = "1105 N University Ave, Ann Arbor, MI 48109, USA (currently working remotely)"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
@@ -90,11 +90,11 @@ contact_links = [
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 1
+map = 2
 map_api_key = ""
-latitude = "51.55931"
-longitude = "9.95773"
-zoom = 15
+latitude = "42.279040"
+longitude = "-83.734533"
+zoom = 14
 
 ############################
 ## Plugins                ##
