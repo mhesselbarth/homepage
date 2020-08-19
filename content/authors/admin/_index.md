@@ -50,4 +50,4 @@ user_groups:
 
 I am a computational ecologist at the *Coastal Ecology and Conservation Lab* based at *University of Michigan*. I am interested in ecological modelling and especially in considering the spatial explicit characteristics of most ecological processes.
 
-My research is mainly focused on how we can use spatial patterns to infer the underlying ecological processes. Mostly, I deal with point pattern analysis and modelling, however, I also have expertise in individual-based modelling and landscape ecology. Lastly, I am always interested in *R* programming.
+My research is mainly focused on how we can use spatial patterns to infer the underlying ecological processes. In this context, I use spatial point pattern analysis, individual-based modelling and landscape ecology. Lastly, I am always interested in *R* programming.
