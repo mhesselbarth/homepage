@@ -26,7 +26,7 @@ tags: []
 title: "Alternative Quantifications of Landscape Complementation to Model Gene Flow in Banded Longhorn Beetles [Typocerus v. velutinus (Olivier)]"
 url_code: https://github.com/mhesselbarth/Borthwick_et_al_2019_Front_Genet
 url_dataset: ""
-url_pdf: https://www.frontiersin.org/article/10.3389/fgene.2020.00307
+url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""

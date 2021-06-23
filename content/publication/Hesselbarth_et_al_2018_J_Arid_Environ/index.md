@@ -26,7 +26,7 @@ tags: []
 title: Density-dependent spatial patterning of woody plants differs between a semi-arid and a mesic savanna in South Africa
 url_code: https://github.com/mhesselbarth/Hesselbarth_et_al_2018_JAE
 url_dataset: ""
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0140196318303422
+url_pdf: ""
 url_poster: ""
 url_project: http://www.idessa.org/
 url_slides: ""
