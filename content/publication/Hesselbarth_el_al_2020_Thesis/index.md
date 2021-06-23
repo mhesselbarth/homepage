@@ -4,7 +4,7 @@ abstract: One of the main goals of ecology is to understand processes underlying
 authors:
 - admin
 date: "2020-05-11"
-doi: ""
+doi: "http://hdl.handle.net/21.11130/00-1735-0000-0005-1391-1"
 featured: false
 image:
   caption: ""
@@ -22,7 +22,7 @@ tags: []
 title: "Analysing and modelling spatial patterns to infer the influence of environmental heterogeneity using point pattern analysis, individual-based simulation modelling and landscape metrics"
 url_code: ""
 url_dataset: ""
-url_pdf: http://hdl.handle.net/21.11130/00-1735-0000-0005-1391-1
+url_pdf: "files/Hesselbarth_2020_Thesis.pdf"
 url_poster: ""
 url_project: "https://www.uni-goettingen.de/en/421237.html"
 url_slides: ""
