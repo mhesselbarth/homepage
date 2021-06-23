@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Hesselbarth {year}</copyright>
-    <lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 May 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://mhesselbarth.rbind.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +15,11 @@
     <item>
       <title></title>
       <link>https://mhesselbarth.rbind.io/authors/admin/</link>
-      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://mhesselbarth.rbind.io/authors/admin/</guid>
       <description>&lt;p&gt;I am a computational ecologist at the &lt;em&gt;Coastal Ecology and Conservation Lab&lt;/em&gt; based at &lt;em&gt;University of Michigan&lt;/em&gt;. I am interested in ecological modelling and especially in considering the spatial explicit characteristics of most ecological processes.&lt;/p&gt;
+
 &lt;p&gt;My research is mainly focused on how we can use spatial patterns to infer the underlying ecological processes. In this context, I use spatial point pattern analysis, individual-based modelling and landscape ecology. Lastly, I am always interested in &lt;em&gt;R&lt;/em&gt; programming.&lt;/p&gt;
 </description>
     </item>
@@ -26,9 +27,27 @@
     <item>
       <title>Jakub Nowosad</title>
       <link>https://mhesselbarth.rbind.io/authors/jakub-nowosad/</link>
-      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://mhesselbarth.rbind.io/authors/jakub-nowosad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Johannes Signer</title>
+      <link>https://mhesselbarth.rbind.io/authors/johannes-signer/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mhesselbarth.rbind.io/authors/johannes-signer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laura J. Graham</title>
+      <link>https://mhesselbarth.rbind.io/authors/laura-j.-graham/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mhesselbarth.rbind.io/authors/laura-j.-graham/</guid>
       <description></description>
     </item>
     

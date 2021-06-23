@@ -1,29 +1,66 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://mhesselbarth.rbind.io/authors/admin/</loc>
-    <lastmod>2020-05-14T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mhesselbarth.rbind.io/publication_types/2/</loc>
+    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mhesselbarth.rbind.io/authors/</loc>
-    <lastmod>2020-05-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mhesselbarth.rbind.io/talk/hesselbarth_et_al_2020_iale/</loc>
-    <lastmod>2020-05-14T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mhesselbarth.rbind.io/authors/jakub-nowosad/</loc>
-    <lastmod>2020-05-14T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mhesselbarth.rbind.io/authors/johannes-signer/</loc>
+    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mhesselbarth.rbind.io/authors/laura-j.-graham/</loc>
+    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mhesselbarth.rbind.io/</loc>
+    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mhesselbarth.rbind.io/publication/hesselbarth_et_al_2021_cler/</loc>
+    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mhesselbarth.rbind.io/publication_types/</loc>
+    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mhesselbarth.rbind.io/publication/</loc>
+    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mhesselbarth.rbind.io/talk/hesselbarth_et_al_2020_iale/</loc>
     <lastmod>2020-05-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -35,6 +72,7 @@
   <url>
     <loc>https://mhesselbarth.rbind.io/publication_types/4/</loc>
     <lastmod>2020-05-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -43,23 +81,9 @@
   </url>
   
   <url>
-    <loc>https://mhesselbarth.rbind.io/publication_types/</loc>
-    <lastmod>2020-05-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mhesselbarth.rbind.io/publication/</loc>
-    <lastmod>2020-05-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mhesselbarth.rbind.io/publication_types/2/</loc>
-    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mhesselbarth.rbind.io/authors/alida-de-flamingh/</loc>
     <lastmod>2020-03-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -70,21 +94,37 @@
   <url>
     <loc>https://mhesselbarth.rbind.io/authors/anjana-parandhaman/</loc>
     <lastmod>2020-03-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mhesselbarth.rbind.io/authors/helene-h.-wagner/</loc>
     <lastmod>2020-03-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mhesselbarth.rbind.io/authors/hossam-e.-m.-abdel-moniem/</loc>
     <lastmod>2020-03-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mhesselbarth.rbind.io/authors/richard-borthwick/</loc>
     <lastmod>2020-03-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mhesselbarth.rbind.io/project/</loc>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mhesselbarth.rbind.io/tags/</loc>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -93,22 +133,23 @@
   </url>
   
   <url>
-    <loc>https://mhesselbarth.rbind.io/project/</loc>
-    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mhesselbarth.rbind.io/tags/r/</loc>
     <lastmod>2019-08-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mhesselbarth.rbind.io/tags/</loc>
-    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mhesselbarth.rbind.io/project/idessa/</loc>
+    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mhesselbarth.rbind.io/project/rtg-1644/</loc>
+    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mhesselbarth.rbind.io/project/phd-project/</loc>
     <lastmod>2019-07-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -120,6 +161,7 @@
   <url>
     <loc>https://mhesselbarth.rbind.io/tags/other/</loc>
     <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -130,11 +172,7 @@
   <url>
     <loc>https://mhesselbarth.rbind.io/tags/research/</loc>
     <lastmod>2019-07-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mhesselbarth.rbind.io/project/rtg-1644/</loc>
-    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -143,18 +181,21 @@
   </url>
   
   <url>
-    <loc>https://mhesselbarth.rbind.io/project/phd-project/</loc>
-    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mhesselbarth.rbind.io/authors/kerstin-wiegand/</loc>
     <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mhesselbarth.rbind.io/authors/kimberly-a.-with/</loc>
     <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mhesselbarth.rbind.io/authors/marco-sciaini/</loc>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -163,17 +204,13 @@
   </url>
   
   <url>
-    <loc>https://mhesselbarth.rbind.io/authors/marco-sciaini/</loc>
-    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+    <loc>https://mhesselbarth.rbind.io/authors/sebastian-hanss/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mhesselbarth.rbind.io/talk/hesselbarth_et_al_2019_iale/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mhesselbarth.rbind.io/authors/sebastian-hanss/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -185,6 +222,7 @@
   <url>
     <loc>https://mhesselbarth.rbind.io/authors/daniel-esser/</loc>
     <lastmod>2018-06-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -195,20 +233,24 @@
   <url>
     <loc>https://mhesselbarth.rbind.io/authors/klaus-kellner/</loc>
     <lastmod>2018-06-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mhesselbarth.rbind.io/authors/niels-dreber/</loc>
     <lastmod>2018-06-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mhesselbarth.rbind.io/authors/zivanai-tsvuura/</loc>
     <lastmod>2018-06-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mhesselbarth.rbind.io/categories/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
