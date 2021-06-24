@@ -47,6 +47,7 @@ slides:
 #   Otherwise, set `projects = ["landscapemetrics"]`.
 projects:
 - phd-project
+- shar
 
 # Enable math on this page?
 math: true

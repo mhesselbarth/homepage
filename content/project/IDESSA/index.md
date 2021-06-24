@@ -2,7 +2,6 @@
 date: "2019-07-18"
 external_link: ""
 image:
-  caption: IDESSA 
   focal_point: Smart
 links: 
 slides: 
@@ -11,7 +10,7 @@ links:
   icon_pack: fas
   name: Homepage
   url: http://www.idessa.org
-summary: An integrative decision support system for sustainable rangeland management in southern African savannas
+summary: Integrative decision support system for sustainable rangeland management in southern African savannas
 tags: ["research"]
 title: IDESSA
 url_code: ""

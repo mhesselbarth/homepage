@@ -2,7 +2,6 @@
 date: "2019-07-18"
 external_link: ""
 image:
-  caption: RTG 1644 
   focal_point: Smart
 links: 
 slides: 
@@ -11,7 +10,7 @@ links:
   icon_pack: fas
   name: Homepage
   url: http://www.uni-goettingen.de/en/156579.html
-summary: The aim of this Research Training Group is to develop solutions to problems of scale that arise in current areas of both scientiﬁc and public interest
+summary: Research Training Group to develop solutions to problems of scale
 tags: ["other"]
 title: Scaling Problems in Statistics
 url_code: ""

@@ -2,7 +2,6 @@
 date: "2019-07-18"
 external_link: ""
 image:
-  caption: r-spatialecology 
   focal_point: Smart
 links: 
 slides: 
@@ -11,7 +10,7 @@ links:
   icon_pack: fas
   name: Homepage
   url: https://github.com/r-spatialecology
-summary: A GitHub organization for spatially explicit ecological R packages
+summary: GitHub organization for spatially explicit ecological R packages
 tags: ["other"]
 title: r-spatialecology
 url_code: ""

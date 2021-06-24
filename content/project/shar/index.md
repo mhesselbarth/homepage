@@ -2,7 +2,6 @@
 date: "2019-07-18"
 external_link: ""
 image:
-  caption: landscapemetrics 
   focal_point: Smart
 links: 
 slides: 

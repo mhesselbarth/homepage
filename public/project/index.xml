@@ -7,10 +7,36 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Hesselbarth {year}</copyright>
-    <lastBuildDate>Mon, 05 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://mhesselbarth.rbind.io/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Coastal Ecology and Conservation</title>
+      <link>https://mhesselbarth.rbind.io/project/coastal-ecology/</link>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mhesselbarth.rbind.io/project/coastal-ecology/</guid>
+      <description>&lt;p&gt;The research is focused on how human-induced changes alter how ecosystems function and the services that they provide. Three primary questions drive much of the research:&lt;/p&gt;
+
+&lt;p&gt;1) What is the role of biodiversity and community structure in mediating ecosystem function, particularly in the context of global anthropogenic change?&lt;/p&gt;
+
+&lt;p&gt;2) Can artificial reefs be effective tools for fisheries and coral reef restoration?&lt;/p&gt;
+
+&lt;p&gt;3) What is the ecological relevance of trait variation (e.g., behavior) among individuals within populations?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>arrR</title>
+      <link>https://mhesselbarth.rbind.io/project/arrr/</link>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mhesselbarth.rbind.io/project/arrr/</guid>
+      <description>&lt;p&gt;Stay tuned!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>onpoint</title>

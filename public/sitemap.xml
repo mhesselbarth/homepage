@@ -3,6 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mhesselbarth.rbind.io/project/coastal-ecology/</loc>
+    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mhesselbarth.rbind.io/</loc>
+    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mhesselbarth.rbind.io/project/</loc>
+    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mhesselbarth.rbind.io/tags/</loc>
+    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mhesselbarth.rbind.io/project/arrr/</loc>
+    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mhesselbarth.rbind.io/tags/r/</loc>
+    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mhesselbarth.rbind.io/tags/research/</loc>
+    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://mhesselbarth.rbind.io/authors/admin/</loc>
     <lastmod>2021-05-05T00:00:00+00:00</lastmod>
   </url>
@@ -33,12 +73,6 @@
   
   <url>
     <loc>https://mhesselbarth.rbind.io/authors/laura-j.-graham/</loc>
-    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mhesselbarth.rbind.io/</loc>
     <lastmod>2021-05-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -116,26 +150,8 @@
   </url>
   
   <url>
-    <loc>https://mhesselbarth.rbind.io/project/</loc>
-    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mhesselbarth.rbind.io/tags/</loc>
-    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://mhesselbarth.rbind.io/project/onpoint/</loc>
     <lastmod>2019-08-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mhesselbarth.rbind.io/tags/r/</loc>
-    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -167,12 +183,6 @@
   <url>
     <loc>https://mhesselbarth.rbind.io/project/r-spatialecology/</loc>
     <lastmod>2019-07-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mhesselbarth.rbind.io/tags/research/</loc>
-    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

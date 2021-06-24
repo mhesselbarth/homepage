@@ -2,7 +2,6 @@
 date: "2019-08-05"
 external_link: ""
 image:
-  caption: onpoint 
   focal_point: Smart
 links: 
 slides: 
