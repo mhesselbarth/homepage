@@ -4,7 +4,7 @@ authors:
 bio: Ecological Modelling
 education:
   courses:
-  - course: PhD in Ecology
+  - course: Ph.D. in Ecology
     institution: University of Goettigen (Goettingen, Germany)
     year: 2020
   - course: M.Sc. in Ecosystem Modelling
