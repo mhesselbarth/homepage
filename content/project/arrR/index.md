@@ -9,7 +9,7 @@ links:
 - icon: laptop
   icon_pack: fas
   name: Homepage
-  url: https://github.com/Allgeier-Lab/arrR
+  url: https://allgeier-lab.github.io/arrR/
 summary: Individual-based simulation model
 tags: ["r"]
 title: arrR
