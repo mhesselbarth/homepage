@@ -10,6 +10,8 @@ image:
   focal_point: ""
   preview_only: false
 projects: 
+  - shar
+  - phd-project
 publication: "*Journal of Open Source Software*"
 publication_short: ""
 publication_types: ["2"]

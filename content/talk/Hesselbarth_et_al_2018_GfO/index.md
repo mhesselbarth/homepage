@@ -46,8 +46,8 @@ slides:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = ["landscapemetrics"]`.
 projects:
-- phd-project
-- shar
+  - shar
+  - phd-project
 
 # Enable math on this page?
 math: true
