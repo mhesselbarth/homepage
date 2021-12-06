@@ -15,7 +15,7 @@ image:
   preview_only: false
 projects: 
   - landscapemetrics
-publication: '*Ecography*'
+publication: "*Ecography*"
 publication_short: ""
 publication_types: ["2"]
 publishDate: "2019-07-02"
@@ -23,11 +23,11 @@ slides: ""
 summary: ""
 tags: []
 title: "landscapemetrics: an open‐source R tool to calculate landscape metrics"
-url_code: https://github.com/mhesselbarth/Hesselbarth_et_al_2019_Ecography
+url_code: "https://github.com/mhesselbarth/Hesselbarth_et_al_2019_Ecography"
 url_dataset: ""
 url_pdf: "files/Hesselbarth_et_al_2019_Ecography.pdf"
 url_poster: ""
-url_project: https://r-spatialecology.github.io/landscapemetrics/
+url_project: "https://r-spatialecology.github.io/landscapemetrics/"
 url_slides: ""
 url_source: ""
 url_video: ""

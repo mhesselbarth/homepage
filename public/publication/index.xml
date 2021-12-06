@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Hesselbarth {year}</copyright>
-    <lastBuildDate>Wed, 05 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://mhesselbarth.rbind.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>shar: An R package to analyze species-habitat associations using point pattern analysis</title>
+      <link>https://mhesselbarth.rbind.io/publication/hesselbarth_2021_joss/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mhesselbarth.rbind.io/publication/hesselbarth_2021_joss/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Open-source Tools in R for Landscape Ecology</title>

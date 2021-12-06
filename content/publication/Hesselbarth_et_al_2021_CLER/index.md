@@ -13,7 +13,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: 
-publication: '*Current Landscape Ecology Reports*'
+publication: "*Current Landscape Ecology Reports*"
 publication_short: ""
 publication_types: ["2"]
 publishDate: "2021-06-22"
@@ -21,7 +21,7 @@ slides: ""
 summary: ""
 tags: []
 title: "Open-source Tools in R for Landscape Ecology"
-url_code: https://github.com/r-spatialecology/Hesselbarth_et_al_CLER
+url_code: "https://github.com/r-spatialecology/Hesselbarth_et_al_CLER"
 url_dataset: ""
 url_pdf: "files/Hesselbarth_et_al_2021_Current_Landscape_Ecology_Reports.pdf"
 url_poster: ""

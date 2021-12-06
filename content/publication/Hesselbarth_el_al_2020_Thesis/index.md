@@ -12,7 +12,7 @@ image:
   preview_only: false
 projects: 
   - phd-project
-publication: 'Dissertation'
+publication: "Dissertation"
 publication_short: ""
 publication_types: ["4"]
 publishDate: "2020-05-11"
