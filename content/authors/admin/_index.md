@@ -19,7 +19,7 @@ interests:
 - Individual-based modelling
 - Landscape ecology
 - R
-name: Maximilian H.K. Hesselbarth
+name: Maximilian H.K. Hesselbarth (he/him/his)
 organizations:
 - name: University of Michigan
   url: "https://umich.edu"
