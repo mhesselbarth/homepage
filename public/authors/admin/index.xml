@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Hesselbarth {year}</copyright>
-    <lastBuildDate>Mon, 06 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Apr 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://mhesselbarth.rbind.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mechanistic support for increased primary production around artificial reefs</title>
+      <link>https://mhesselbarth.rbind.io/publication/esquivel_et_al_2022_ecolappl/</link>
+      <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mhesselbarth.rbind.io/publication/esquivel_et_al_2022_ecolappl/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>shar: An R package to analyze species-habitat associations using point pattern analysis</title>
@@ -96,7 +105,7 @@
     <item>
       <title></title>
       <link>https://mhesselbarth.rbind.io/authors/admin/</link>
-      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://mhesselbarth.rbind.io/authors/admin/</guid>
       <description>&lt;p&gt;Hi, my name is Max (&lt;em&gt;he/him/his&lt;/em&gt;) and I am a computational ecologist at the &lt;em&gt;Coastal Ecology and Conservation Lab&lt;/em&gt; based at &lt;em&gt;University of Michigan&lt;/em&gt;. I am interested in ecological modelling and especially in considering the spatial explicit characteristics of most ecological processes.&lt;/p&gt;
