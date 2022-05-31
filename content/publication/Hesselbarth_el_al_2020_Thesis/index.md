@@ -22,7 +22,7 @@ tags: []
 title: "Analysing and modelling spatial patterns to infer the influence of environmental heterogeneity using point pattern analysis, individual-based simulation modelling and landscape metrics"
 url_code: ""
 url_dataset: ""
-url_pdf: "files/Hesselbarth_2020_Thesis.pdf"
+url_pdf: "files/Hesselbarth_2020_University_of_Goettingen.pdf"
 url_poster: ""
 url_project: "https://www.uni-goettingen.de/en/421237.html"
 url_slides: ""

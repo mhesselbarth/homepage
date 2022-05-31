@@ -24,7 +24,7 @@ tags: []
 title: "Mechanistic support for increased primary production around artificial reefs"
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "files/Esquivel_2022_Ecological_Applications.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
