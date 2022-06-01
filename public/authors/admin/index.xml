@@ -14,10 +14,10 @@
     
     <item>
       <title>Mechanistic support for increased primary production around artificial reefs</title>
-      <link>https://mhesselbarth.rbind.io/publication/esquivel_et_al_2022_ecolappl/</link>
+      <link>https://mhesselbarth.rbind.io/publication/esquivel_2022_ecolappl/</link>
       <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mhesselbarth.rbind.io/publication/esquivel_et_al_2022_ecolappl/</guid>
+      <guid>https://mhesselbarth.rbind.io/publication/esquivel_2022_ecolappl/</guid>
       <description></description>
     </item>
     
@@ -32,73 +32,82 @@
     
     <item>
       <title>Open-source Tools in R for Landscape Ecology</title>
-      <link>https://mhesselbarth.rbind.io/publication/hesselbarth_et_al_2021_cler/</link>
+      <link>https://mhesselbarth.rbind.io/publication/hesselbarth_2021_cler/</link>
       <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://mhesselbarth.rbind.io/publication/hesselbarth_et_al_2021_cler/</guid>
+      <guid>https://mhesselbarth.rbind.io/publication/hesselbarth_2021_cler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial patterns in ecology and what we (hopefully) can learn from them</title>
+      <link>https://mhesselbarth.rbind.io/talk/hesselbarth_2021_eeb/</link>
+      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mhesselbarth.rbind.io/talk/hesselbarth_2021_eeb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction to landscape ecology with R</title>
-      <link>https://mhesselbarth.rbind.io/talk/hesselbarth_et_al_2020_iale/</link>
+      <link>https://mhesselbarth.rbind.io/talk/nowosad_2020_iale/</link>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://mhesselbarth.rbind.io/talk/hesselbarth_et_al_2020_iale/</guid>
+      <guid>https://mhesselbarth.rbind.io/talk/nowosad_2020_iale/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysing and modelling spatial patterns to infer the influence of environmental heterogeneity using point pattern analysis, individual-based simulation modelling and landscape metrics</title>
-      <link>https://mhesselbarth.rbind.io/publication/hesselbarth_el_al_2020_thesis/</link>
+      <link>https://mhesselbarth.rbind.io/publication/hesselbarth_2020_university_of_goettingen/</link>
       <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://mhesselbarth.rbind.io/publication/hesselbarth_el_al_2020_thesis/</guid>
+      <guid>https://mhesselbarth.rbind.io/publication/hesselbarth_2020_university_of_goettingen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alternative Quantifications of Landscape Complementation to Model Gene Flow in Banded Longhorn Beetles [Typocerus v. velutinus (Olivier)]</title>
-      <link>https://mhesselbarth.rbind.io/publication/borthwick_et_al_2020_frontiers_in_genetics/</link>
+      <link>https://mhesselbarth.rbind.io/publication/borthwick_2020_frontiers_in_genetics/</link>
       <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://mhesselbarth.rbind.io/publication/borthwick_et_al_2020_frontiers_in_genetics/</guid>
+      <guid>https://mhesselbarth.rbind.io/publication/borthwick_2020_frontiers_in_genetics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>landscapemetrics: an open‐source R tool to calculate landscape metrics</title>
-      <link>https://mhesselbarth.rbind.io/publication/hesselbarth_el_al_2019_ecography/</link>
+      <link>https://mhesselbarth.rbind.io/publication/hesselbarth_2019_ecography/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mhesselbarth.rbind.io/publication/hesselbarth_el_al_2019_ecography/</guid>
+      <guid>https://mhesselbarth.rbind.io/publication/hesselbarth_2019_ecography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>landscapemetrics: introducing a new R tool to characterise landscapes</title>
-      <link>https://mhesselbarth.rbind.io/talk/hesselbarth_et_al_2019_iale/</link>
+      <link>https://mhesselbarth.rbind.io/talk/hesselbarth_2019_iale/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mhesselbarth.rbind.io/talk/hesselbarth_et_al_2019_iale/</guid>
+      <guid>https://mhesselbarth.rbind.io/talk/hesselbarth_2019_iale/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A simulation study comparing methods to analyze species-habitat associations of forest trees</title>
-      <link>https://mhesselbarth.rbind.io/talk/hesselbarth_et_al_2018_gfo/</link>
+      <link>https://mhesselbarth.rbind.io/talk/hesselbarth_2018_gfo/</link>
       <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mhesselbarth.rbind.io/talk/hesselbarth_et_al_2018_gfo/</guid>
+      <guid>https://mhesselbarth.rbind.io/talk/hesselbarth_2018_gfo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Density-dependent spatial patterning of woody plants differs between a semi-arid and a mesic savanna in South Africa</title>
-      <link>https://mhesselbarth.rbind.io/publication/hesselbarth_et_al_2018_j_arid_environ/</link>
+      <link>https://mhesselbarth.rbind.io/publication/hesselbarth_2018_j_arid_environ/</link>
       <pubDate>Fri, 08 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mhesselbarth.rbind.io/publication/hesselbarth_et_al_2018_j_arid_environ/</guid>
+      <guid>https://mhesselbarth.rbind.io/publication/hesselbarth_2018_j_arid_environ/</guid>
       <description></description>
     </item>
     

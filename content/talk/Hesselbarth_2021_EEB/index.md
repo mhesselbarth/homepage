@@ -1,23 +1,22 @@
 ---
-title: "A simulation study comparing methods to analyze species-habitat associations of forest trees"
-event: 48th Annual Meeting of the Ecological Society of Germany, Austria and Switzerland
-event_url:
-location: Vienna, Austria
-summary: An example talk using Academic's Markdown slides feature.
-abstract: "Studying small-scale habitat associations of tree populations can give insights into the importance of abiotic processes shaping the spatial patterning them. There is no consensus about the importance of abiotic processes for these patterns. Apart from ecological reasons, the perceived strength of species-habitat associations may also depend on the methods used. Therefore, we analyzed species-habitat associations of simulated patterns using methods proposed in the literature and one novel method, namely pattern reconstruction."
+title: "Spatial patterns in ecology and what we (hopefully) can learn from them"
+event: Ecology and Evolutionary Biology Department Seminar
+event_url: https://lsa.umich.edu/eeb
+location: Ann Arbor, USA
+summary:
+abstract:
 
 # Talk start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
-date: "2018-09-10"
-date_end: "2018-09-14"
+date: "2021-03-18"
+# date_end: "2021-03-18"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2019-07-18"
+publishDate: "2020-05-27"
 
 authors:
 - admin
-- Kerstin Wiegand
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -29,7 +28,7 @@ image:
 
 links:
 url_code: ""
-url_pdf: "files/Poster_GfO_2018.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
@@ -46,7 +45,10 @@ slides:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = ["landscapemetrics"]`.
 projects:
-  - shar
+  - arrR
+  - coastal-ecology
+  - r-spatialecology
+  - rtg-1644
   - phd-project
 
 # Enable math on this page?

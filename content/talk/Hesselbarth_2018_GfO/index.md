@@ -1,15 +1,15 @@
 ---
-title: "landscapemetrics: introducing a new R tool to characterise landscapes"
-event: 10th World Congress International Association of Landscape Ecology
-event_url: http://www.iale2019.unimib.it/
-location: Milano, Italy
-summary: An example talk using Academic's Markdown slides feature.
-abstract: "Landscape metrics are used to characterize landscape patterns and link them to ecological processes. Until now, there is no comprehensive collection of landscape metrics available in R. landscapemetrics is the first R package that includes most of the commonly employed landscape metrics found in the ecological literature. This allows reproducible and transparent workflows within the same software environment, including pre-processing of data, calculation of landscape metrics, and further analysis or plotting of the results."
+title: "A simulation study comparing methods to analyze species-habitat associations of forest trees"
+event: 48th Annual Meeting of the Ecological Society of Germany, Austria and Switzerland
+event_url:
+location: Vienna, Austria
+summary:
+abstract: "Studying small-scale habitat associations of tree populations can give insights into the importance of abiotic processes shaping the spatial patterning them. There is no consensus about the importance of abiotic processes for these patterns. Apart from ecological reasons, the perceived strength of species-habitat associations may also depend on the methods used. Therefore, we analyzed species-habitat associations of simulated patterns using methods proposed in the literature and one novel method, namely pattern reconstruction."
 
 # Talk start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-07-01"
-date_end: "2019-07-05"
+date: "2018-09-10"
+date_end: "2018-09-14"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -17,9 +17,7 @@ publishDate: "2019-07-18"
 
 authors:
 - admin
-- Marco Sciaini
-- Jakub Nowosad
-- Sebastian Hanss
+- Kerstin Wiegand
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -31,7 +29,7 @@ image:
 
 links:
 url_code: ""
-url_pdf: "files/Poster_IALE_2019.pdf"
+url_pdf: "files/Poster_GfO_2018.pdf"
 url_slides: ""
 url_video: ""
 
@@ -48,7 +46,7 @@ slides:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = ["landscapemetrics"]`.
 projects:
-  - landscapemetrics
+  - shar
   - phd-project
 
 # Enable math on this page?

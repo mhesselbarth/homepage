@@ -3,7 +3,7 @@ title: "Introduction to landscape ecology with R"
 event: Annual Meeting International Association of Landscape Ecology North America
 event_url: http://www.ialena.org/annual-meeting.html
 location: Toronto, Canada (virtually)
-summary: An example talk using Academic's Markdown slides feature.
+summary:
 abstract: "R is a free, open-source programming language created as an environment for statistical computing and visualization. The advantages of using R include its flexibility, ease of collaboration, and focus on reproducibility. Additionally, the concept of packages - collections of R functions, data, and compiled code created by users - allowed for the growth of its capabilities and expansion into many scientific fields. In recent years, R also has become one of the most often used tools in ecology.
 
 R also has a long history of supporting spatial data analysis, including spatial data downloading, preprocessing, visualizing, and modeling. Recently, however, some new packages have appeared which have significantly changed the work with spatial data in R; in particular, the sf package.
@@ -15,7 +15,7 @@ The workshop will be a mixture of theoretical and practical. Pointers to further
 # Talk start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
 date: "2020-05-14"
-date_end: "2020-05-14"
+# date_end: "2020-05-14"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
