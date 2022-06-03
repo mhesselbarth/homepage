@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sebastian Hanss on M.H.K. Hesselbarth</title>
-    <link>https://mhesselbarth.rbind.io/authors/sebastian-hanss/</link>
+    <link>https://www.maxhesselbarth.com/authors/sebastian-hanss/</link>
     <description>Recent content in Sebastian Hanss on M.H.K. Hesselbarth</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Hesselbarth {year}</copyright>
     <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://mhesselbarth.rbind.io/authors/sebastian-hanss/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://www.maxhesselbarth.com/authors/sebastian-hanss/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>landscapemetrics: introducing a new R tool to characterise landscapes</title>
-      <link>https://mhesselbarth.rbind.io/talk/hesselbarth_2019_iale/</link>
+      <link>https://www.maxhesselbarth.com/talk/hesselbarth_2019_iale/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mhesselbarth.rbind.io/talk/hesselbarth_2019_iale/</guid>
+      <guid>https://www.maxhesselbarth.com/talk/hesselbarth_2019_iale/</guid>
       <description></description>
     </item>
     

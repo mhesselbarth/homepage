@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on M.H.K. Hesselbarth</title>
-    <link>https://mhesselbarth.rbind.io/talk/</link>
+    <link>https://www.maxhesselbarth.com/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on M.H.K. Hesselbarth</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Hesselbarth {year}</copyright>
     <lastBuildDate>Thu, 18 Mar 2021 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://mhesselbarth.rbind.io/talk/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://www.maxhesselbarth.com/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Spatial patterns in ecology and what we (hopefully) can learn from them</title>
-      <link>https://mhesselbarth.rbind.io/talk/hesselbarth_2021_eeb/</link>
+      <link>https://www.maxhesselbarth.com/talk/hesselbarth_2021_eeb/</link>
       <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://mhesselbarth.rbind.io/talk/hesselbarth_2021_eeb/</guid>
+      <guid>https://www.maxhesselbarth.com/talk/hesselbarth_2021_eeb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction to landscape ecology with R</title>
-      <link>https://mhesselbarth.rbind.io/talk/nowosad_2020_iale/</link>
+      <link>https://www.maxhesselbarth.com/talk/nowosad_2020_iale/</link>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://mhesselbarth.rbind.io/talk/nowosad_2020_iale/</guid>
+      <guid>https://www.maxhesselbarth.com/talk/nowosad_2020_iale/</guid>
       <description></description>
     </item>
     
     <item>
       <title>landscapemetrics: introducing a new R tool to characterise landscapes</title>
-      <link>https://mhesselbarth.rbind.io/talk/hesselbarth_2019_iale/</link>
+      <link>https://www.maxhesselbarth.com/talk/hesselbarth_2019_iale/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mhesselbarth.rbind.io/talk/hesselbarth_2019_iale/</guid>
+      <guid>https://www.maxhesselbarth.com/talk/hesselbarth_2019_iale/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A simulation study comparing methods to analyze species-habitat associations of forest trees</title>
-      <link>https://mhesselbarth.rbind.io/talk/hesselbarth_2018_gfo/</link>
+      <link>https://www.maxhesselbarth.com/talk/hesselbarth_2018_gfo/</link>
       <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mhesselbarth.rbind.io/talk/hesselbarth_2018_gfo/</guid>
+      <guid>https://www.maxhesselbarth.com/talk/hesselbarth_2018_gfo/</guid>
       <description></description>
     </item>
     

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>research on M.H.K. Hesselbarth</title>
-    <link>https://mhesselbarth.rbind.io/tags/research/</link>
+    <link>https://www.maxhesselbarth.com/tags/research/</link>
     <description>Recent content in research on M.H.K. Hesselbarth</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Hesselbarth {year}</copyright>
     <lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://mhesselbarth.rbind.io/tags/research/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://www.maxhesselbarth.com/tags/research/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Coastal Ecology and Conservation</title>
-      <link>https://mhesselbarth.rbind.io/project/coastal-ecology/</link>
+      <link>https://www.maxhesselbarth.com/project/coastal-ecology/</link>
       <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://mhesselbarth.rbind.io/project/coastal-ecology/</guid>
+      <guid>https://www.maxhesselbarth.com/project/coastal-ecology/</guid>
       <description>&lt;p&gt;The research is focused on how human-induced changes alter how ecosystems function and the services that they provide. Three primary questions drive much of the research:&lt;/p&gt;
 
 &lt;p&gt;1) What is the role of biodiversity and community structure in mediating ecosystem function, particularly in the context of global anthropogenic change?&lt;/p&gt;
@@ -30,20 +30,20 @@
     
     <item>
       <title>IDESSA</title>
-      <link>https://mhesselbarth.rbind.io/project/idessa/</link>
+      <link>https://www.maxhesselbarth.com/project/idessa/</link>
       <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mhesselbarth.rbind.io/project/idessa/</guid>
+      <guid>https://www.maxhesselbarth.com/project/idessa/</guid>
       <description>&lt;p&gt;The increase in density of the woody savanna component is a common form of land degradation in South Africa with serious ecological and economic implications. The tree-grass ratio is determined by a range of interacting factors such as herbivory, fire and rainfall. Certain spatial and temporal combinations of these factors result in the suppression of the grass layer and promotion of woody growth. Related dynamics can be intensified by the regionally increasing atmospheric CO2-levels, which lead to competitive advantages of C3- over C4-plants. If land management does not accommodate these complex interrelated effects, savanna ecosystems loose resilience with a poorly reversible decrease in ecosystem functioning and productivity. At this stage, natural self-thinning processes as part of cyclical succession between open savanna and woody dominance are far beyond an economically feasible time horizon. Land-use practices to mitigate an increase in density of woody plants such as sophisticated spatio-temporal distribution of livestock or game, flexible stocking rates or prescribed burning may be ineffectual, and expensive chemical, mechanical or manual technologies need to be applied to control dense woody stands.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Role of Heterogeneity in Spatial Plant Population Dynamics</title>
-      <link>https://mhesselbarth.rbind.io/project/phd-project/</link>
+      <link>https://www.maxhesselbarth.com/project/phd-project/</link>
       <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mhesselbarth.rbind.io/project/phd-project/</guid>
+      <guid>https://www.maxhesselbarth.com/project/phd-project/</guid>
       <description>&lt;p&gt;The analysis of spatial patterns has become a widely used approach in ecological research (T. Wiegand and Moloney 2014). Spatial patterns in natural systems, e.g. the locations of individuals or other ecological entities (trees, bird nests, molehills, etc.), reflect the underlying ecological processes that cause their distribution in space. The two major groups of processes shaping the spatial distribution of individuals are individual-environment-interactions and individual-individual-interactions. Both have location-dependent effects on regeneration, growth, and mortality. The dichotomy of individual-environment- and individual-individual-interactions is reflected in the distinction between first- and second-order properties of a point pattern in spatial point pattern analysis. A point pattern is a collection of points (&amp;lsquo;events&amp;rsquo;) in an area, for example representing the locations of individual trees in a defined study area. Thus, in this terminology, first-order properties of a point pattern are those that are driven by environmental properties such as the availability of water or soil nutrients, while second-order properties are mainly driven by individual-individual-interactions.&lt;/p&gt;
 
 &lt;p&gt;For years, there was a strong focus on the exclusive study of second-order properties, i.e. on individual-individual-interactions as driven by e.g. tree demography. This was achieved by choosing study areas with homogeneous environmental conditions. In this case, all statistical deviations from average point (tree) density are presumed to be due to second-order properties (i.e., individual-individual-interactions). However, in ecological settings, it is often difficult or impossible to find homogeneous study regions. In addition, first and second-order effects may interact, i.e. plant demography may differ under heterogeneous conditions (Getzin et al. 2008). Therefore, the research focus is now shifting to the study of inhomogeneous point patterns, for example the study of the spatial distribution of tree individuals in heterogeneous environmental conditions. Most current studies operate with indirect measures of environmental heterogeneity, in case of forests mostly the density of adult trees (e.g., Getzin et al. 2008) and topography (e.g., Bagchi et al. 2009). Density of adult trees is a measure of heterogeneity in natural forests because survival of trees into adulthood correlates with habitat suitability. Topography can be an indirect descriptor of soil moisture distribution and large scale light and temperature conditions.&lt;/p&gt;
