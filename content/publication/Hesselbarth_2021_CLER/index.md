@@ -15,7 +15,8 @@ image:
 projects: 
 publication: "*Current Landscape Ecology Reports*"
 publication_short: ""
-publication_types: ["2"]
+publication_types:
+- "2"
 publishDate: "2021-06-22"
 slides: ""
 summary: ""

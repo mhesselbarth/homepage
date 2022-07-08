@@ -3,13 +3,16 @@ date: "2021-06-24"
 external_link: ""
 image:
   focal_point: Smart
-links: 
-slides: 
 links:
 - icon: laptop
   icon_pack: fas
   name: Homepage
   url: https://www.jacoballgeier.com
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/AllgeierLab
+slides:
 summary: Applying ecological theory to help solve real-world conservation problems
 tags: ["research"]
 title: Coastal Ecology and Conservation

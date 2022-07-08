@@ -3,13 +3,12 @@ date: "2019-07-18"
 external_link: ""
 image:
   focal_point: Smart
-links: 
-slides: 
 links:
 - icon: laptop
   icon_pack: fas
   name: Homepage
   url: http://www.uni-goettingen.de/en/421237.html
+slides:
 summary: PhD project studying the role of small-scale heterogeneity on plant populations
 tags: ["research"]
 title: The Role of Heterogeneity in Spatial Plant Population Dynamics

@@ -1,43 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on M.H.K. Hesselbarth</title>
+    <title>Tags | M.H.K. Hesselbarth</title>
     <link>https://www.maxhesselbarth.com/tags/</link>
-    <description>Recent content in Tags on M.H.K. Hesselbarth</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Hesselbarth {year}</copyright>
-    <lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://www.maxhesselbarth.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>r</title>
-      <link>https://www.maxhesselbarth.com/tags/r/</link>
-      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.maxhesselbarth.com/tags/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>research</title>
-      <link>https://www.maxhesselbarth.com/tags/research/</link>
-      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.maxhesselbarth.com/tags/research/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>other</title>
-      <link>https://www.maxhesselbarth.com/tags/other/</link>
-      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.maxhesselbarth.com/tags/other/</guid>
-      <description></description>
-    </item>
+      <atom:link href="https://www.maxhesselbarth.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.maxhesselbarth.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Tags</title>
+      <link>https://www.maxhesselbarth.com/tags/</link>
+    </image>
     
   </channel>
 </rss>

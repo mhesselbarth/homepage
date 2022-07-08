@@ -3,13 +3,12 @@ date: "2019-07-18"
 external_link: ""
 image:
   focal_point: Smart
-links: 
-slides: 
 links:
 - icon: laptop
   icon_pack: fas
   name: Homepage
   url: https://r-spatialecology.github.io/shar/
+slides:
 summary: Species-Habitat Associations in R
 tags: ["r"]
 title: shar

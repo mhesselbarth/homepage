@@ -1,0 +1,41 @@
+# Theme metadata
+name = "my_theme"
+
+[light]
+  # Primary
+  primary = "#e76254"
+  
+  # Menu
+  menu_primary = "#1e466e"
+  menu_text = "#ffd06e"
+  menu_text_active = "#ffffff"
+  menu_title = "#e76254"
+
+  # Home sections
+  home_section_odd = "#ffe6b7"
+  home_section_even = "#aadce0"
+
+[dark]
+  # Primary
+  primary = "#e76254"
+
+  link = "#f7aa58"
+  link_hover = "#f7aa58"
+
+# Sailboat
+# 707db5 - dark blue 
+# 88bbd1 - lightblue 
+# d4e0b5 - green
+# f0dba1 - yellow
+# dea087 - organe
+# c6878d - red
+
+# Hirosghe 
+# 1e466e - darkblue
+# 518fad - blue
+# aadce0 - turquioise
+# ffe6b7 - lightyellow
+# ffd06e - yellow
+# f7aa58 - orange
+# ef8a47 - dark-orange
+# e76254 - red

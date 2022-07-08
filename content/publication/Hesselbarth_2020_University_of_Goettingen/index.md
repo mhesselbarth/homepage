@@ -14,7 +14,8 @@ projects:
   - phd-project
 publication: "Dissertation"
 publication_short: ""
-publication_types: ["4"]
+publication_types: 
+- "4"
 publishDate: "2020-05-11"
 slides: ""
 summary: ""

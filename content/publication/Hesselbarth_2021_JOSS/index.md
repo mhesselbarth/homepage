@@ -14,7 +14,8 @@ projects:
   - phd-project
 publication: "*Journal of Open Source Software*"
 publication_short: ""
-publication_types: ["2"]
+publication_types:
+- "2"
 publishDate: "2021-12-06"
 slides: ""
 summary: ""

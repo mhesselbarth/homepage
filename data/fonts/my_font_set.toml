@@ -1,0 +1,11 @@
+# Font style metadata
+name = "my_font_set"
+
+# Optional Google font URL
+google_fonts = "family=Edu+SA+Beginner&family=Quicksand:wght@400&family=Ubuntu:wght@400&display=swap"
+
+# Font families
+heading_font = "Ubuntu"
+body_font = "Quicksand"
+nav_font = "Ubuntu"
+mono_font = ""

@@ -18,7 +18,8 @@ projects:
   - IDESSA
 publication: "*Journal of Arid Environments*"
 publication_short: ""
-publication_types: ["2"]
+publication_types:
+- "2"
 publishDate: "2018-06-08"
 slides: ""
 summary: ""

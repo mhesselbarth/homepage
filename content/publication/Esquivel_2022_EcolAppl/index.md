@@ -16,7 +16,8 @@ projects:
   - coastal-ecology
 publication: "*Ecological Applications*"
 publication_short: ""
-publication_types: ["2"]
+publication_types:
+- "2"
 publishDate: "2022-04-03"
 slides: ""
 summary: ""

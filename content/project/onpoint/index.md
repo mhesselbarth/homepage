@@ -3,13 +3,12 @@ date: "2019-08-05"
 external_link: ""
 image:
   focal_point: Smart
-links: 
-slides: 
 links:
 - icon: laptop
   icon_pack: fas
   name: Homepage
   url: https://r-spatialecology.github.io/onpoint/
+slides:
 summary: Helper functions for point pattern analysis
 tags: ["r"]
 title: onpoint
