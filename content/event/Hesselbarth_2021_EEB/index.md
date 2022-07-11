@@ -11,7 +11,7 @@ featured: false
 image:
 links:
 location: Ann Arbor, USA
-projects: [arrR, coastal-ecology, r-spatialecology, rtg-1644, phd-project]
+projects: [coastal-ecology, phd-project]
 publishDate:
 slides:
 summary:
@@ -19,6 +19,6 @@ tags: []
 title: Spatial patterns in ecology and what we (hopefully) can learn from them
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "files/Hesselbarth-2021-EEB.pdf"
 url_video: ""
 ---

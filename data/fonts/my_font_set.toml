@@ -2,10 +2,10 @@
 name = "my_font_set"
 
 # Optional Google font URL
-google_fonts = "family=Edu+SA+Beginner&family=Quicksand:wght@400&family=Ubuntu:wght@400&display=swap"
+google_fonts = "family=Edu+SA+Beginner&family=Montserrat&family=Ubuntu+Mono&family=Ubuntu:wght@400&display=swap"
 
 # Font families
-heading_font = "Ubuntu"
-body_font = "Quicksand"
-nav_font = "Ubuntu"
-mono_font = ""
+heading_font = "Edu SA Beginner"
+body_font = "Ubuntu"
+nav_font = "Montserrat"
+mono_font = "Ubuntu Mono"
