@@ -15,12 +15,12 @@ name = "my_theme"
   home_section_odd = "#ffe6b7"
   home_section_even = "#aadce0"
 
-[dark]
-  # Primary
-  primary = "#e76254"
+#[dark]
+#  # Primary
+#  primary = "#e76254"
 
-  link = "#f7aa58"
-  link_hover = "#f7aa58"
+#  link = "#f7aa58"
+#  link_hover = "#f7aa58"
 
 # Sailboat
 # 707db5 - dark blue 
