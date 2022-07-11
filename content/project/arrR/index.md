@@ -3,13 +3,12 @@ date: "2021-06-24"
 external_link: ""
 image:
   focal_point: Smart
-links: 
-slides: 
 links:
 - icon: laptop
   icon_pack: fas
   name: Homepage
   url: https://allgeier-lab.github.io/arrR/
+slides:
 summary: Individual-based simulation model
 tags: ["r"]
 title: arrR
@@ -19,4 +18,4 @@ url_slides: ""
 url_video: ""
 ---
 
-Stay tuned!
+Individual-based simulation model to analyze how artificial reefs in combination with fish individuals influence seagrass primary production.

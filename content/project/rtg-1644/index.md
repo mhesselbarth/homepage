@@ -3,13 +3,12 @@ date: "2019-07-18"
 external_link: ""
 image:
   focal_point: Smart
-links: 
-slides: 
 links:
 - icon: laptop
   icon_pack: fas
   name: Homepage
   url: http://www.uni-goettingen.de/en/156579.html
+slides:
 summary: Research Training Group to develop solutions to problems of scale
 tags: ["other"]
 title: Scaling Problems in Statistics

@@ -18,7 +18,8 @@ projects:
   - phd-project
 publication: "*Ecography*"
 publication_short: ""
-publication_types: ["2"]
+publication_types:
+- "2"
 publishDate: "2019-07-02"
 slides: ""
 summary: ""

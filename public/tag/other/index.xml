@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>other | M.H.K. Hesselbarth</title>
+    <link>https://www.maxhesselbarth.com/tag/other/</link>
+      <atom:link href="https://www.maxhesselbarth.com/tag/other/index.xml" rel="self" type="application/rss+xml" />
+    <description>other</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.maxhesselbarth.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>other</title>
+      <link>https://www.maxhesselbarth.com/tag/other/</link>
+    </image>
+    
+    <item>
+      <title>r-spatialecology</title>
+      <link>https://www.maxhesselbarth.com/project/r-spatialecology/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.maxhesselbarth.com/project/r-spatialecology/</guid>
+      <description>&lt;p&gt;The main purpose of r-spatialecology is to collect several R packages for spatial explicit ecological analysis. Please contact me if you want to contribute a package. Of course, you will still be author/maintainer of the package will all control and ownership.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scaling Problems in Statistics</title>
+      <link>https://www.maxhesselbarth.com/project/rtg-1644/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.maxhesselbarth.com/project/rtg-1644/</guid>
+      <description>&lt;p&gt;Choosing an adequate statistical model for an applied problem is the ﬁrst and often most difficult step in any empirical data analysis. In many practical applications, the statistical behaviour of spatial or temporal data depends particularly on the chosen scale, and the data are fitted to different, sometimes contradicting models across scales. The aim of this Research Training Group is to develop solutions to problems of scale that arise in current areas of both scientific and public interest. This comprises the identification of adequate methods and their modfication as well as the development of new statistical models and methodology.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
