@@ -35,8 +35,8 @@ content:
     country: United States
     country_code: US
   coordinates:
-    latitude: '42.279040'
-    longitude: '-83.734533'
+    latitude: '42.278896'
+    longitude: '-83.734497'
   directions: 3002 Biological Sciences Building
   office_hours:
   appointment_url:

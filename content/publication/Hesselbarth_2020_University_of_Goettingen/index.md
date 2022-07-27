@@ -11,7 +11,6 @@ image:
   focal_point: ""
   preview_only: false
 projects: 
-  - phd-project
 publication: "Dissertation"
 publication_short: ""
 publication_types: 

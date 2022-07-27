@@ -15,7 +15,6 @@ image:
   focal_point: ""
   preview_only: false
 projects: 
-  - IDESSA
 publication: "*Journal of Arid Environments*"
 publication_short: ""
 publication_types:

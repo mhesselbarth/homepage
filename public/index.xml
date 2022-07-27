@@ -29,7 +29,7 @@
     </item>
     
     <item>
-      <title>shar: An R package to analyze species-habitat associations using point pattern analysis</title>
+      <title>shar: an R package to analyze species-habitat associations using point pattern analysis</title>
       <link>https://www.maxhesselbarth.com/publication/hesselbarth_2021_joss/</link>
       <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://www.maxhesselbarth.com/publication/hesselbarth_2021_joss/</guid>
@@ -46,27 +46,7 @@
     </item>
     
     <item>
-      <title>Coastal Ecology and Conservation</title>
-      <link>https://www.maxhesselbarth.com/project/coastal-ecology/</link>
-      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.maxhesselbarth.com/project/coastal-ecology/</guid>
-      <description>&lt;p&gt;The research is focused on how human-induced changes alter how ecosystems function and the services that they provide. Three primary questions drive much of the research:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;What is the role of biodiversity and community structure in mediating ecosystem function, particularly in the context of global anthropogenic change?&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Can artificial reefs be effective tools for fisheries and coral reef restoration?&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;What is the ecological relevance of trait variation (e.g., behavior) among individuals within populations?&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Open-source Tools in R for Landscape Ecology</title>
+      <title>Open-source tools in R for landscape ecology</title>
       <link>https://www.maxhesselbarth.com/publication/hesselbarth_2021_cler/</link>
       <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
       <guid>https://www.maxhesselbarth.com/publication/hesselbarth_2021_cler/</guid>
@@ -98,7 +78,7 @@
     </item>
     
     <item>
-      <title>Alternative Quantifications of Landscape Complementation to Model Gene Flow in Banded Longhorn Beetles [Typocerus v. velutinus (Olivier)]</title>
+      <title>Alternative quantifications of landscape complementation to model gene flow in Banded Longhorn Beetles [Typocerus v. velutinus (Olivier)]</title>
       <link>https://www.maxhesselbarth.com/publication/borthwick_2020_frontiers_in_genetics/</link>
       <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://www.maxhesselbarth.com/publication/borthwick_2020_frontiers_in_genetics/</guid>
@@ -115,15 +95,6 @@
     </item>
     
     <item>
-      <title>IDESSA</title>
-      <link>https://www.maxhesselbarth.com/project/idessa/</link>
-      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.maxhesselbarth.com/project/idessa/</guid>
-      <description>&lt;p&gt;The increase in density of the woody savanna component is a common form of land degradation in South Africa with serious ecological and economic implications. The tree-grass ratio is determined by a range of interacting factors such as herbivory, fire and rainfall. Certain spatial and temporal combinations of these factors result in the suppression of the grass layer and promotion of woody growth. Related dynamics can be intensified by the regionally increasing atmospheric CO2-levels, which lead to competitive advantages of C3- over C4-plants. If land management does not accommodate these complex interrelated effects, savanna ecosystems loose resilience with a poorly reversible decrease in ecosystem functioning and productivity. At this stage, natural self-thinning processes as part of cyclical succession between open savanna and woody dominance are far beyond an economically feasible time horizon. Land-use practices to mitigate an increase in density of woody plants such as sophisticated spatio-temporal distribution of livestock or game, flexible stocking rates or prescribed burning may be ineffectual, and expensive chemical, mechanical or manual technologies need to be applied to control dense woody stands.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>landscapemetrics</title>
       <link>https://www.maxhesselbarth.com/project/landscapemetrics/</link>
       <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
@@ -133,49 +104,11 @@
     </item>
     
     <item>
-      <title>r-spatialecology</title>
-      <link>https://www.maxhesselbarth.com/project/r-spatialecology/</link>
-      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.maxhesselbarth.com/project/r-spatialecology/</guid>
-      <description>&lt;p&gt;The main purpose of r-spatialecology is to collect several R packages for spatial explicit ecological analysis. Please contact me if you want to contribute a package. Of course, you will still be author/maintainer of the package will all control and ownership.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Scaling Problems in Statistics</title>
-      <link>https://www.maxhesselbarth.com/project/rtg-1644/</link>
-      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.maxhesselbarth.com/project/rtg-1644/</guid>
-      <description>&lt;p&gt;Choosing an adequate statistical model for an applied problem is the ﬁrst and often most difficult step in any empirical data analysis. In many practical applications, the statistical behaviour of spatial or temporal data depends particularly on the chosen scale, and the data are fitted to different, sometimes contradicting models across scales. The aim of this Research Training Group is to develop solutions to problems of scale that arise in current areas of both scientific and public interest. This comprises the identification of adequate methods and their modfication as well as the development of new statistical models and methodology.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>shar</title>
       <link>https://www.maxhesselbarth.com/project/shar/</link>
       <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://www.maxhesselbarth.com/project/shar/</guid>
       <description>&lt;p&gt;Analyse species-habitat associations in R. Therefore, information about the location of the species is needed and about the environmental conditions. To test for significance habitat associations, one of the two components is randomized.  Methods are mainly based on Plotkin &lt;em&gt;et al.&lt;/em&gt; (2000) and Harms &lt;em&gt;et al.&lt;/em&gt; (2001).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Role of Heterogeneity in Spatial Plant Population Dynamics</title>
-      <link>https://www.maxhesselbarth.com/project/phd-project/</link>
-      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.maxhesselbarth.com/project/phd-project/</guid>
-      <description>&lt;p&gt;The analysis of spatial patterns has become a widely used approach in ecological research (T. Wiegand and Moloney 2014). Spatial patterns in natural systems, e.g. the locations of individuals or other ecological entities (trees, bird nests, molehills, etc.), reflect the underlying ecological processes that cause their distribution in space. The two major groups of processes shaping the spatial distribution of individuals are individual-environment-interactions and individual-individual-interactions. Both have location-dependent effects on regeneration, growth, and mortality. The dichotomy of individual-environment- and individual-individual-interactions is reflected in the distinction between first- and second-order properties of a point pattern in spatial point pattern analysis. A point pattern is a collection of points (&amp;rsquo;events&amp;rsquo;) in an area, for example representing the locations of individual trees in a defined study area. Thus, in this terminology, first-order properties of a point pattern are those that are driven by environmental properties such as the availability of water or soil nutrients, while second-order properties are mainly driven by individual-individual-interactions.&lt;/p&gt;
-&lt;p&gt;For years, there was a strong focus on the exclusive study of second-order properties, i.e. on individual-individual-interactions as driven by e.g. tree demography. This was achieved by choosing study areas with homogeneous environmental conditions. In this case, all statistical deviations from average point (tree) density are presumed to be due to second-order properties (i.e., individual-individual-interactions). However, in ecological settings, it is often difficult or impossible to find homogeneous study regions. In addition, first and second-order effects may interact, i.e. plant demography may differ under heterogeneous conditions (Getzin et al. 2008). Therefore, the research focus is now shifting to the study of inhomogeneous point patterns, for example the study of the spatial distribution of tree individuals in heterogeneous environmental conditions. Most current studies operate with indirect measures of environmental heterogeneity, in case of forests mostly the density of adult trees (e.g., Getzin et al. 2008) and topography (e.g., Bagchi et al. 2009). Density of adult trees is a measure of heterogeneity in natural forests because survival of trees into adulthood correlates with habitat suitability. Topography can be an indirect descriptor of soil moisture distribution and large scale light and temperature conditions.&lt;/p&gt;
-&lt;p&gt;In the first cohort, the characteristic spatial scales of growth and competition were calculated in a near-natural mixed beech forest in the Hainich National Park, taking first- and second-order properties into account (cf. Saefken et al., 2014). The spatial tree distribution in 28.5 ha of this forest has been fully mapped in 1999 and 2007 and a third census was recently completed (about 15 000 trees &amp;gt;1.3 m; Huss 2006, Holzwarth et al. 2013). These data were kindly provided by our collaborator Christian Wirth. In addition, a previous RTG student mapped environmental homogeneity based on direct measurements of soil properties (e.g., water-storage capacity), distribution of vegetation smaller than 1.30 m height (including Ellenberg indicator values), light distribution, and distribution of woody debris. Furthermore, we have a digital elevation model at our perusal.&lt;/p&gt;
-&lt;p&gt;In the third cohort, we will intensify the study of the role of first-order properties for spatial point pattern analysis. A central goal will be to understand the scaling properties of different direct and indirect measures of heterogeneity, their interrelationships, and their effect on characteristic spatial scales of tree demography. Taking advantage of the data collected in the first cohort, and continuing our collaboration with Christian Wirth (expert in forest ecology) and Kirk Moloney (expert in spatial statistics), we will characterize heterogeneity in properties of soil, forest understory, light distribution and woody debris. Where meaningful, we will repeat field measurements and/or use simulated test environments. Central questions will be: What are the characteristic spatial scales of these measures of habitat heterogeneity and how do characteristic scales differ between measures? How can we combine different measures of heterogeneity (i.e., different data layers) to predict competition, growth, and mortality of forest trees most elegantly? Are density of adult trees and topography suitable descriptors of heterogeneity for the prediction of tree demography (as frequently assumed) or are explicit descriptors required? The space-time context of the last questions will be facilitated by the fact that tree data will be available for three tree censuses. To the best of our knowledge, this will be the first study in a temperate forest with an extensive focus on direct measures of heterogeneity in ecological point pattern analysis (for a subtropical system see Zhang et al. 2011).&lt;/p&gt;
-&lt;p&gt;References:&lt;/p&gt;
-&lt;p&gt;Bagchi, R., Henrys, P.A., Brown, C.J., et al. (2009). Spatial patterns reveal negative density dependence and habitat associations in tropical trees. - Ecology 92: 1723-1729.&lt;/p&gt;
-&lt;p&gt;Getzin, S., Wiegand, T., Wiegand, K. and He, F. (2008). Heterogeneity influences spatial patterns and demographics in forest stands. - Journal of Ecology 96: 807-820.&lt;/p&gt;
-&lt;p&gt;Holzwarth, F.M., Kahn, A., Bauhus, J., &amp;amp; Wirth, C. (2012). Many ways to die - partitioning tree mortality dynamics in a near natural mixed deciduous forest. Journal of Ecology, 101, 220-230.&lt;/p&gt;
-&lt;p&gt;Huss, J. and Butler-Manning, D. (2006). Entwicklungsdynamik eines buchendominierten &amp;ldquo;Naturwald&amp;rdquo;-Dauerbeobachtungsbestands auf Kalk im Nationalpark Hainich/Thüringen. - Wäldökologie Online 3: 67-81.&lt;/p&gt;
-&lt;p&gt;Saefken B., Kneib T., Van Waveren C.-S. and Greven S. (2014) A unifying upproach to the estimation of the conditional Akaike information in generalized linear mixed models. Electronic Journal of Statistics 8, 201-225. doi:10.1214/14-EJS881.&lt;/p&gt;
-&lt;p&gt;Wiegand, T., Moloney, K.A., (2014): Handbook of spatial point-pattern analysis in ecology Chapman &amp;amp; Hall / CRDC applied environmental statistics 9 CRC Press / Taylor &amp;amp; Francis, Boca Raton, FL, 538 pp.&lt;/p&gt;
-&lt;p&gt;Zhang, L., Mi, X., Shao, H., &amp;amp; Ma, K. (2011). Strong plant-soil associations in a heterogenous subtropical broad-leaved forest. Plant and Soil, 347, 211-220.&lt;/p&gt;
 </description>
     </item>
     

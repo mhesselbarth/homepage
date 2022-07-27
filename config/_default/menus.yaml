@@ -13,7 +13,7 @@ main:
   - name: Poster/Talks
     url: '#talks'
     weight: 3
-  - name: Projects
+  - name: Software
     url: '#projects'
     weight: 4
   - name: CV

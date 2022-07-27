@@ -13,7 +13,6 @@ image:
   preview_only: false
 projects: 
   - arrR
-  - coastal-ecology
 publication: "*Ecological Applications*"
 publication_short: ""
 publication_types:

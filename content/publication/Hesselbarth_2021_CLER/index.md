@@ -21,7 +21,7 @@ publishDate: "2021-06-22"
 slides: ""
 summary: ""
 tags: []
-title: "Open-source Tools in R for Landscape Ecology"
+title: "Open-source tools in R for landscape ecology"
 url_code: "https://github.com/r-spatialecology/Hesselbarth_et_al_CLER"
 url_dataset: ""
 url_pdf: "files/Hesselbarth_2021_Current_Landscape_Ecology_Reports_6_3.pdf"

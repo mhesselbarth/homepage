@@ -15,7 +15,6 @@ image:
   preview_only: false
 projects: 
   - landscapemetrics
-  - phd-project
 publication: "*Ecography*"
 publication_short: ""
 publication_types:

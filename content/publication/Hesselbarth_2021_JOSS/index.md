@@ -11,7 +11,6 @@ image:
   preview_only: false
 projects: 
   - shar
-  - phd-project
 publication: "*Journal of Open Source Software*"
 publication_short: ""
 publication_types:
@@ -20,7 +19,7 @@ publishDate: "2021-12-06"
 slides: ""
 summary: ""
 tags: []
-title: "shar: An R package to analyze species-habitat associations using point pattern analysis"
+title: "shar: an R package to analyze species-habitat associations using point pattern analysis"
 url_code: "https://github.com/r-spatialecology/shar"
 url_dataset: ""
 url_pdf: "files/Hesselbarth_2021_Journal_of_Open_Source_Software_6_68.pdf"
