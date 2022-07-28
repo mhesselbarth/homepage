@@ -1,5 +1,5 @@
 ---
-date: "2021-06-24"
+date: ""
 external_link: ""
 image:
   focal_point: Smart

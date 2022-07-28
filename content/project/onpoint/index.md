@@ -1,5 +1,5 @@
 ---
-date: "2019-08-05"
+date: ""
 external_link: ""
 image:
   focal_point: Smart

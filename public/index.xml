@@ -37,15 +37,6 @@
     </item>
     
     <item>
-      <title>arrR</title>
-      <link>https://www.maxhesselbarth.com/project/arrr/</link>
-      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.maxhesselbarth.com/project/arrr/</guid>
-      <description>&lt;p&gt;Individual-based simulation model to analyze how artificial reefs in combination with fish individuals influence seagrass primary production.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Open-source tools in R for landscape ecology</title>
       <link>https://www.maxhesselbarth.com/publication/hesselbarth_2021_cler/</link>
       <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
@@ -83,33 +74,6 @@
       <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://www.maxhesselbarth.com/publication/borthwick_2020_frontiers_in_genetics/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>onpoint</title>
-      <link>https://www.maxhesselbarth.com/project/onpoint/</link>
-      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.maxhesselbarth.com/project/onpoint/</guid>
-      <description>&lt;p&gt;Growing collection of small helper functions for point pattern analysis. Most functions are designed to work with the spatstat package.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>landscapemetrics</title>
-      <link>https://www.maxhesselbarth.com/project/landscapemetrics/</link>
-      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.maxhesselbarth.com/project/landscapemetrics/</guid>
-      <description>&lt;p&gt;Calculates landscape metrics for categorical landscape patterns in a tidy workflow. &amp;rsquo;landscapemetrics&amp;rsquo; reimplements the most common metrics from &lt;a href=&#34;https://www.umass.edu/landeco/research/fragstats/fragstats.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;FRAGSTATS&amp;rsquo;&lt;/a&gt; and new ones from the current literature on landscape metrics. This package supports &amp;lsquo;raster&amp;rsquo; spatial objects and takes RasterLayer, RasterStacks, RasterBricks or lists of RasterLayer from the &amp;lsquo;raster&amp;rsquo; package as input arguments. It further provides utility functions to visualize patches, select metrics and building blocks to develop new metrics.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>shar</title>
-      <link>https://www.maxhesselbarth.com/project/shar/</link>
-      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.maxhesselbarth.com/project/shar/</guid>
-      <description>&lt;p&gt;Analyse species-habitat associations in R. Therefore, information about the location of the species is needed and about the environmental conditions. To test for significance habitat associations, one of the two components is randomized.  Methods are mainly based on Plotkin &lt;em&gt;et al.&lt;/em&gt; (2000) and Harms &lt;em&gt;et al.&lt;/em&gt; (2001).&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -153,6 +117,42 @@
     </item>
     
     <item>
+      <title>arrR</title>
+      <link>https://www.maxhesselbarth.com/project/arrr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.maxhesselbarth.com/project/arrr/</guid>
+      <description>&lt;p&gt;Individual-based simulation model to analyze how artificial reefs in combination with fish individuals influence seagrass primary production.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>landscapemetrics</title>
+      <link>https://www.maxhesselbarth.com/project/landscapemetrics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.maxhesselbarth.com/project/landscapemetrics/</guid>
+      <description>&lt;p&gt;Calculates landscape metrics for categorical landscape patterns in a tidy workflow. &amp;rsquo;landscapemetrics&amp;rsquo; reimplements the most common metrics from &lt;a href=&#34;https://www.umass.edu/landeco/research/fragstats/fragstats.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;FRAGSTATS&amp;rsquo;&lt;/a&gt; and new ones from the current literature on landscape metrics. This package supports &amp;lsquo;raster&amp;rsquo; spatial objects and takes RasterLayer, RasterStacks, RasterBricks or lists of RasterLayer from the &amp;lsquo;raster&amp;rsquo; package as input arguments. It further provides utility functions to visualize patches, select metrics and building blocks to develop new metrics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NLMR</title>
+      <link>https://www.maxhesselbarth.com/project/nlmr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.maxhesselbarth.com/project/nlmr/</guid>
+      <description>&lt;p&gt;&amp;lsquo;NLMR&amp;rsquo; combines a large number of algorithms from other published software for simulating neutral landscapes. The simulation results are obtained in a spatial data format (raster* objects from the &amp;lsquo;raster&amp;rsquo; package) and can, therefore, be used in any sort of raster data operation that is performed with standard observation data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>onpoint</title>
+      <link>https://www.maxhesselbarth.com/project/onpoint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.maxhesselbarth.com/project/onpoint/</guid>
+      <description>&lt;p&gt;Growing collection of small helper functions for point pattern analysis. Most functions are designed to work with the spatstat package.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Privacy Policy</title>
       <link>https://www.maxhesselbarth.com/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -163,6 +163,24 @@
 &lt;p&gt;Since no personal information is collected by me, there is nothing I can share.&lt;/p&gt;
 &lt;h1 id=&#34;use-of-your-personal-information&#34;&gt;Use of your personal information&lt;/h1&gt;
 &lt;p&gt;The collected and aggregated personal data by Google Analytics (e.g., browser type, version and language, operating system) might be used by me to gauge visitor traffic and trends.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>shar</title>
+      <link>https://www.maxhesselbarth.com/project/shar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.maxhesselbarth.com/project/shar/</guid>
+      <description>&lt;p&gt;Analyse species-habitat associations in R. Therefore, information about the location of the species is needed and about the environmental conditions. To test for significance habitat associations, one of the two components is randomized.  Methods are mainly based on Plotkin &lt;em&gt;et al.&lt;/em&gt; (2000) and Harms &lt;em&gt;et al.&lt;/em&gt; (2001).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>shar</title>
+      <link>https://www.maxhesselbarth.com/project/spectre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.maxhesselbarth.com/project/spectre/</guid>
+      <description>&lt;p&gt;Predict regional community composition at a fine spatial resolution using only sparse biological and environmental data. The package is based on the DynamicFOAM algorithm described  in Mokany &lt;em&gt;et al.&lt;/em&gt; (2011)&lt;/p&gt;
 </description>
     </item>
     
