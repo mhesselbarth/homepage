@@ -48,3 +48,6 @@ format:
   html:
     theme: [cosmo, custom.scss]
     toc: false
+
+execute:
+  freeze: auto
