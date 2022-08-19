@@ -2,7 +2,10 @@
 title: "Publications"
 listing:
   contents: publications
-  type: grid
+  type: table
+  sort: "date desc"
+  date-format: short
+  fields: [image, date, title]
 ---
 
-Here you can find all list of all my publications.
+Here you can find a list of all my publications.

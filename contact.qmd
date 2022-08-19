@@ -2,17 +2,11 @@
 title: "Contact"
 ---
 
-<i class="bi bi-envelope"></i> [mhk.hesselbarth@gmail.com](mailto:mhk.hesselbarth@gmail.com)
+{{< fa envelope >}} [mhk.hesselbarth \<at\> gmail.com](mailto:mhk.hesselbarth@gmail.com)
 
-<i class="bi bi-compass"></i> 1105 N University Ave, Ann Arbor, MI 48109 
+{{< fa compass >}} 1105 N University Ave, Ann Arbor, MI 48109 
 
-<i class="bi bi-building"></i> 3002 Biological Sciences Building
-
-<br>
-
-<i class="bi bi-twitter"></i> [@MHKHesselbarth](https://twitter.com/mhkhesselbarth)
-
-<i class="bi bi-github"></i> [GitHub](https://github.com/mhesselbarth)
+{{< fa building >}} 3002 Biological Sciences Building
 
 <br>
 

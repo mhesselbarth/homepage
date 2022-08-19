@@ -1,0 +1,11 @@
+---
+title: "onpoint"
+subtitle: "Helper functions for point pattern analysis"
+image: featured.png
+---
+
+{{< fa brands internet-explorer >}} [Homepage](https://r-spatialecology.github.io/onpoint/)
+
+![](featured.png){fig-align="center"}
+
+Growing collection of small helper functions for point pattern analysis. Most functions are designed to work with the spatstat package.

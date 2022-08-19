@@ -8,8 +8,8 @@ website:
   site-url: "https://www.maxhesselbarth.com"
   
   # general options
-  search: false
-  favicon: "images/favicon.png"
+  search: true
+  favicon: "images/icon.png"
   
   # github links
   repo-url: https://github.com/mhesselbarth/homepage/
@@ -22,26 +22,29 @@ website:
   
   # navigation bar
   navbar:
-    background: "#28466b"
     logo: "images/icon.png"
     left:
+      - href: index.qmd
+        text: Home
+    right:
       - href: publications.qmd
         text: Publications
+      - href: talks.qmd
+        text: Poster & Talks
+      - href: software.qmd
+        text: Software
       - href: cv.qmd
         text: CV
-    right:
       - href: contact.qmd
         text: Contact
         
   # page footer
   page-footer:
-    background: "#b4dbdf"
     left: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
     right: "&copy; Copyright 2022 M.H.K. Hesselbarth [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
 
 # format 
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    toc: true
+    theme: [cosmo, custom.scss]
+    toc: false

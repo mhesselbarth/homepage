@@ -1,0 +1,11 @@
+---
+title: "NLMR"
+subtitle: "Simulating Neutral Landscape Models"
+image: featured.png
+---
+
+{{< fa brands internet-explorer >}} [Homepage](https://github.com/ropensci/NLMR)
+
+![](featured.png){fig-align="center"}
+
+'NLMR' combines a large number of algorithms from other published software for simulating neutral landscapes. The simulation results are obtained in a spatial data format (raster* objects from the 'raster' package) and can, therefore, be used in any sort of raster data operation that is performed with standard observation data.

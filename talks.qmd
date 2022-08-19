@@ -1,0 +1,31 @@
+---
+title: "Poster & Talks"
+---
+
+{{< fa comment >}} **Introduction to R workshop** [Slides](https://mhesselbarth.github.io/introduction-r-workshop/)
+
+Jun 30, 2022 — Jul 1, 2022  Ann Arbor, USA
+
+<!-- <br> -->
+
+{{< fa comment >}} **Spatial patterns in ecology and what we (hopefully) can learn from them** [Slides](files/Hesselbarth-2021-EEB.pdf)
+
+Mar 18, 2021  Ann Arbor, USA
+
+<!-- <br> -->
+
+{{< fa comment >}} **Introduction to landscape ecology with R** [Slides](https://r-spatialecology.github.io/ialena-2020/), [Video](https://www.youtube.com/watch?v=jtAxJ-S89qI)
+
+May 14, 2020  Toronto, Canada (virtually)
+
+<!-- <br> -->
+
+{{< fa file-image >}} **landscapemetrics. Introducing a new R tool to characterise landscapes** [PDF](files/Poster_IALE_2019.pdf)
+
+Jul 1, 2019 — Jul 5, 2019  Milano, Italy
+
+<!-- <br> -->
+
+{{< fa file-image >}} **A simulation study comparing methods to analyze species-habitat associations of forest trees** [PDF](files/Poster_GfO_2018.pdf)
+
+Sep 10, 2018 — Sep 14, 2018  Vienna, Austria

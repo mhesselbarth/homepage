@@ -2,26 +2,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.maxhesselbarth.com/contact.html</loc>
-    <lastmod>2022-08-19T15:09:27.629Z</lastmod>
+    <lastmod>2022-08-19T19:21:41.185Z</lastmod>
   </url>
   <url>
-    <loc>https://www.maxhesselbarth.com/about.html</loc>
-    <lastmod>2022-08-19T13:25:18.911Z</lastmod>
+    <loc>https://www.maxhesselbarth.com/talks.html</loc>
+    <lastmod>2022-08-19T19:21:41.639Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.maxhesselbarth.com/publications/Hesselbarth_2019_Ecography/Ecography.html</loc>
+    <lastmod>2022-08-19T19:21:42.102Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.maxhesselbarth.com/publications/Borthwick_2020_FrontiersGenetics/FrontiersGenetics.html</loc>
+    <lastmod>2022-08-19T19:21:42.543Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.maxhesselbarth.com/publications/Hesselbarth_2021_CLER/CLER.html</loc>
+    <lastmod>2022-08-19T19:21:42.923Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.maxhesselbarth.com/publications/Esquivel_2022_EcolAppl/EcolAppl.html</loc>
+    <lastmod>2022-08-19T19:21:43.329Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.maxhesselbarth.com/publications/Hesselbarth_2020_Goettingen/Goettingen.html</loc>
+    <lastmod>2022-08-19T19:21:43.734Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.maxhesselbarth.com/publications/Hesselbarth_2021_JOSS/JOSS.html</loc>
+    <lastmod>2022-08-19T19:21:44.081Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.maxhesselbarth.com/publications/Hesselbarth_2018_JAridEnviron/JAridEnviron.html</loc>
+    <lastmod>2022-08-19T19:21:44.460Z</lastmod>
   </url>
   <url>
     <loc>https://www.maxhesselbarth.com/index.html</loc>
-    <lastmod>2022-08-19T14:49:18.545Z</lastmod>
+    <lastmod>2022-08-19T19:21:44.854Z</lastmod>
   </url>
   <url>
-    <loc>https://www.maxhesselbarth.com/cv.html</loc>
-    <lastmod>2022-08-19T14:55:28.574Z</lastmod>
+    <loc>https://www.maxhesselbarth.com/software/onpoint/onpoint.html</loc>
+    <lastmod>2022-08-19T19:21:45.192Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.maxhesselbarth.com/software/NLMR/NLMR.html</loc>
+    <lastmod>2022-08-19T19:21:45.528Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.maxhesselbarth.com/software/arrR/arrr.html</loc>
+    <lastmod>2022-08-19T19:21:45.858Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.maxhesselbarth.com/software/spectre/spectre.html</loc>
+    <lastmod>2022-08-19T19:21:46.296Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.maxhesselbarth.com/software/shar/shar.html</loc>
+    <lastmod>2022-08-19T19:21:46.704Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.maxhesselbarth.com/software/landscapemetrics/landscapemetrics.html</loc>
+    <lastmod>2022-08-19T19:21:47.103Z</lastmod>
   </url>
   <url>
     <loc>https://www.maxhesselbarth.com/publications.html</loc>
-    <lastmod>2022-08-19T15:14:32.906Z</lastmod>
+    <lastmod>2022-08-19T19:21:47.504Z</lastmod>
   </url>
   <url>
-    <loc>https://www.maxhesselbarth.com/publications/JOSS.html</loc>
-    <lastmod>2022-08-19T15:26:31.416Z</lastmod>
+    <loc>https://www.maxhesselbarth.com/software.html</loc>
+    <lastmod>2022-08-19T19:21:47.888Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.maxhesselbarth.com/cv.html</loc>
+    <lastmod>2022-08-19T19:21:48.198Z</lastmod>
   </url>
 </urlset>

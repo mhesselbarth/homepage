@@ -1,0 +1,11 @@
+---
+title: "spectre"
+summary: "Predict regional community composition"
+image: featured.png
+---
+
+{{< fa brands internet-explorer >}} [Homepage](https://github.com/r-spatialecology/spectre)
+
+![](featured.png){fig-align="center"}
+
+Predict regional community composition at a fine spatial resolution using only sparse biological and environmental data. The package is based on the DynamicFOAM algorithm described  in Mokany _et al._ (2011)
