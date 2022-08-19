@@ -1,0 +1,33 @@
+---
+title: "Biography"
+---
+
+![](images/portrait.jpg){style="float:right;padding: 10 10 10 10px;" width="150"}
+
+Hi, my name is Max (_he/him/his_) and I am a computational ecologist at the _Coastal Ecology and Conservation Lab_ based at _University of Michigan_. I am interested in ecological modelling and especially in considering the spatial explicit characteristics of most ecological processes.
+
+My research is mainly focused on how we can use spatial patterns to infer the underlying ecological processes. In this context, I use spatial point pattern analysis, individual-based modelling and landscape ecology. Lastly, I am always interested in _R_ programming.
+
+## Interests 
+
+<i class="bi bi-three-dots"></i> Point pattern analysis
+
+<i class="bi bi-pc-display-horizontal"></i> Individual-based modelling
+
+<i class="bi bi-map"></i> Landscape ecology
+
+<i class="bi bi-code"></i> R
+
+## Education 
+
+<i class="bi bi-mortarboard-fill"></i> Ph.D. in Ecology, 2020
+
+<span style="color:grey;font-size:small"> University of Goettingen (Goettingen, Germany) </span>
+
+<i class="bi bi-mortarboard-fill"></i> M.Sc. in Ecosystem Modelling, 2016
+
+<span style="color:grey;font-size:small"> University of Goettingen (Goettingen, Germany) </span>
+
+<i class="bi bi-mortarboard-fill"></i> B.Sc. in Forestry, 2014
+
+<span style="color:grey;font-size:small"> University of Applied Sciences and Arts, (Goettingen, Germany) </span>

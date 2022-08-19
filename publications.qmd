@@ -1,0 +1,8 @@
+---
+title: "Publications"
+listing:
+  contents: publications
+  type: grid
+---
+
+Here you can find all list of all my publications.

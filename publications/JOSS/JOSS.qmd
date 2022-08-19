@@ -1,0 +1,16 @@
+---
+title: "shar: an R package to analyze species-habitat associations using point pattern analysis"
+author: "Maximilian H.K. Hesselbarth"
+date: "2021-12-06"
+publication: "*Journal of Open Source Software*"
+image: "featured.jpg"
+---
+
+DOI [10.21105/joss.03811](http://doi.org/10.21105/joss.03811) 
+<i class="bi bi-file-pdf"></i> [PDF](files/Hesselbarth_2021_Journal_of_Open_Source_Software_6_68.pdf) 
+<i class="bi bi-book"></i> [Cite](cite.bib) 
+<i class="bi bi-code"></i> [Code](https://github.com/r-spatialecology/shar)
+
+# Abstract
+
+Studying species-habitat associations is one approach to reveal the importance of abiotic processes in shaping the spatial distribution of species. Even though the R programming language offers many packages for spatial point pattern analysis, currently there is no comprehensive package specifically designed to analyze species-habitat associations. The shar package builds on widely used R packages for spatial analyses and provides an easy and straightforward way to uncover species-habitat associations for discrete environmental data.
