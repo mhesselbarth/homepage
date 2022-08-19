@@ -1,0 +1,11 @@
+---
+title: "Publications"
+listing:
+  contents: publications
+  type: table
+  sort: "date desc"
+  date-format: short
+  fields: [image, date, title]
+---
+
+Here you can find a list of all my publications.

@@ -1,0 +1,11 @@
+---
+title: "shar"
+subtitle: "Species-Habitat Associations in R"
+image: featured.png
+---
+
+{{< fa brands internet-explorer >}} [Homepage](https://r-spatialecology.github.io/shar/)
+
+![](featured.png){fig-align="center"}
+
+Analyse species-habitat associations in R. Therefore, information about the location of the species is needed and about the environmental conditions. To test for significance habitat associations, one of the two components is randomized.  Methods are mainly based on Plotkin _et al._ (2000) and Harms _et al._ (2001).

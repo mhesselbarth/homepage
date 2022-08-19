@@ -1,0 +1,63 @@
+---
+title: ""
+---
+
+## Maximilian H.K. Hesselbarth <span style="color:grey;font-size:50%;"> Postdoctoral Fellow </span>
+
+<img src="images/portrait.jpg" width="265" height="250" style="border-radius: 50%; float:right;">
+
+<!-- <span style="color:#e76254;font-size:150%"> Maximilian H.K. Hesselbarth </span> -->
+<!-- <span style="color:grey;font-size:100%;"> Postdoctoral Fellow </span> -->
+
+[University of Michigan](https://lsa.umich.edu/eeb)
+
+[Coastal Ecology and Conservation Lab](https://www.jacoballgeier.com)
+
+<span style="font-size:150%"> [{{< fa brands twitter >}}](https://twitter.com/mhkhesselbarth) </span>
+<span style="font-size:150%"> [{{< fa brands github >}}](https://github.com/mhesselbarth) </span>
+<span style="font-size:150%"> [{{< fa brands orcid >}}](https://orcid.org/0000-0003-1125-9918) </span>
+<span style="font-size:150%"> [{{< fa brands google >}}](https://scholar.google.com/citations?hl=en&user=PNMHIXAAAAAJ) </span>
+<span style="font-size:150%"> [{{< fa brands researchgate >}}](https://www.researchgate.net/profile/Maximilian_Hesselbarth) </span>
+
+<br>
+
+# Biography
+
+Hi, my name is Max (_he/him/his_) and I am a computational ecologist at the _Coastal Ecology and Conservation Lab_ based at the _University of Michigan_. I am interested in ecological modelling and especially considering the spatial explicit characteristics of most ecological processes.
+
+My research is mainly focused on how we can use spatial patterns to infer the underlying ecological processes. In this context, I use spatial point pattern analysis, individual-based modelling and landscape ecology. Lastly, I am always interested in _R_ programming.
+
+<br>
+
+<div class="row">
+  <div class="column">
+  
+  <span style="font-size:150%"> Interests 
+    
+  {{< fa regular circle-dot >}} Point pattern analysis
+  
+  {{< fa computer >}} Individual-based modelling
+    
+  {{< fa map >}} Landscape ecology
+    
+  {{< fa brands r-project >}} R programming
+  
+  </div>
+  <div class="column">
+  
+  <span style="font-size:150%"> Education 
+
+  {{< fa graduation-cap >}} Ph.D. in Ecology, 2020 
+  
+  <span style="color:grey;font-size:85%"> University of Goettingen (Goettingen, Germany) </span>
+
+  {{< fa graduation-cap >}} M.Sc. in Ecosystem Modelling, 2016 
+  
+  <span style="color:grey;font-size:85%"> University of Goettingen (Goettingen, Germany) </span>
+
+  {{< fa graduation-cap >}} B.Sc. in Forestry, 2014 
+  
+  <span style="color:grey;font-size:85%"> University of Applied Sciences and Arts, (Goettingen, Germany) </span>
+
+  </div>
+</div>

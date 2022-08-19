@@ -1,0 +1,27 @@
+/*-- scss:defaults --*/
+
+// Base document colors
+$body-bg: #fbe6bc;
+$body-color: #000000;
+$link-color: #e76254;
+
+$font-family-sans-serif: "Ubuntu", sans-serif;
+$font-family-serif: "Bree Serif", serif;
+
+$navbar-bg: #28466b;
+$navbar-fg: #e76254;
+
+$sidebar-bg: #b4dbdf;
+$footer-bg: #b4dbdf;
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
