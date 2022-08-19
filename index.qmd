@@ -2,7 +2,7 @@
 title: ""
 ---
 
-## Maximilian H.K. Hesselbarth <span style="color:grey;font-size:50%;"> Postdoctoral Fellow </span>
+# Maximilian H.K. Hesselbarth <span style="color:grey;font-size:50%;"> Postdoctoral Fellow </span>
 
 <img src="images/portrait.jpg" width="265" height="250" style="border-radius: 50%; float:right;">
 
@@ -21,7 +21,7 @@ title: ""
 
 <br>
 
-# Biography
+## Biography
 
 Hi, my name is Max (_he/him/his_) and I am a computational ecologist at the _Coastal Ecology and Conservation Lab_ based at the _University of Michigan_. I am interested in ecological modelling and especially considering the spatial explicit characteristics of most ecological processes.
 
@@ -32,7 +32,7 @@ My research is mainly focused on how we can use spatial patterns to infer the un
 <div class="row">
   <div class="column">
   
-  <span style="font-size:150%"> Interests 
+  <span style="font-size:165%"> Interests 
     
   {{< fa regular circle-dot >}} Point pattern analysis
   
@@ -45,7 +45,7 @@ My research is mainly focused on how we can use spatial patterns to infer the un
   </div>
   <div class="column">
   
-  <span style="font-size:150%"> Education 
+  <span style="font-size:165%"> Education 
 
   {{< fa graduation-cap >}} Ph.D. in Ecology, 2020 
   
