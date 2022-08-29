@@ -6,18 +6,15 @@ title: ""
 
 <img src="images/portrait.jpg" width="265" height="250" style="border-radius: 50%; float:right;">
 
-<!-- <span style="color:#e76254;font-size:150%"> Maximilian H.K. Hesselbarth </span> -->
-<!-- <span style="color:grey;font-size:100%;"> Postdoctoral Fellow </span> -->
-
 [University of Michigan](https://lsa.umich.edu/eeb)
 
 [Coastal Ecology and Conservation Lab](https://www.jacoballgeier.com)
 
-<span style="font-size:150%"> [{{< fa brands twitter >}}](https://twitter.com/mhkhesselbarth) </span>
 <span style="font-size:150%"> [{{< fa brands github >}}](https://github.com/mhesselbarth) </span>
 <span style="font-size:150%"> [{{< fa brands orcid >}}](https://orcid.org/0000-0003-1125-9918) </span>
 <span style="font-size:150%"> [{{< fa brands google >}}](https://scholar.google.com/citations?hl=en&user=PNMHIXAAAAAJ) </span>
 <span style="font-size:150%"> [{{< fa brands researchgate >}}](https://www.researchgate.net/profile/Maximilian_Hesselbarth) </span>
+<span style="font-size:150%"> [{{< fa brands twitter >}}](https://twitter.com/mhkhesselbarth) </span>
 
 <br>
 
@@ -43,6 +40,7 @@ My research is mainly focused on how we can use spatial patterns to infer the un
   {{< fa brands r-project >}} R programming
   
   </div>
+  
   <div class="column">
   
   <span style="font-size:165%"> Education 
