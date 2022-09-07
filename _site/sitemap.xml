@@ -1,51 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.maxhesselbarth.com/work-progress.html</loc>
+    <lastmod>2022-09-07T14:39:27.711Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.maxhesselbarth.com/contact.html</loc>
-    <lastmod>2022-09-07T13:10:40.363Z</lastmod>
+    <lastmod>2022-09-07T14:39:28.141Z</lastmod>
   </url>
   <url>
     <loc>https://www.maxhesselbarth.com/talks.html</loc>
-    <lastmod>2022-09-07T13:10:40.844Z</lastmod>
+    <lastmod>2022-09-07T14:39:28.782Z</lastmod>
   </url>
   <url>
     <loc>https://www.maxhesselbarth.com/index.html</loc>
-    <lastmod>2022-09-07T13:10:41.556Z</lastmod>
+    <lastmod>2022-09-07T14:39:29.231Z</lastmod>
   </url>
   <url>
     <loc>https://www.maxhesselbarth.com/software/onpoint/onpoint.html</loc>
-    <lastmod>2022-09-07T13:10:42.109Z</lastmod>
+    <lastmod>2022-09-07T14:39:29.695Z</lastmod>
   </url>
   <url>
     <loc>https://www.maxhesselbarth.com/software/NLMR/NLMR.html</loc>
-    <lastmod>2022-09-07T13:10:42.535Z</lastmod>
+    <lastmod>2022-09-07T14:39:30.149Z</lastmod>
   </url>
   <url>
     <loc>https://www.maxhesselbarth.com/software/arrR/arrr.html</loc>
-    <lastmod>2022-09-07T13:10:43.035Z</lastmod>
+    <lastmod>2022-09-07T14:39:30.612Z</lastmod>
   </url>
   <url>
     <loc>https://www.maxhesselbarth.com/software/spectre/spectre.html</loc>
-    <lastmod>2022-09-07T13:10:43.428Z</lastmod>
+    <lastmod>2022-09-07T14:39:31.004Z</lastmod>
   </url>
   <url>
     <loc>https://www.maxhesselbarth.com/software/shar/shar.html</loc>
-    <lastmod>2022-09-07T13:10:43.817Z</lastmod>
+    <lastmod>2022-09-07T14:39:31.480Z</lastmod>
   </url>
   <url>
     <loc>https://www.maxhesselbarth.com/software/landscapemetrics/landscapemetrics.html</loc>
-    <lastmod>2022-09-07T13:10:44.200Z</lastmod>
+    <lastmod>2022-09-07T14:39:31.869Z</lastmod>
   </url>
   <url>
     <loc>https://www.maxhesselbarth.com/publications.html</loc>
-    <lastmod>2022-09-07T13:10:44.676Z</lastmod>
+    <lastmod>2022-09-07T14:39:32.336Z</lastmod>
   </url>
   <url>
     <loc>https://www.maxhesselbarth.com/software.html</loc>
-    <lastmod>2022-09-07T13:10:45.161Z</lastmod>
+    <lastmod>2022-09-07T14:39:32.799Z</lastmod>
   </url>
   <url>
     <loc>https://www.maxhesselbarth.com/cv.html</loc>
-    <lastmod>2022-09-07T13:10:45.514Z</lastmod>
+    <lastmod>2022-09-07T14:39:33.192Z</lastmod>
   </url>
 </urlset>

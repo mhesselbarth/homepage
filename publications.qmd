@@ -4,7 +4,7 @@ title: "Publications"
 
 <span style="color:grey;font-size:85%;"> {{< fa file-pdf >}} PDF file &nbsp;&nbsp; {{< fa book-open >}} Citation &nbsp;&nbsp; {{< fa code >}} Code  </span>
 
-{{< fa solid scroll >}} Simpkins, C.E., Hanß, S., Spangenberg, M.C., Salecker, J., **Hesselbarth, M.H.K.**, Wiegand, K., in press. _spectre: An R package to estimate spatially-explicit community composition using sparse data._ Ecography. [{{< fa file-pdf >}}]() [{{< fa book-open >}}]() [{{< fa code >}}](https://github.com/r-spatialecology/spectre_usecase)
+{{< fa solid scroll >}} Simpkins, C.E., Hanß, S., Spangenberg, M.C., Salecker, J., **Hesselbarth, M.H.K.**, Wiegand, K., in press. _spectre: An R package to estimate spatially-explicit community composition using sparse data._ Ecography. [{{< fa file-pdf >}}](work-progress.qmd) [{{< fa book-open >}}](files/Simpkins_2022_Ecography_press.bib) [{{< fa code >}}](https://github.com/r-spatialecology/spectre_usecase)
 
 <!-- <br> -->
 
