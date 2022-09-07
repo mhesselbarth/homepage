@@ -1,17 +1,5 @@
 [
   {
-    "listing": "/publications.html",
-    "items": [
-      "/publications/Esquivel_2022_EcolAppl/EcolAppl.html",
-      "/publications/Hesselbarth_2021_JOSS/JOSS.html",
-      "/publications/Hesselbarth_2021_CLER/CLER.html",
-      "/publications/Hesselbarth_2020_Goettingen/Goettingen.html",
-      "/publications/Borthwick_2020_FrontiersGenetics/FrontiersGenetics.html",
-      "/publications/Hesselbarth_2019_Ecography/Ecography.html",
-      "/publications/Hesselbarth_2018_JAridEnviron/JAridEnviron.html"
-    ]
-  },
-  {
     "listing": "/software.html",
     "items": [
       "/software/NLMR/NLMR.html",

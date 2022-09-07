@@ -16,7 +16,6 @@ website:
   repo-actions: [issue]
   
   # twitter links
-  opengraph: true
   twitter-card:
     creator: "@MHKHesselbarth"
   
