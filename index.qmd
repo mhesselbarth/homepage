@@ -55,7 +55,7 @@ My research is mainly focused on how we can use spatial patterns to infer the un
 
   {{< fa graduation-cap >}} B.Sc. in Forestry, 2014 
   
-  <span style="color:grey;font-size:85%"> University of Applied Sciences and Arts, (Goettingen, Germany) </span>
+  <span style="color:grey;font-size:85%"> University of Applied Sciences and Arts (Goettingen, Germany) </span>
 
   </div>
 </div>
