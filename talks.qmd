@@ -2,7 +2,11 @@
 title: "Poster & Talks"
 ---
 
-<span style="color:grey;font-size:85%;"> {{< fa person-chalkboard >}} Slides &nbsp;&nbsp; {{< fa brands youtube >}} Video &nbsp;&nbsp; {{< fa file-pdf >}} PDF file </span>
+<span style="color:grey;font-size:85%;"> {{< fa globe >}} Homepage &nbsp;&nbsp; {{< fa person-chalkboard >}} Slides &nbsp;&nbsp; {{< fa brands youtube >}} Video &nbsp;&nbsp; {{< fa file-pdf >}} PDF file </span>
+
+{{< fa comment >}} **Hesselbarth, M.H.K.**, and others, 2022. \textit{Advanced R Workshop}. Ecology and Evolutionary Biology Department, University of Michigan. Ann Arbor (USA). Workshop. [{{< fa globe >}}](https://mhesselbarth.github.io/advanced-r-workshop/)
+
+<!-- <br> -->
 
 {{< fa comment >}} **Hesselbarth, M.H.K.**, 2022. _Introduction to R workshop._ Ecology and Evolutionary Biology Department, University of Michigan. Ann Arbor (USA). [{{< fa person-chalkboard >}}](https://mhesselbarth.github.io/introduction-r-workshop/)
 

@@ -4,7 +4,7 @@ title: ""
 
 # Maximilian H.K. Hesselbarth <span style="color:grey;font-size:50%;"> Postdoctoral Fellow </span>
 
-<img src="images/portrait.jpg" width="265" height="250" style="border-radius: 50%; float:right;">
+<img src="images/portrait.jpg" style="width:170px; height:223px; border-radius:50%; float:right;">
 
 [University of Michigan](https://lsa.umich.edu/eeb)
 
@@ -15,8 +15,6 @@ title: ""
 <span style="font-size:150%"> [{{< fa brands google >}}](https://scholar.google.com/citations?hl=en&user=PNMHIXAAAAAJ) </span>
 <span style="font-size:150%"> [{{< fa brands researchgate >}}](https://www.researchgate.net/profile/Maximilian_Hesselbarth) </span>
 <span style="font-size:150%"> [{{< fa brands twitter >}}](https://twitter.com/mhkhesselbarth) </span>
-
-<br>
 
 ## Biography
 
