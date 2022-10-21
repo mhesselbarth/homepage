@@ -4,11 +4,11 @@ title: "Publications"
 
 <span style="color:grey;font-size:85%;"> {{< fa file-pdf >}} PDF file &nbsp;&nbsp; {{< fa book-open >}} Citation &nbsp;&nbsp; {{< fa code >}} Code  </span>
 
-{{< fa solid scroll >}} Simpkins, C.E., Hansss, S., Spangenberg, M.C., Salecker, J., **Hesselbarth, M.H.K.**, Wiegand, K., 2022 _spectre: An R package to estimate spatially-explicit community composition using sparse data._ Ecography. [https://doi.org/10.1111/ecog.06272](https://doi.org/10.1111/ecog.06272). [{{< fa file-pdf >}}](work-progress.qmd) [{{< fa book-open >}}](files/Simpkins_2022_Ecography.bib) [{{< fa code >}}](https://github.com/r-spatialecology/spectre_usecase)
+{{< fa solid scroll >}} Simpkins, C.E., Hansss, S., Spangenberg, M.C., Salecker, J., **Hesselbarth, M.H.K.**, Wiegand, K., 2022 _spectre: An R package to estimate spatially-explicit community composition using sparse data._ Ecography, e06272. [https://doi.org/10.1111/ecog.06272](https://doi.org/10.1111/ecog.06272). [{{< fa file-pdf >}}](files/Simpkins_2022_Ecography.pdf) [{{< fa book-open >}}](files/Simpkins_2022_Ecography.bib) [{{< fa code >}}](https://github.com/r-spatialecology/spectre_usecase)
 
 <!-- <br> -->
 
-{{< fa solid scroll >}} Esquivel, K.E.<span style="color:grey"> \† </span>, **Hesselbarth, M.H.K.**<span style="color:grey"> \† </span>, Allgeier, J.E., 2022. _Mechanistic support for increased primary production around artificial reefs._ Ecological Applications e2617. [https://doi.org/10.1002/eap.2617](https://doi.org/10.1002/eap.2617). [{{< fa file-pdf >}}](files/Esquivel_2022_Ecological_Applications.pdf) [{{< fa book-open >}}](files/Esquivel_2022_Ecological_Applications.bib) [{{< fa code >}}](https://github.com/Allgeier-Lab/Esquivel_etal_2021_EcolAppl)
+{{< fa solid scroll >}} Esquivel, K.E.<span style="color:grey"> \† </span>, **Hesselbarth, M.H.K.**<span style="color:grey"> \† </span>, Allgeier, J.E., 2022. _Mechanistic support for increased primary production around artificial reefs._ Ecological Applications 32, e2617. [https://doi.org/10.1002/eap.2617](https://doi.org/10.1002/eap.2617). [{{< fa file-pdf >}}](files/Esquivel_2022_Ecological_Applications.pdf) [{{< fa book-open >}}](files/Esquivel_2022_Ecological_Applications.bib) [{{< fa code >}}](https://github.com/Allgeier-Lab/Esquivel_etal_2021_EcolAppl)
 
 <!-- <br> -->
 
