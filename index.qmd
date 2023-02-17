@@ -6,9 +6,9 @@ title: ""
 
 <img src="images/portrait.jpg" style="width:170px; height:223px; border-radius:50%; float:right;">
 
-[University of Michigan](https://lsa.umich.edu/eeb)
+[Internation Institute for Applied Systems Analysis](https://iiasa.ac.at/)
 
-[Coastal Ecology and Conservation Lab](https://www.jacoballgeier.com)
+[Biodiversity, Ecology, and Conservation Group](https://iiasa.ac.at/programs/bnr/bec)
 
 <span style="font-size:150%"> [{{< fa brands github >}}](https://github.com/mhesselbarth) </span>
 <span style="font-size:150%"> [{{< fa brands orcid >}}](https://orcid.org/0000-0003-1125-9918) </span>
@@ -18,7 +18,7 @@ title: ""
 
 ## Biography
 
-Hi, my name is Max (_he/him/his_) and I am a computational ecologist at the _Coastal Ecology and Conservation Lab_ based at the _University of Michigan_. I am interested in ecological modelling and especially considering the spatial explicit characteristics of most ecological processes.
+Hi, my name is Max (_he/him/his_) and I am a computational ecologist in the _Biodiversity, Ecology, and Conservation_ based at the _Internation Institute for Applied Systems Analysis (IIASA)_. I am interested in ecological modelling and especially considering the spatial explicit characteristics of most ecological processes.
 
 My research is mainly focused on how we can use spatial patterns to infer the underlying ecological processes. In this context, I use spatial point pattern analysis, individual-based modelling and landscape ecology. Lastly, I am always interested in _R_ programming.
 
