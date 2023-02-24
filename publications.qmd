@@ -4,6 +4,10 @@ title: "Publications"
 
 <span style="color:grey;font-size:85%;"> {{< fa file-pdf >}} PDF file &nbsp;&nbsp; {{< fa book-open >}} Citation &nbsp;&nbsp; {{< fa code >}} Code  </span>
 
+{{< fa solid scroll >}} Rubio-Camacho, E.A., **Hesselbarth, M.H.K.**, Flores-Garnica, J.-G., Acosta-Mireles, M., 2023. _Tree mortality in mature temperate forests of central Mexico: A spatial approach_. European Journal of Forest Research. In press.
+
+<!-- <br> -->
+
 {{< fa solid scroll >}} Simpkins, C.E., Hansss, S., Spangenberg, M.C., Salecker, J., **Hesselbarth, M.H.K.**, Wiegand, K., 2022 _spectre: An R package to estimate spatially-explicit community composition using sparse data._ Ecography, e06272. [https://doi.org/10.1111/ecog.06272](https://doi.org/10.1111/ecog.06272). [{{< fa file-pdf >}}](files/Simpkins_2022_Ecography.pdf) [{{< fa book-open >}}](files/Simpkins_2022_Ecography.bib) [{{< fa code >}}](https://github.com/r-spatialecology/spectre_usecase)
 
 <!-- <br> -->
