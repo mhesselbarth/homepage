@@ -4,7 +4,7 @@ title: "Publications"
 
 <span style="color:grey;font-size:85%;"> {{< fa file-pdf >}} PDF file &nbsp;&nbsp; {{< fa book-open >}} Citation &nbsp;&nbsp; {{< fa code >}} Code  </span>
 
-{{< fa solid scroll >}} Rubio-Camacho, E.A., **Hesselbarth, M.H.K.**, Flores-Garnica, J.-G., Acosta-Mireles, M., 2023. _Tree mortality in mature temperate forests of central Mexico: A spatial approach_. European Journal of Forest Research. In press.
+{{< fa solid scroll >}} Rubio-Camacho, E.A., **Hesselbarth, M.H.K.**, Flores-Garnica, J.-G., Acosta-Mireles, M., 2023. _Tree mortality in mature temperate forests of central Mexico: A spatial approach_. European Journal of Forest Research. In press. [https://doi.org/10.1007/s10342-023-01542-3](https://doi.org/10.1007/s10342-023-01542-3). [{{< fa file-pdf >}}](files/Rubio-Camacho_2023_European_Journal_of_Forest_Research.pdf) [{{< fa book-open >}}](files/Rubio-Camacho_2023_European_Journal_of_Forest_Research.bib)
 
 <!-- <br> -->
 
