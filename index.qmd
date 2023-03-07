@@ -6,7 +6,7 @@ title: ""
 
 <img src="images/portrait.jpg" style="width:170px; height:223px; border-radius:50%; float:right;">
 
-[Internation Institute for Applied Systems Analysis](https://iiasa.ac.at/)
+[Internation Institute for Applied Systems Analysis (IIASA)](https://iiasa.ac.at/)
 
 [Biodiversity, Ecology, and Conservation Group](https://iiasa.ac.at/programs/bnr/bec)
 
@@ -18,7 +18,7 @@ title: ""
 
 ## Biography
 
-Hi, my name is Max (_he/him_) and I am a computational ecologist in the **Biodiversity, Ecology, and Conservation** based at the **International Institute for Applied Systems Analysis (IIASA)**. I am interested in ecological modelling and especially considering the spatial explicit characteristics of most ecological processes.
+Hi, my name is Max <span style="font-size:75%;"> (he/him) </span> and I am a computational ecologist in the _Biodiversity, Ecology, and Conservation Group_ based at the _International Institute for Applied Systems Analysis (IIASA)_. I am interested in ecological modelling and especially considering the spatial explicit characteristics of most ecological processes.
 
 My research is mainly focused on how we can use spatial patterns to infer the underlying ecological processes. In this context, I mostly use spatial point pattern analysis, individual-based modelling and other modeling techniques. Thus, I am always interested in programming, especially in the _R_ language.
 
