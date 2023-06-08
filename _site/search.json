@@ -1,73 +1,17 @@
 [
   {
+    "objectID": "work-progress.html",
+    "href": "work-progress.html",
+    "title": "Oopsa Daisy",
+    "section": "",
+    "text": "Sorry, this is currently work-in-progress. Please check back later!"
+  },
+  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "mhk.hesselbarth <at> gmail.com\n Schlossplatz 1, A-2361 Laxenburg, Austria\n\n: +43 (0) 2236 807 379"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "M.H.K. Hesselbarth",
-    "section": "",
-    "text": "Internation Institute for Applied Systems Analysis (IIASA)\nBiodiversity, Ecology, and Conservation Group\n              \n\n\nHi, my name is Max  (he/him)  and I am a computational ecologist in the Biodiversity, Ecology, and Conservation Group based at the International Institute for Applied Systems Analysis (IIASA). I am interested in ecological modelling and especially considering the spatial explicit characteristics of most ecological processes.\nMy research is mainly focused on how we can use spatial patterns to infer the underlying ecological processes. In this context, I mostly use spatial point pattern analysis, individual-based modelling and other modeling techniques. Thus, I am always interested in programming, especially in the R language.\nTo find more information about myself, please see my CV.\n\n Interests\n\n\n Forest Ecology\n Landscape Ecology\n Ecosystem Ecology\n\n\n Point pattern analysis\n Individual-based modelling\n R programming"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "PDF file     Citation     Code \n Rubio-Camacho, E.A., Hesselbarth, M.H.K., Flores-Garnica, J.-G., Acosta-Mireles, M., 2023. Tree mortality in mature temperate forests of central Mexico: A spatial approach. European Journal of Forest Research. In press. https://doi.org/10.1007/s10342-023-01542-3.  \n\n Simpkins, C.E., Hansss, S., Spangenberg, M.C., Salecker, J., Hesselbarth, M.H.K., Wiegand, K., 2022 spectre: An R package to estimate spatially-explicit community composition using sparse data. Ecography, e06272. https://doi.org/10.1111/ecog.06272.   \n\n Esquivel, K.E. † , Hesselbarth, M.H.K. † , Allgeier, J.E., 2022. Mechanistic support for increased primary production around artificial reefs. Ecological Applications 32, e2617. https://doi.org/10.1002/eap.2617.   \n\n Hesselbarth, M.H.K., 2021. shar: An R package to analyze species-habitat associations using point pattern analysis. Journal of Open Source Software 6, 3811. https://doi.org/10.21105/joss.03811.   \n\n Hesselbarth, M.H.K., Nowosad, J., Signer, J., Graham, L.J., 2021. Open-source tools in R for landscape ecology. Current Landscape Ecology Reports 6, 97-111. https://doi.org/10.1007/s40823-021-00067-y.   \n\n Borthwick, R. * , de Flamingh, A. * , Hesselbarth, M.H.K. * , Parandhaman, A. * , Wagner, H.H., Abdel Moniem, H.E.M., 2020. Alternative Quantifications of Landscape Complementation to Model Gene Flow in Banded Longhorn Beetles [Typocerus v. velutinus (Olivier)]. Frontiers in Genetics 11, 307. https://doi.org/10.3389/fgene.2020.00307.   \n\n Hesselbarth, M.H.K., 2020. Analysing and modelling spatial patterns to infer the influence of environmental heterogeneity using point pattern analysis, individual-based simulation modelling and landscape metrics. Dissertation. University of Goettingen, Goettingen, Germany. http://dx.doi.org/10.53846/goediss-7959.  \n\n Hesselbarth, M.H.K., Sciaini,M., With,K.A., Wiegand,K., Nowosad,J., 2019. landscapemetrics: An open-source R tool to calculate landscape metrics. Ecography 42, 1648-1657. https://doi.org/10.1111/ecog.04617.   \n\n Hesselbarth, M.H.K., Wiegand, K., Dreber, N., Kellner, K., Esser, D.,Tsvuura, Z., 2018. Density-dependent spatial patterning of woody plants differs between a semi-arid and a mesic savanna in South Africa. Journal of Arid Environments 157, 103-112. https://doi.org/10.1016/j.jaridenv.2018.06.002.   \n\n †Authors contributed equally    *Author sequence is alphabetical"
-  },
-  {
-    "objectID": "software/arrR/arrr.html",
-    "href": "software/arrR/arrr.html",
-    "title": "arrR",
-    "section": "",
-    "text": "Homepage\n\n\n\n\n\nIndividual-based simulation model to analyze how artificial reefs in combination with fish individuals influence seagrass primary production."
-  },
-  {
-    "objectID": "software/landscapemetrics/landscapemetrics.html",
-    "href": "software/landscapemetrics/landscapemetrics.html",
-    "title": "landscapemetrics",
-    "section": "",
-    "text": "Homepage\n\n\n\n\n\nCalculates landscape metrics for categorical landscape patterns in a tidy workflow. ‘landscapemetrics’ reimplements the most common metrics from ‘FRAGSTATS’ and new ones from the current literature on landscape metrics. This package supports ‘raster’ spatial objects and takes RasterLayer, RasterStacks, RasterBricks or lists of RasterLayer from the ‘raster’ package as input arguments. It further provides utility functions to visualize patches, select metrics and building blocks to develop new metrics."
-  },
-  {
-    "objectID": "software/NLMR/NLMR.html",
-    "href": "software/NLMR/NLMR.html",
-    "title": "NLMR",
-    "section": "",
-    "text": "Homepage\n\n\n\n\n\n‘NLMR’ combines a large number of algorithms from other published software for simulating neutral landscapes. The simulation results are obtained in a spatial data format (raster* objects from the ‘raster’ package) and can, therefore, be used in any sort of raster data operation that is performed with standard observation data."
-  },
-  {
-    "objectID": "software/onpoint/onpoint.html",
-    "href": "software/onpoint/onpoint.html",
-    "title": "onpoint",
-    "section": "",
-    "text": "Homepage\n\n\n\n\n\nGrowing collection of small helper functions for point pattern analysis. Most functions are designed to work with the spatstat package."
-  },
-  {
-    "objectID": "software/shar/shar.html",
-    "href": "software/shar/shar.html",
-    "title": "shar",
-    "section": "",
-    "text": "Homepage\n\n\n\n\n\nAnalyse species-habitat associations in R. Therefore, information about the location of the species is needed and about the environmental conditions. To test for significance habitat associations, one of the two components is randomized. Methods are mainly based on Plotkin et al. (2000) and Harms et al. (2001)."
-  },
-  {
-    "objectID": "software/spectre/spectre.html",
-    "href": "software/spectre/spectre.html",
-    "title": "spectre",
-    "section": "",
-    "text": "Homepage\n\n\n\n\n\nPredict regional community composition at a fine spatial resolution using only sparse biological and environmental data. The package is based on the DynamicFOAM algorithm described in Mokany et al. (2011)"
-  },
-  {
-    "objectID": "software.html",
-    "href": "software.html",
-    "title": "Software",
-    "section": "",
-    "text": "Here you can find all of my software projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNLMR\n\n\n\n\n\n\n\n\n\n\n\n\n\narrR\n\n\n\n\n\n\n\n\n\n\n\n\n\nlandscapemetrics\n\n\n\n\n\n\n\n\n\n\n\n\n\nonpoint\n\n\n\n\n\n\n\n\n\n\n\n\n\nshar\n\n\n\n\n\n\n\n\n\n\n\n\n\nspectre\n\n\n\n\n\n\n\nNo matching items"
+    "text": "mhk.hesselbarth &lt;at&gt; gmail.com\n Schlossplatz 1, A-2361 Laxenburg, Austria\n\n: +43 (0) 2236 807 379"
   },
   {
     "objectID": "talks.html",
@@ -77,10 +21,73 @@
     "text": "Homepage     Slides     Video     PDF file \n\n Hesselbarth, M.H.K., Munsterman, K.S., 2022. Advanced R Workshop. Ecology and Evolutionary Biology Department, University of Michigan. Ann Arbor (USA). Workshop. \n\n Hesselbarth, M.H.K., 2022. Artificial reefs to promote primary production in tropical seagrass ecosystems: A simulation study using individual-based modelling. Ecology and Evolutionary Biology Department Seminar, University of Michigan. Ann Arbor (USA).\n\n Hesselbarth, M.H.K., 2022. Introduction to R Workshop. Ecology and Evolutionary Biology Department, University of Michigan. Ann Arbor (USA). \n\n Hesselbarth, M.H.K., 2021. Spatial patterns in ecology and what we (hopefully) can learn from them. Ecology and Evolutionary Biology Department Seminar, University of Michigan. Ann Arbor (USA). \n\n Nowosad, J., Hesselbarth, M.H.K., 2020. Introduction to landscape ecology with R. Annual Meeting International Association of Landscape Ecology North America. Toronto (Canada).  \n\n Hesselbarth, M.H.K., Sciaini, M., Nowosad, J., Hanss, S., 2019 landscapemetrics. Introducing a new R tool to characterise landscapes. 10th World Congress International Association of Landscape Ecology. Milano (Italy). \n\n Hesselbarth, M.H.K., Wiegand, K., 2018. A simulation study comparing methods to analyze species-habitat associations of forest trees. 48th Annual Meeting of the Ecological Society of Germany, Austria and Switzerland. Vienna (Austria)."
   },
   {
-    "objectID": "work-progress.html",
-    "href": "work-progress.html",
-    "title": "Oopsa Daisy",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Maximilian H.K. Hesselbarth  Research Scholar ",
     "section": "",
-    "text": "Sorry, this is currently work-in-progress. Please check back later!"
+    "text": "International Institute for Applied Systems Analysis (IIASA)\nBiodiversity, Ecology, and Conservation Group\n              \n\n\nHi, my name is Max  (he/him)  and I am a computational ecologist in the Biodiversity, Ecology, and Conservation Group based at the International Institute for Applied Systems Analysis (IIASA). I am interested in ecological modelling and especially considering the spatial explicit characteristics of most ecological processes.\nPreviously, I was a Postdoctoral Fellow in the Coastal Ecology and Conservation Lab based at the University of Michigan, and a PhD student in the Ecosystem Modelling Group based at the University of Goettingen.\nMy research is mainly focused on how we can use spatial patterns to infer the underlying ecological processes. In this context, I mostly use spatial point pattern analysis, individual-based modelling and other modeling techniques. Thus, I am always interested in programming, especially in the R language.\nTo find more information about myself, please see my CV.\n\n Interests\n\n\n Forest Ecology\n Landscape Ecology\n Ecosystem Ecology\n\n\n Point pattern analysis\n Individual-based modelling\n R programming"
+  },
+  {
+    "objectID": "index.html#biography",
+    "href": "index.html#biography",
+    "title": "Maximilian H.K. Hesselbarth  Research Scholar ",
+    "section": "",
+    "text": "Hi, my name is Max  (he/him)  and I am a computational ecologist in the Biodiversity, Ecology, and Conservation Group based at the International Institute for Applied Systems Analysis (IIASA). I am interested in ecological modelling and especially considering the spatial explicit characteristics of most ecological processes.\nPreviously, I was a Postdoctoral Fellow in the Coastal Ecology and Conservation Lab based at the University of Michigan, and a PhD student in the Ecosystem Modelling Group based at the University of Goettingen.\nMy research is mainly focused on how we can use spatial patterns to infer the underlying ecological processes. In this context, I mostly use spatial point pattern analysis, individual-based modelling and other modeling techniques. Thus, I am always interested in programming, especially in the R language.\nTo find more information about myself, please see my CV.\n\n Interests\n\n\n Forest Ecology\n Landscape Ecology\n Ecosystem Ecology\n\n\n Point pattern analysis\n Individual-based modelling\n R programming"
+  },
+  {
+    "objectID": "software/onpoint/onpoint.html",
+    "href": "software/onpoint/onpoint.html",
+    "title": "onpoint",
+    "section": "",
+    "text": "Homepage\n\n\n\n\n\nGrowing collection of small helper functions for point pattern analysis. Most functions are designed to work with the spatstat package."
+  },
+  {
+    "objectID": "software/NLMR/NLMR.html",
+    "href": "software/NLMR/NLMR.html",
+    "title": "NLMR",
+    "section": "",
+    "text": "Homepage\n\n\n\n\n\n‘NLMR’ combines a large number of algorithms from other published software for simulating neutral landscapes. The simulation results are obtained in a spatial data format (raster* objects from the ‘raster’ package) and can, therefore, be used in any sort of raster data operation that is performed with standard observation data."
+  },
+  {
+    "objectID": "software/arrR/arrr.html",
+    "href": "software/arrR/arrr.html",
+    "title": "arrR",
+    "section": "",
+    "text": "Homepage\n\n\n\n\n\nIndividual-based simulation model to analyze how artificial reefs in combination with fish individuals influence seagrass primary production."
+  },
+  {
+    "objectID": "software/spectre/spectre.html",
+    "href": "software/spectre/spectre.html",
+    "title": "spectre",
+    "section": "",
+    "text": "Homepage\n\n\n\n\n\nPredict regional community composition at a fine spatial resolution using only sparse biological and environmental data. The package is based on the DynamicFOAM algorithm described in Mokany et al. (2011)"
+  },
+  {
+    "objectID": "software/shar/shar.html",
+    "href": "software/shar/shar.html",
+    "title": "shar",
+    "section": "",
+    "text": "Homepage\n\n\n\n\n\nAnalyse species-habitat associations in R. Therefore, information about the location of the species is needed and about the environmental conditions. To test for significance habitat associations, one of the two components is randomized. Methods are mainly based on Plotkin et al. (2000) and Harms et al. (2001)."
+  },
+  {
+    "objectID": "software/landscapemetrics/landscapemetrics.html",
+    "href": "software/landscapemetrics/landscapemetrics.html",
+    "title": "landscapemetrics",
+    "section": "",
+    "text": "Homepage\n\n\n\n\n\nCalculates landscape metrics for categorical landscape patterns in a tidy workflow. ‘landscapemetrics’ reimplements the most common metrics from ‘FRAGSTATS’ and new ones from the current literature on landscape metrics. This package supports ‘raster’ spatial objects and takes RasterLayer, RasterStacks, RasterBricks or lists of RasterLayer from the ‘raster’ package as input arguments. It further provides utility functions to visualize patches, select metrics and building blocks to develop new metrics."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "PDF file     Citation     Code \n †Authors contributed equally    *Author sequence is alphabetical \n\n Shayka, B.F., Hesselbarth, M.H.K., Schill, S.R., Currie, W.S., Allgeier, J.E., 2023. The natural capital of seagrass beds in the Caribbean: evaluating their ecosystem services and blue carbon trade potential. Biology Letters. In press. Link DOI.  \n\n Rubio-Camacho, E.A., Hesselbarth, M.H.K., Flores-Garnica, J.-G., Acosta-Mireles, M., 2023. Tree mortality in mature temperate forests of central Mexico: A spatial approach. European Journal of Forest Research 142, 565–577. https://doi.org/10.1007/s10342-023-01542-3.  \n\n Simpkins, C.E., Hansss, S., Spangenberg, M.C., Salecker, J., Hesselbarth, M.H.K., Wiegand, K., 2022 spectre: An R package to estimate spatially-explicit community composition using sparse data. Ecography 2022 (12), e06272. https://doi.org/10.1111/ecog.06272.   \n\n Esquivel, K.E. † , Hesselbarth, M.H.K. † , Allgeier, J.E., 2022. Mechanistic support for increased primary production around artificial reefs. Ecological Applications 32 (6), e2617. https://doi.org/10.1002/eap.2617.   \n\n Hesselbarth, M.H.K., 2021. shar: An R package to analyze species-habitat associations using point pattern analysis. Journal of Open Source Software 6 (68), 3811. https://doi.org/10.21105/joss.03811.   \n\n Hesselbarth, M.H.K., Nowosad, J., Signer, J., Graham, L.J., 2021. Open-source tools in R for landscape ecology. Current Landscape Ecology Reports 6 (3), 97-111. https://doi.org/10.1007/s40823-021-00067-y.   \n\n Borthwick, R. * , de Flamingh, A. * , Hesselbarth, M.H.K. * , Parandhaman, A. * , Wagner, H.H., Abdel Moniem, H.E.M., 2020. Alternative Quantifications of Landscape Complementation to Model Gene Flow in Banded Longhorn Beetles [Typocerus v. velutinus (Olivier)]. Frontiers in Genetics 11, 307. https://doi.org/10.3389/fgene.2020.00307.   \n\n Hesselbarth, M.H.K., 2020. Analysing and modelling spatial patterns to infer the influence of environmental heterogeneity using point pattern analysis, individual-based simulation modelling and landscape metrics. Dissertation. University of Goettingen, Goettingen, Germany. http://dx.doi.org/10.53846/goediss-7959.  \n\n Hesselbarth, M.H.K., Sciaini,M., With,K.A., Wiegand,K., Nowosad,J., 2019. landscapemetrics: An open-source R tool to calculate landscape metrics. Ecography 42 (10), 1648-1657. https://doi.org/10.1111/ecog.04617.   \n\n Hesselbarth, M.H.K., Wiegand, K., Dreber, N., Kellner, K., Esser, D.,Tsvuura, Z., 2018. Density-dependent spatial patterning of woody plants differs between a semi-arid and a mesic savanna in South Africa. Journal of Arid Environments 157, 103-112. https://doi.org/10.1016/j.jaridenv.2018.06.002."
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "Here you can find all of my software projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNLMR\n\n\n\n\n\n\n\n\n\n\n\n\n\narrR\n\n\n\n\n\n\n\n\n\n\n\n\n\nlandscapemetrics\n\n\n\n\n\n\n\n\n\n\n\n\n\nonpoint\n\n\n\n\n\n\n\n\n\n\n\n\n\nshar\n\n\n\n\n\n\n\n\n\n\n\n\n\nspectre\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
