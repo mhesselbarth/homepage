@@ -25,8 +25,8 @@ website:
     left:
       - href: publications.qmd
         text: Publications
-      - href: talks.qmd
-        text: Poster & Talks
+      - href: presentations.qmd
+        text: Presentations
       - href: software.qmd
         text: Software
       - href: cv.qmd

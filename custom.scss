@@ -1,18 +1,21 @@
 /*-- scss:defaults --*/
 
 // Base document colors
-$body-bg: #fbe6bc;
+$body-bg: #89B691;
 $body-color: #000000;
-$link-color: #e76254;
+$link-color: #C54F43;
 
 $font-family-sans-serif: "Ubuntu", sans-serif;
 $font-family-serif: "Bree Serif", serif;
 
-$navbar-bg: #28466b;
-$navbar-fg: #e76254;
+$navbar-bg: #F8BCB0;
+$navbar-fg: #0A475D;
 
-$sidebar-bg: #b4dbdf;
-$footer-bg: #b4dbdf;
+$sidebar-bg: #F8BCB0;
+$sidebar-fg: #0A475D;
+
+$footer-bg: #F4C76D;
+$footer-fg: #0A475D;
 
 .column {
   float: left;

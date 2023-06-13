@@ -1,9 +1,11 @@
 ---
-title: "Software"
+title: ""
 listing:
   contents: software
   type: grid
   fields: [image, title]
 ---
 
-Here you can find all of my software projects.
+<span style="color:#0A475D;font-size:200%"> Software </span>
+
+You can find all of my software projects here.

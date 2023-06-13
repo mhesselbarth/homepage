@@ -1,10 +1,12 @@
 ---
-title: "Publications"
+title: ""
 ---
 
-<span style="color:grey;font-size:85%;"> {{< fa file-pdf >}} PDF file &nbsp;&nbsp; {{< fa book-open >}} Citation &nbsp;&nbsp; {{< fa code >}} Code  </span>
+<span style="color:#0A475D;font-size:200%"> Publications </span>
 
-<span style="color:grey;font-size:85%;"> \†Authors contributed equally &nbsp;&nbsp; \*Author sequence is alphabetical </span>
+<span style="color:#F4C76D;font-size:85%;"> {{< fa file-pdf >}} PDF file &nbsp;&nbsp; {{< fa book-open >}} Citation &nbsp;&nbsp; {{< fa code >}} Code  </span>
+
+<span style="color:#F4C76D;font-size:85%;"> \†Authors contributed equally &nbsp;&nbsp; \*Author sequence is alphabetical </span>
 
 <!-- <br> -->
 

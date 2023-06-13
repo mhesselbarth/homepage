@@ -2,7 +2,8 @@
 title: ""
 ---
 
-# Maximilian H.K. Hesselbarth <span style="color:grey;font-size:50%;"> Research Scholar </span>
+<span style="color:#0A475D;font-size:200%;"> Maximilian H.K. Hesselbarth </span> 
+<span style="color:#0A475D;font-size:100%;"> Research Scholar </span>
 
 <img src="images/portrait.jpg" style="width:170px; height:223px; border-radius:50%; float:right;">
 
@@ -13,10 +14,9 @@ title: ""
 <span style="font-size:150%"> [{{< fa brands github >}}](https://github.com/mhesselbarth) </span>
 <span style="font-size:150%"> [{{< fa brands orcid >}}](https://orcid.org/0000-0003-1125-9918) </span>
 <span style="font-size:150%"> [{{< fa brands google >}}](https://scholar.google.com/citations?hl=en&user=PNMHIXAAAAAJ) </span>
-<span style="font-size:150%"> [{{< fa brands researchgate >}}](https://www.researchgate.net/profile/Maximilian_Hesselbarth) </span>
 <span style="font-size:150%"> [{{< fa brands twitter >}}](https://twitter.com/mhkhesselbarth) </span>
 
-## Biography
+<span style="color:#0A475D;font-size:150%"> Biography
 
 Hi, my name is Max <span style="font-size:75%;"> (he/him) </span> and I am a computational ecologist in the _Biodiversity, Ecology, and Conservation Group_ based at the _International Institute for Applied Systems Analysis (IIASA)_. I am interested in ecological modelling and especially considering the spatial explicit characteristics of most ecological processes.
 
@@ -28,26 +28,26 @@ To find more information about myself, please see my [CV](CV.html).
 
 <br>
 
-<span style="font-size:165%"> Interests 
+<span style="color:#0A475D;font-size:150%"> Interests
 
 <div class="row">
   <div class="column">
-  
+
   {{< fa tree >}} Forest Ecology
 
   {{< fa map >}} Landscape Ecology
-  
+
   {{< fa cogs >}} Ecosystem Ecology
-  
+
   </div>
-  
+
   <div class="column">
-  
+
   {{< fa regular circle-dot >}} Point pattern analysis
 
   {{< fa computer >}} Individual-based modelling
 
   {{< fa brands r-project >}} R programming
-  
+
   </div>
 </div>

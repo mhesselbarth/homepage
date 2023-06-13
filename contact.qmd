@@ -1,6 +1,9 @@
 ---
-title: "Contact"
+title: ""
 ---
+
+<span style="color:#0A475D;font-size:200%"> Contact </span>
+
 
 {{< fa envelope >}} [mhk.hesselbarth \<at\> gmail.com](mailto:mhk.hesselbarth@gmail.com)
 
