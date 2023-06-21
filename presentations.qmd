@@ -8,6 +8,10 @@ title: ""
 
 <!-- <br> -->
 
+{{< fa comment >}} **Hesselbarth, M.H.K.**, Jung, M., Visconti, P. 2023. _Biodiversity indicators and species distribution modeling_. ForestNavigator stakeholder workshop. International Institute for Applied Systems Analysis. Laxenburg (Austria). [{{< fa person-chalkboard >}}](files/Hesselbarth_2023_ForestNavigator.pdf)
+
+<!-- <br> -->
+
 {{< fa comment >}} **Hesselbarth, M.H.K.**, Munsterman, K.S., 2022. _Advanced R Workshop_. Ecology and Evolutionary Biology Department, University of Michigan. Ann Arbor (USA). Workshop. [{{< fa globe >}}](https://mhesselbarth.github.io/advanced-r-workshop/)
 
 <!-- <br> -->
