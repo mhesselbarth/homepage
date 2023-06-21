@@ -10,7 +10,7 @@ title: ""
 
 <!-- <br> -->
 
-{{< fa solid scroll >}} Shayka, B.F., **Hesselbarth, M.H.K.**, Schill, S.R., Currie, W.S., Allgeier, J.E., 2023. *The natural capital of seagrass beds in the Caribbean: evaluating their ecosystem services and blue carbon trade potential.* Biology Letters 19:20230075. [10.1098/rsbl.2023.0075](https://doi.org/10.1098/rsbl.2023.0075). [{{< fa file-pdf >}}](work-progress.qmd) [{{< fa book-open >}}](files/Shayka_2023_Biology_Letters.bib)
+{{< fa solid scroll >}} Shayka, B.F., **Hesselbarth, M.H.K.**, Schill, S.R., Currie, W.S., Allgeier, J.E., 2023. *The natural capital of seagrass beds in the Caribbean: evaluating their ecosystem services and blue carbon trade potential.* Biology Letters 19:20230075. [10.1098/rsbl.2023.0075](https://doi.org/10.1098/rsbl.2023.0075). [{{< fa file-pdf >}}](files/Shayka_2023_Biological_Letters_19_20230075.pdf) [{{< fa book-open >}}](files/Shayka_2023_Biology_Letters.bib)
 
 <!-- <br> -->
 
