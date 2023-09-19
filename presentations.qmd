@@ -8,6 +8,10 @@ title: ""
 
 <!-- <br> -->
 
+{{< fa file-image >}} **Hesselbarth, M.H.K.**, Jung, M., Visconti, P. _Evaluating the impact of European forest management on forest-related species using iSDMs_. 52nd Annual Meeting of the Ecological Society of Germany, Austria and Switzerland. Leipzig (Germany). [{{< fa file-pdf >}}](files/Hesselbarth_2023_GfO.pdf)
+
+<!-- <br> -->
+
 {{< fa comment >}} **Hesselbarth, M.H.K.**, Jung, M., Visconti, P. 2023. _Biodiversity indicators and species distribution modeling_. ForestNavigator stakeholder workshop. International Institute for Applied Systems Analysis. Laxenburg (Austria). [{{< fa person-chalkboard >}}](files/Hesselbarth_2023_ForestNavigator.pdf)
 
 <!-- <br> -->
@@ -32,10 +36,10 @@ title: ""
 
 <!-- <br> -->
 
-{{< fa file-image >}}  **Hesselbarth, M.H.K.**, Sciaini, M., Nowosad, J., Hanss, S., 2019 _landscapemetrics. Introducing a new R tool to characterise landscapes._ 10th World Congress International Association of Landscape Ecology. Milano (Italy). [{{< fa file-pdf >}}](files/Hesselbarth_IALE_2019.pdf)
+{{< fa file-image >}}  **Hesselbarth, M.H.K.**, Sciaini, M., Nowosad, J., Hanss, S., 2019 _landscapemetrics. Introducing a new R tool to characterise landscapes._ 10th World Congress International Association of Landscape Ecology. Milano (Italy). [{{< fa file-pdf >}}](files/Hesselbarth_2019_IALE.pdf)
 
 <!-- <br> -->
 
-{{< fa file-image >}} **Hesselbarth, M.H.K.**, Wiegand, K., 2018. _A simulation study comparing methods to analyze species-habitat associations of forest trees._ 48th Annual Meeting of the Ecological Society of Germany, Austria and Switzerland. Vienna (Austria). [{{< fa file-pdf >}}](files/Hesselbarth_GfO_2018.pdf)
+{{< fa file-image >}} **Hesselbarth, M.H.K.**, Wiegand, K., 2018. _A simulation study comparing methods to analyze species-habitat associations of forest trees._ 48th Annual Meeting of the Ecological Society of Germany, Austria and Switzerland. Vienna (Austria). [{{< fa file-pdf >}}](files/Hesselbarth_2018_GfO.pdf)
 
 <!-- <br> -->
