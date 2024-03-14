@@ -10,6 +10,10 @@ title: ""
 
 <!-- <br> -->
 
+{{< fa solid scroll >}} **Hesselbarth, M.H.K.**, Wiegand, K. (2024). *A simulation study comparing common methods for analyzing species-habitat associations of plants*. Journal of Vegetation Science 35, e13243. [10.1111/jvs.13243](https://doi.org/10.1111/jvs.13243). [{{< fa file-pdf >}}](files/Hesselbarth_2024_Journal_of_Vegetation_Science_35_2.pdf) [{{< fa book-open >}}](files/Hesselbarth_2024_Journal_of_Vegetation_Science_35_2.bib)
+
+<!-- <br> -->
+
 {{< fa solid scroll >}} Shayka, B.F., **Hesselbarth, M.H.K.**, Schill, S.R., Currie, W.S., Allgeier, J.E., 2023. *The natural capital of seagrass beds in the Caribbean: evaluating their ecosystem services and blue carbon trade potential.* Biology Letters 19:20230075. [10.1098/rsbl.2023.0075](https://doi.org/10.1098/rsbl.2023.0075). [{{< fa file-pdf >}}](files/Shayka_2023_Biological_Letters_19_20230075.pdf) [{{< fa book-open >}}](files/Shayka_2023_Biology_Letters.bib)
 
 <!-- <br> -->
