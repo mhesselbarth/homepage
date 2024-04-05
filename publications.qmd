@@ -10,44 +10,55 @@ title: ""
 
 <!-- <br> -->
 
-{{< fa solid scroll >}} **Hesselbarth, M.H.K.**, Wiegand, K., 2024. *A simulation study comparing common methods for analyzing species-habitat associations of plants*. Journal of Vegetation Science 35, e13243. [DOI:10.1111/jvs.13243](https://doi.org/10.1111/jvs.13243). [{{< fa file-pdf >}}](files/Hesselbarth_2024_Journal_of_Vegetation_Science_35_2.pdf) - [{{< fa book-open >}}](files/Hesselbarth_2024_Journal_of_Vegetation_Science_35_2.bib) - [{{< fa code >}}](https://www.doi.org/10.5281/zenodo.10803171)
+{{< fa solid scroll >}} **Hesselbarth, M.H.K.**, Wiegand, K., 2024. *A simulation study comparing common methods for analyzing species-habitat associations of plants*. Journal of Vegetation Science 35, e13243. [DOI:10.1111/jvs.13243](https://doi.org/10.1111/jvs.13243). 
+[{{< fa file-pdf >}}](files/Hesselbarth_2024_Journal_of_Vegetation_Science_35_2.pdf) - [{{< fa book-open >}}](files/Hesselbarth_2024_Journal_of_Vegetation_Science_35_2.bib) - [{{< fa code >}}](https://www.doi.org/10.5281/zenodo.10803171)
 
 <!-- <br> -->
 
-{{< fa solid scroll >}} Shayka, B.F., **Hesselbarth, M.H.K.**, Schill, S.R., Currie, W.S., Allgeier, J.E., 2023. *The natural capital of seagrass beds in the Caribbean: evaluating their ecosystem services and blue carbon trade potential.* Biology Letters 19:20230075. [DOI:10.1098/rsbl.2023.0075](https://doi.org/10.1098/rsbl.2023.0075). [{{< fa file-pdf >}}](files/Shayka_2023_Biological_Letters_19_20230075.pdf) - [{{< fa book-open >}}](files/Shayka_2023_Biology_Letters.bib) - [{{< fa code >}}](https://doi.org/10.5061/dryad.z612jm6h4)
+{{< fa solid scroll >}} Shayka, B.F., **Hesselbarth, M.H.K.**, Schill, S.R., Currie, W.S., Allgeier, J.E., 2023. *The natural capital of seagrass beds in the Caribbean: evaluating their ecosystem services and blue carbon trade potential.* Biology Letters 19:20230075. [DOI:10.1098/rsbl.2023.0075](https://doi.org/10.1098/rsbl.2023.0075). 
+[{{< fa file-pdf >}}](files/Shayka_2023_Biological_Letters_19_20230075.pdf) - [{{< fa book-open >}}](files/Shayka_2023_Biology_Letters.bib) - [{{< fa code >}}](https://doi.org/10.5061/dryad.z612jm6h4)
 
 <!-- <br> -->
 
-{{< fa solid scroll >}} Rubio-Camacho, E.A., **Hesselbarth, M.H.K.**, Flores-Garnica, J.-G., Acosta-Mireles, M., 2023. _Tree mortality in mature temperate forests of central Mexico: A spatial approach_. European Journal of Forest Research 142, 565–577. [DOI:10.1007/s10342-023-01542-3](https://doi.org/10.1007/s10342-023-01542-3). [{{< fa file-pdf >}}](files/Rubio-Camacho_2023_European_Journal_of_Forest_Research_142.pdf) - [{{< fa book-open >}}](files/Rubio-Camacho_2023_European_Journal_of_Forest_Research_142.bib)
+{{< fa solid scroll >}} Rubio-Camacho, E.A., **Hesselbarth, M.H.K.**, Flores-Garnica, J.-G., Acosta-Mireles, M., 2023. _Tree mortality in mature temperate forests of central Mexico: A spatial approach_. European Journal of Forest Research 142, 565–577. [DOI:10.1007/s10342-023-01542-3](https://doi.org/10.1007/s10342-023-01542-3). 
+[{{< fa file-pdf >}}](files/Rubio-Camacho_2023_European_Journal_of_Forest_Research_142.pdf) - [{{< fa book-open >}}](files/Rubio-Camacho_2023_European_Journal_of_Forest_Research_142.bib)
 
 <!-- <br> -->
 
-{{< fa solid scroll >}} Simpkins, C.E., Hansss, S., Spangenberg, M.C., Salecker, J., **Hesselbarth, M.H.K.**, Wiegand, K., 2022. _spectre: An R package to estimate spatially-explicit community composition using sparse data._ Ecography 2022 (12), e06272. [DOI:10.1111/ecog.06272](https://doi.org/10.1111/ecog.06272). [{{< fa file-pdf >}}](files/Simpkins_2022_Ecography_2022_12.pdf) - [{{< fa book-open >}}](files/Simpkins_2022_Ecography_2022_12.bib) - [{{< fa code >}}](https://github.com/r-spatialecology/spectre_usecase)
+{{< fa solid scroll >}} Simpkins, C.E., Hansss, S., Spangenberg, M.C., Salecker, J., **Hesselbarth, M.H.K.**, Wiegand, K., 2022. _spectre: An R package to estimate spatially-explicit community composition using sparse data._ Ecography 2022 (12), e06272. [DOI:10.1111/ecog.06272](https://doi.org/10.1111/ecog.06272). 
+[{{< fa file-pdf >}}](files/Simpkins_2022_Ecography_2022_12.pdf) - [{{< fa book-open >}}](files/Simpkins_2022_Ecography_2022_12.bib) - [{{< fa code >}}](https://github.com/r-spatialecology/spectre_usecase)
 
 <!-- <br> -->
 
-{{< fa solid scroll >}} Esquivel, K.E.<span style="color:#F4C76D"> \† </span>, **Hesselbarth, M.H.K.**<span style="color:#F4C76D"> \† </span>, Allgeier, J.E., 2022. _Mechanistic support for increased primary production around artificial reefs._ Ecological Applications 32 (6), e2617. [DOI:10.1002/eap.2617](https://doi.org/10.1002/eap.2617). [{{< fa file-pdf >}}](files/Esquivel_2022_Ecological_Applications_32_6.pdf) - [{{< fa book-open >}}](files/Esquivel_2022_Ecological_Applications_32_6.bib) - [{{< fa code >}}](https://github.com/Allgeier-Lab/Esquivel_etal_2021_EcolAppl)
+{{< fa solid scroll >}} Esquivel, K.E.<span style="color:#F4C76D"> \† </span>, **Hesselbarth, M.H.K.**<span style="color:#F4C76D"> \† </span>, Allgeier, J.E., 2022. _Mechanistic support for increased primary production around artificial reefs._ Ecological Applications 32 (6), e2617. [DOI:10.1002/eap.2617](https://doi.org/10.1002/eap.2617). 
+[{{< fa file-pdf >}}](files/Esquivel_2022_Ecological_Applications_32_6.pdf) - [{{< fa book-open >}}](files/Esquivel_2022_Ecological_Applications_32_6.bib) - [{{< fa code >}}](https://github.com/Allgeier-Lab/Esquivel_etal_2021_EcolAppl)
 
 <!-- <br> -->
 
-{{< fa solid scroll >}} **Hesselbarth, M.H.K.**, 2021. _shar: An R package to analyze species-habitat associations using point pattern analysis._ Journal of Open Source Software 6 (68), 3811. [DOI:10.21105/joss.03811](https://doi.org/10.21105/joss.03811). [{{< fa file-pdf >}}](files/Hesselbarth_2021_Journal_of_Open_Source_Software_6_68.pdf) - [{{< fa book-open >}}](files/Hesselbarth_2021_Journal_of_Open_Source_Software_6_68.bib) - [{{< fa code >}}](https://github.com/r-spatialecology/shar)
+{{< fa solid scroll >}} **Hesselbarth, M.H.K.**, 2021. _shar: An R package to analyze species-habitat associations using point pattern analysis._ Journal of Open Source Software 6 (68), 3811. [DOI:10.21105/joss.03811](https://doi.org/10.21105/joss.03811). 
+[{{< fa file-pdf >}}](files/Hesselbarth_2021_Journal_of_Open_Source_Software_6_68.pdf) - [{{< fa book-open >}}](files/Hesselbarth_2021_Journal_of_Open_Source_Software_6_68.bib) - [{{< fa code >}}](https://github.com/r-spatialecology/shar)
 
 <!-- <br> -->
 
-{{< fa solid scroll >}} **Hesselbarth, M.H.K.**, Nowosad, J., Signer, J., Graham, L.J., 2021. _Open-source tools in R for landscape ecology._ Current Landscape Ecology Reports 6 (3), 97-111. [DOI:10.1007/s40823-021-00067-y](https://doi.org/10.1007/s40823-021-00067-y). [{{< fa file-pdf >}}](files/Hesselbarth_2021_Current_Landscape_Ecology_Reports_6_3.pdf) - [{{< fa book-open >}}](files/Hesselbarth_2021_Current_Landscape_Ecology_Reports_6_3.bib) - [{{< fa code >}}](https://github.com/r-spatialecology/Hesselbarth_et_al_CLER)
+{{< fa solid scroll >}} **Hesselbarth, M.H.K.**, Nowosad, J., Signer, J., Graham, L.J., 2021. _Open-source tools in R for landscape ecology._ Current Landscape Ecology Reports 6 (3), 97-111. [DOI:10.1007/s40823-021-00067-y](https://doi.org/10.1007/s40823-021-00067-y). 
+[{{< fa file-pdf >}}](files/Hesselbarth_2021_Current_Landscape_Ecology_Reports_6_3.pdf) - [{{< fa book-open >}}](files/Hesselbarth_2021_Current_Landscape_Ecology_Reports_6_3.bib) - [{{< fa code >}}](https://github.com/r-spatialecology/Hesselbarth_et_al_CLER)
 
 <!-- <br> -->
 
-{{< fa solid scroll >}} Borthwick, R.<span style="color:#F4C76D"> \† </span>, de Flamingh, A.<span style="color:#F4C76D"> \† </span>, **Hesselbarth, M.H.K.**<span style="color:#F4C76D"> \† </span>, Parandhaman, A.<span style="color:#F4C76D"> \† </span>, Wagner, H.H., Abdel Moniem, H.E.M., 2020. _Alternative Quantifications of Landscape Complementation to Model Gene Flow in Banded Longhorn Beetles [Typocerus v. velutinus (Olivier)]._ Frontiers in Genetics 11, 307. [DOI:10.3389/fgene.2020.00307](https://doi.org/10.3389/fgene.2020.00307). [{{< fa file-pdf >}}](files/Borthwick_2020_Frontiers_in_Genetics_11.pdf) - [{{< fa book-open >}}](files/Borthwick_2020_Frontiers_in_Genetics_11.bib) - [{{< fa code >}}](https://github.com/mhesselbarth/Borthwick_et_al_2019_Front_Genet)
+{{< fa solid scroll >}} Borthwick, R.<span style="color:#F4C76D"> \† </span>, de Flamingh, A.<span style="color:#F4C76D"> \† </span>, **Hesselbarth, M.H.K.**<span style="color:#F4C76D"> \† </span>, Parandhaman, A.<span style="color:#F4C76D"> \† </span>, Wagner, H.H., Abdel Moniem, H.E.M., 2020. _Alternative Quantifications of Landscape Complementation to Model Gene Flow in Banded Longhorn Beetles [Typocerus v. velutinus (Olivier)]._ Frontiers in Genetics 11, 307. [DOI:10.3389/fgene.2020.00307](https://doi.org/10.3389/fgene.2020.00307). 
+[{{< fa file-pdf >}}](files/Borthwick_2020_Frontiers_in_Genetics_11.pdf) - [{{< fa book-open >}}](files/Borthwick_2020_Frontiers_in_Genetics_11.bib) - [{{< fa code >}}](https://github.com/mhesselbarth/Borthwick_et_al_2019_Front_Genet)
 
 <!-- <br> -->
 
-{{< fa solid scroll >}} **Hesselbarth, M.H.K.**, 2020. _Analysing and modelling spatial patterns to infer the influence of environmental heterogeneity using point pattern analysis, individual-based simulation modelling and landscape metrics._ Dissertation. University of Goettingen, Goettingen, Germany. [DOI:10.53846/goediss-7959](http://dx.doi.org/10.53846/goediss-7959). [{{< fa file-pdf >}}](files/Hesselbarth_2020_University_of_Goettingen.pdf) - [{{< fa book-open >}}](files/Hesselbarth_2020_University_of_Goettingen.bib)
+{{< fa solid scroll >}} **Hesselbarth, M.H.K.**, 2020. _Analysing and modelling spatial patterns to infer the influence of environmental heterogeneity using point pattern analysis, individual-based simulation modelling and landscape metrics._ Dissertation. University of Goettingen, Goettingen, Germany. [DOI:10.53846/goediss-7959](http://dx.doi.org/10.53846/goediss-7959). 
+[{{< fa file-pdf >}}](files/Hesselbarth_2020_University_of_Goettingen.pdf) - [{{< fa book-open >}}](files/Hesselbarth_2020_University_of_Goettingen.bib)
 
 <!-- <br> -->
 
-{{< fa solid scroll >}} **Hesselbarth, M.H.K.**, Sciaini,M., With,K.A., Wiegand,K., Nowosad,J., 2019. _landscapemetrics: An open-source R tool to calculate landscape metrics._ Ecography 42 (10), 1648-1657. [DOI:10.1111/ecog.04617](https://doi.org/10.1111/ecog.04617). [{{< fa file-pdf >}}](files/Hesselbarth_2019_Ecography_42_10.pdf) - [{{< fa book-open >}}](files/Hesselbarth_2019_Ecography_42_10.bib) - [{{< fa code >}}](https://github.com/mhesselbarth/Hesselbarth_et_al_2019_Ecography)
+{{< fa solid scroll >}} **Hesselbarth, M.H.K.**, Sciaini,M., With,K.A., Wiegand,K., Nowosad,J., 2019. _landscapemetrics: An open-source R tool to calculate landscape metrics._ Ecography 42 (10), 1648-1657. [DOI:10.1111/ecog.04617](https://doi.org/10.1111/ecog.04617). 
+[{{< fa file-pdf >}}](files/Hesselbarth_2019_Ecography_42_10.pdf) - [{{< fa book-open >}}](files/Hesselbarth_2019_Ecography_42_10.bib) - [{{< fa code >}}](https://github.com/mhesselbarth/Hesselbarth_et_al_2019_Ecography)
 
 <!-- <br> -->
 
-{{< fa solid scroll >}} **Hesselbarth, M.H.K.**, Wiegand, K., Dreber, N., Kellner, K., Esser, D.,Tsvuura, Z., 2018. _Density-dependent spatial patterning of woody plants differs between a semi-arid and a mesic savanna in South Africa._ Journal of Arid Environments 157, 103-112. [DOI:10.1016/j.jaridenv.2018.06.002](https://doi.org/10.1016/j.jaridenv.2018.06.002). [{{< fa file-pdf >}}](files/Hesselbarth_2018_Journal_of_Arid_Environments_157.pdf) - [{{< fa book-open >}}](files/Hesselbarth_2018_Journal_of_Arid_Environments_157.bib) - [{{< fa code >}}](https://github.com/mhesselbarth/Hesselbarth_et_al_2018_JAE)
+{{< fa solid scroll >}} **Hesselbarth, M.H.K.**, Wiegand, K., Dreber, N., Kellner, K., Esser, D.,Tsvuura, Z., 2018. _Density-dependent spatial patterning of woody plants differs between a semi-arid and a mesic savanna in South Africa._ Journal of Arid Environments 157, 103-112. [DOI:10.1016/j.jaridenv.2018.06.002](https://doi.org/10.1016/j.jaridenv.2018.06.002). 
+[{{< fa file-pdf >}}](files/Hesselbarth_2018_Journal_of_Arid_Environments_157.pdf) - [{{< fa book-open >}}](files/Hesselbarth_2018_Journal_of_Arid_Environments_157.bib) - [{{< fa code >}}](https://github.com/mhesselbarth/Hesselbarth_et_al_2018_JAE)
