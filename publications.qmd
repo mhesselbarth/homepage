@@ -10,7 +10,7 @@ title: ""
 
 <!-- <br> -->
 
-{{< fa solid scroll >}} **Hesselbarth, M.H.K.**, Wiegand, K. (2024). *A simulation study comparing common methods for analyzing species-habitat associations of plants*. Journal of Vegetation Science 35, e13243. [DOI:10.1111/jvs.13243](https://doi.org/10.1111/jvs.13243). [{{< fa file-pdf >}}](files/Hesselbarth_2024_Journal_of_Vegetation_Science_35_2.pdf) - [{{< fa book-open >}}](files/Hesselbarth_2024_Journal_of_Vegetation_Science_35_2.bib) - [{{< fa code >}}](https://www.doi.org/10.5281/zenodo.10803171)
+{{< fa solid scroll >}} **Hesselbarth, M.H.K.**, Wiegand, K., 2024. *A simulation study comparing common methods for analyzing species-habitat associations of plants*. Journal of Vegetation Science 35, e13243. [DOI:10.1111/jvs.13243](https://doi.org/10.1111/jvs.13243). [{{< fa file-pdf >}}](files/Hesselbarth_2024_Journal_of_Vegetation_Science_35_2.pdf) - [{{< fa book-open >}}](files/Hesselbarth_2024_Journal_of_Vegetation_Science_35_2.bib) - [{{< fa code >}}](https://www.doi.org/10.5281/zenodo.10803171)
 
 <!-- <br> -->
 
@@ -22,7 +22,7 @@ title: ""
 
 <!-- <br> -->
 
-{{< fa solid scroll >}} Simpkins, C.E., Hansss, S., Spangenberg, M.C., Salecker, J., **Hesselbarth, M.H.K.**, Wiegand, K., 2022 _spectre: An R package to estimate spatially-explicit community composition using sparse data._ Ecography 2022 (12), e06272. [DOI:10.1111/ecog.06272](https://doi.org/10.1111/ecog.06272). [{{< fa file-pdf >}}](files/Simpkins_2022_Ecography_2022_12.pdf) - [{{< fa book-open >}}](files/Simpkins_2022_Ecography_2022_12.bib) - [{{< fa code >}}](https://github.com/r-spatialecology/spectre_usecase)
+{{< fa solid scroll >}} Simpkins, C.E., Hansss, S., Spangenberg, M.C., Salecker, J., **Hesselbarth, M.H.K.**, Wiegand, K., 2022. _spectre: An R package to estimate spatially-explicit community composition using sparse data._ Ecography 2022 (12), e06272. [DOI:10.1111/ecog.06272](https://doi.org/10.1111/ecog.06272). [{{< fa file-pdf >}}](files/Simpkins_2022_Ecography_2022_12.pdf) - [{{< fa book-open >}}](files/Simpkins_2022_Ecography_2022_12.bib) - [{{< fa code >}}](https://github.com/r-spatialecology/spectre_usecase)
 
 <!-- <br> -->
 
