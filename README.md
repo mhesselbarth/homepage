@@ -6,5 +6,3 @@
 <!-- badges: end -->
 
 Repository for [www.maxhesselbarth.com](https://www.maxhesselbarth.com).
-
-Last updated: `r Sys.Date()`
