@@ -10,6 +10,11 @@ title: ""
 
 <br>
 
+{{< fa solid scroll >}} Nowosad, J., **Hesselbarth, M.H.K.,** 2024. *The landscapemetrics and motif packages for measuring landscape patterns and processes*. arxiv, stat.ME. [DOI:10.48550/arxiv.2405.06559](https://doi.org/10.48550/arxiv.2405.06559)
+
+[{{< fa file-pdf >}}](files/Nowosad_2024_arxiv.pdf) - [{{< fa book-open >}}](files/Nowosad_2024_arxiv.bib) - [{{< fa code >}}](https://github.com/Nowosad/r-ecology-book-chapterIII7)
+---
+
 {{< fa solid scroll >}} **Hesselbarth, M.H.K.**, Wiegand, K., 2024. *A simulation study comparing common methods for analyzing species-habitat associations of plants*. Journal of Vegetation Science 35, e13243. [DOI:10.1111/jvs.13243](https://doi.org/10.1111/jvs.13243). 
 
 [{{< fa file-pdf >}}](files/Hesselbarth_2024_Journal_of_Vegetation_Science_35_2.pdf) - [{{< fa book-open >}}](files/Hesselbarth_2024_Journal_of_Vegetation_Science_35_2.bib) - [{{< fa code >}}](https://www.doi.org/10.5281/zenodo.10803171)
