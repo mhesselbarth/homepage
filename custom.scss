@@ -1,12 +1,16 @@
 /*-- scss:defaults --*/
 
+
+// import fonts
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
 // Base document colors
 $body-bg: #89B691;
 $body-color: #000000;
 $link-color: #C54F43;
 
-$font-family-sans-serif: "Futura";
-$font-family-monospace: "Andale Mono";
+$font-family-sans-serif: "Montserrat";
+$font-family-monospace: "Fira Code";
 
 $navbar-bg: #F8BCB0;
 $navbar-fg: #0A475D;
