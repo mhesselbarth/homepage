@@ -44,3 +44,4 @@ format:
   html:
     theme: [cosmo, custom.scss]
     toc: false
+    page-layout: full

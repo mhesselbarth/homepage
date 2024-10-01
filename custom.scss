@@ -21,6 +21,7 @@ $sidebar-fg: #0A475D;
 $footer-bg: #F4C76D;
 $footer-fg: #0A475D;
 
+// needed for table
 .column {
   float: left;
   width: 50%;
@@ -32,3 +33,5 @@ $footer-fg: #0A475D;
   display: table;
   clear: both;
 }
+
+
