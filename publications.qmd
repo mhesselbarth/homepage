@@ -10,7 +10,10 @@ title: ""
 
 <br>
 
-{{< fa solid scroll >}} Munsterman, K., **Hesselbarth, M.H.K.**, Allgeier, J.E., Accepted. _Smaller and bolder fish enhance ecosystem-scale primary production around artificial reefs in seagrass beds_. Ecological Applications.
+{{< fa solid scroll >}} **Hesselbarth, M.H.K.** <span style="color:#F4C76D"> \† </span>, Allgeier, J.E. <span style="color:#F4C76D"> \† </span>, In press. _High fish biomass and low nutrient enrichment synergistically enhance stability in a seagrass meta-ecosystem_. Conservation Letters.
+---
+
+{{< fa solid scroll >}} Munsterman, K., **Hesselbarth, M.H.K.**, Allgeier, J.E., In press. _Smaller and bolder fish enhance ecosystem-scale primary production around artificial reefs in seagrass beds_. Ecological Applications.
 ---
 
 {{< fa solid scroll >}} Nowosad, J., **Hesselbarth, M.H.K.**, 2024. _The landscapemetrics and motif packages for measuring landscape patterns and processes_. arxiv, stat.ME. [DOI:10.48550/arxiv.2405.06559](https://doi.org/10.48550/arxiv.2405.06559)
@@ -38,7 +41,7 @@ title: ""
 [{{< fa file-pdf >}}](files/Simpkins_2022_Ecography_2022_12.pdf) - [{{< fa book-open >}}](files/Simpkins_2022_Ecography_2022_12.bib) - [{{< fa code >}}](https://github.com/r-spatialecology/spectre_usecase)
 ---
 
-{{< fa solid scroll >}} Esquivel, K.E.<span style="color:#F4C76D"> \† </span>, **Hesselbarth, M.H.K.**<span style="color:#F4C76D"> \† </span>, Allgeier, J.E., 2022. _Mechanistic support for increased primary production around artificial reefs_. Ecological Applications 32 (6), e2617. [DOI:10.1002/eap.2617](https://doi.org/10.1002/eap.2617). 
+{{< fa solid scroll >}} Esquivel, K.E. <span style="color:#F4C76D"> \† </span>, **Hesselbarth, M.H.K.** <span style="color:#F4C76D"> \† </span>, Allgeier, J.E., 2022. _Mechanistic support for increased primary production around artificial reefs_. Ecological Applications 32 (6), e2617. [DOI:10.1002/eap.2617](https://doi.org/10.1002/eap.2617). 
 
 [{{< fa file-pdf >}}](files/Esquivel_2022_Ecological_Applications_32_6.pdf) - [{{< fa book-open >}}](files/Esquivel_2022_Ecological_Applications_32_6.bib) - [{{< fa code >}}](https://github.com/Allgeier-Lab/Esquivel_etal_2021_EcolAppl)
 ---
@@ -53,7 +56,7 @@ title: ""
 [{{< fa file-pdf >}}](files/Hesselbarth_2021_Current_Landscape_Ecology_Reports_6_3.pdf) - [{{< fa book-open >}}](files/Hesselbarth_2021_Current_Landscape_Ecology_Reports_6_3.bib) - [{{< fa code >}}](https://github.com/r-spatialecology/Hesselbarth_et_al_CLER)
 ---
 
-{{< fa solid scroll >}} Borthwick, R.<span style="color:#F4C76D"> \† </span>, de Flamingh, A.<span style="color:#F4C76D"> \† </span>, **Hesselbarth, M.H.K.**<span style="color:#F4C76D"> \† </span>, Parandhaman, A.<span style="color:#F4C76D"> \† </span>, Wagner, H.H., Abdel Moniem, H.E.M., 2020. _Alternative Quantifications of Landscape Complementation to Model Gene Flow in Banded Longhorn Beetles [Typocerus v. velutinus (Olivier)]_. Frontiers in Genetics 11, 307. [DOI:10.3389/fgene.2020.00307](https://doi.org/10.3389/fgene.2020.00307). 
+{{< fa solid scroll >}} Borthwick, R. <span style="color:#F4C76D"> \† </span>, de Flamingh, A. <span style="color:#F4C76D"> \† </span>, **Hesselbarth, M.H.K.** <span style="color:#F4C76D"> \† </span>, Parandhaman, A. <span style="color:#F4C76D"> \† </span>, Wagner, H.H., Abdel Moniem, H.E.M., 2020. _Alternative Quantifications of Landscape Complementation to Model Gene Flow in Banded Longhorn Beetles [Typocerus v. velutinus (Olivier)]_. Frontiers in Genetics 11, 307. [DOI:10.3389/fgene.2020.00307](https://doi.org/10.3389/fgene.2020.00307). 
 
 [{{< fa file-pdf >}}](files/Borthwick_2020_Frontiers_in_Genetics_11.pdf) - [{{< fa book-open >}}](files/Borthwick_2020_Frontiers_in_Genetics_11.bib) - [{{< fa code >}}](https://github.com/mhesselbarth/Borthwick_et_al_2019_Front_Genet)
 ---
