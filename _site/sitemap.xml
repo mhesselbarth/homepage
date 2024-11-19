@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.maxhesselbarth.com/presentations.html</loc>
-    <lastmod>2024-10-01T06:28:17.244Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.maxhesselbarth.com/software.html</loc>
-    <lastmod>2023-06-13T06:45:43.052Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.maxhesselbarth.com/software/landscapemetrics/landscapemetrics.html</loc>
-    <lastmod>2023-02-16T12:39:25.312Z</lastmod>
+    <loc>https://www.maxhesselbarth.com/work-progress.html</loc>
+    <lastmod>2023-06-13T06:44:22.526Z</lastmod>
   </url>
   <url>
     <loc>https://www.maxhesselbarth.com/software/spectre/spectre.html</loc>
     <lastmod>2023-02-16T12:39:25.330Z</lastmod>
   </url>
   <url>
-    <loc>https://www.maxhesselbarth.com/software/NLMR/NLMR.html</loc>
-    <lastmod>2023-02-16T12:39:25.294Z</lastmod>
+    <loc>https://www.maxhesselbarth.com/software/onpoint/onpoint.html</loc>
+    <lastmod>2023-02-16T12:39:25.318Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.maxhesselbarth.com/software/landscapemetrics/landscapemetrics.html</loc>
+    <lastmod>2023-02-16T12:39:25.312Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.maxhesselbarth.com/publications.html</loc>
+    <lastmod>2024-11-19T06:35:15.519Z</lastmod>
   </url>
   <url>
     <loc>https://www.maxhesselbarth.com/index.html</loc>
     <lastmod>2024-10-21T11:15:40.046Z</lastmod>
   </url>
   <url>
-    <loc>https://www.maxhesselbarth.com/work-progress.html</loc>
-    <lastmod>2023-06-13T06:44:22.526Z</lastmod>
-  </url>
-  <url>
     <loc>https://www.maxhesselbarth.com/contact.html</loc>
     <lastmod>2024-10-01T06:23:18.236Z</lastmod>
   </url>
   <url>
-    <loc>https://www.maxhesselbarth.com/software/onpoint/onpoint.html</loc>
-    <lastmod>2023-02-16T12:39:25.318Z</lastmod>
+    <loc>https://www.maxhesselbarth.com/cv.html</loc>
+    <lastmod>2023-06-13T06:43:48.811Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.maxhesselbarth.com/presentations.html</loc>
+    <lastmod>2024-11-19T06:33:46.660Z</lastmod>
   </url>
   <url>
     <loc>https://www.maxhesselbarth.com/software/arrR/arrr.html</loc>
     <lastmod>2023-02-16T12:39:25.301Z</lastmod>
   </url>
   <url>
+    <loc>https://www.maxhesselbarth.com/software/NLMR/NLMR.html</loc>
+    <lastmod>2023-02-16T12:39:25.294Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.maxhesselbarth.com/software/shar/shar.html</loc>
     <lastmod>2023-02-16T12:39:25.325Z</lastmod>
   </url>
   <url>
-    <loc>https://www.maxhesselbarth.com/publications.html</loc>
-    <lastmod>2024-10-14T14:15:33.649Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.maxhesselbarth.com/cv.html</loc>
-    <lastmod>2023-06-13T06:43:48.811Z</lastmod>
+    <loc>https://www.maxhesselbarth.com/software.html</loc>
+    <lastmod>2023-06-13T06:45:43.052Z</lastmod>
   </url>
 </urlset>

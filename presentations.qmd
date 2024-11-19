@@ -8,50 +8,50 @@ title: ""
 
 <br>
 
-{{< fa comment >}} **Hesselbarth, M.H.K.**, Jung, M., Visconti, P., 2024. _Forest biodiversity under changing climate and forest structure_. 2nd ForestNavigator Stakeholder Workshop. Brussels (Belgium).
+{{< fa comment >}} **Hesselbarth, M.H.K.**, Jung, M., Visconti, P. (2024). _Forest biodiversity under changing climate and forest structure_. 2nd ForestNavigator Stakeholder Workshop. Brussels (Belgium).
 
 [{{< fa person-chalkboard >}}](files/Hesselbarth_2024_SHW2.pdf)
 ---
 
-{{< fa file-image >}} **Hesselbarth, M.H.K.**, Jung, M., Visconti, P., 2023. _Evaluating the impact of European forest management on forest-related species using iSDMs_. 52nd Annual Meeting of the Ecological Society of Germany, Austria and Switzerland. Leipzig (Germany).
+{{< fa file-image >}} **Hesselbarth, M.H.K.**, Jung, M., Visconti, P. (2023). _Evaluating the impact of European forest management on forest-related species using iSDMs_. 52nd Annual Meeting of the Ecological Society of Germany, Austria and Switzerland. Leipzig (Germany).
 
 [{{< fa file-pdf >}}](files/Hesselbarth_2023_GfO.pdf)
 ---
 
-{{< fa comment >}} **Hesselbarth, M.H.K.**, Jung, M., Visconti, P. 2023. _Biodiversity indicators and species distribution modeling_. 1st ForestNavigator Stakeholder Workshop. Laxenburg (Austria).
+{{< fa comment >}} **Hesselbarth, M.H.K.**, Jung, M., Visconti, P. (2023). _Biodiversity indicators and species distribution modeling_. 1st ForestNavigator Stakeholder Workshop. Laxenburg (Austria).
 
 [{{< fa person-chalkboard >}}](files/Hesselbarth_2023_SHW1.pdf)
 ---
 
-{{< fa comment >}} **Hesselbarth, M.H.K.**, Munsterman, K.S., 2022. _Advanced R Workshop_. Ecology and Evolutionary Biology Department, University of Michigan. Ann Arbor (USA). Workshop.
+{{< fa comment >}} **Hesselbarth, M.H.K.**, Munsterman, K.S. (2022). _Advanced R Workshop_. Ecology and Evolutionary Biology Department, University of Michigan. Ann Arbor (USA). Workshop.
 
 [{{< fa globe >}}](https://mhesselbarth.github.io/advanced-r-workshop/)
 ---
 
-{{< fa comment >}} **Hesselbarth, M.H.K.**, 2022. _Artificial reefs to promote primary production in tropical seagrass ecosystems: A simulation study using individual-based modelling_. Ecology and Evolutionary Biology Department Seminar, University of Michigan. Ann Arbor (USA).
+{{< fa comment >}} **Hesselbarth, M.H.K.** (2022). _Artificial reefs to promote primary production in tropical seagrass ecosystems: A simulation study using individual-based modelling_. Ecology and Evolutionary Biology Department Seminar, University of Michigan. Ann Arbor (USA).
 ---
 
-{{< fa comment >}} **Hesselbarth, M.H.K.**, 2022. _Introduction to R Workshop._ Ecology and Evolutionary Biology Department, University of Michigan. Ann Arbor (USA).
+{{< fa comment >}} **Hesselbarth, M.H.K.** (2022). _Introduction to R Workshop._ Ecology and Evolutionary Biology Department, University of Michigan. Ann Arbor (USA).
 
 [{{< fa person-chalkboard >}}](https://mhesselbarth.github.io/introduction-r-workshop/)
 ---
 
-{{< fa comment >}} **Hesselbarth, M.H.K.**, 2021. _Spatial patterns in ecology and what we (hopefully) can learn from them._ Ecology and Evolutionary Biology Department Seminar, University of Michigan. Ann Arbor (USA).
+{{< fa comment >}} **Hesselbarth, M.H.K.** (2021). _Spatial patterns in ecology and what we (hopefully) can learn from them._ Ecology and Evolutionary Biology Department Seminar, University of Michigan. Ann Arbor (USA).
 
 [{{< fa person-chalkboard >}}](files/Hesselbarth_2021_EEB.pdf)
 ---
 
-{{< fa comment >}} Nowosad, J., **Hesselbarth, M.H.K.**, 2020. _Introduction to landscape ecology with R._ Annual Meeting International Association of Landscape Ecology North America. Toronto (Canada).
+{{< fa comment >}} Nowosad, J., **Hesselbarth, M.H.K.** (2020). _Introduction to landscape ecology with R._ Annual Meeting International Association of Landscape Ecology North America. Toronto (Canada).
 
 [{{< fa person-chalkboard >}}](https://r-spatialecology.github.io/ialena-2020/) - [{{< fa brands youtube >}}](https://www.youtube.com/watch?v=jtAxJ-S89qI)
 ---
 
-{{< fa file-image >}}  **Hesselbarth, M.H.K.**, Sciaini, M., Nowosad, J., Hanss, S., 2019 _landscapemetrics. Introducing a new R tool to characterise landscapes._ 10th World Congress International Association of Landscape Ecology. Milano (Italy).
+{{< fa file-image >}}  **Hesselbarth, M.H.K.**, Sciaini, M., Nowosad, J., Hanss, S. (2019). _landscapemetrics. Introducing a new R tool to characterise landscapes._ 10th World Congress International Association of Landscape Ecology. Milano (Italy).
 
 [{{< fa file-pdf >}}](files/Hesselbarth_2019_IALE.pdf)
 ---
 
-{{< fa file-image >}} **Hesselbarth, M.H.K.**, Wiegand, K., 2018. _A simulation study comparing methods to analyze species-habitat associations of forest trees._ 48th Annual Meeting of the Ecological Society of Germany, Austria and Switzerland. Vienna (Austria).
+{{< fa file-image >}} **Hesselbarth, M.H.K.**, Wiegand, K. (2018). _A simulation study comparing methods to analyze species-habitat associations of forest trees._ 48th Annual Meeting of the Ecological Society of Germany, Austria and Switzerland. Vienna (Austria).
 
 [{{< fa file-pdf >}}](files/Hesselbarth_2018_GfO.pdf)
 ---
