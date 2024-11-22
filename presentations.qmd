@@ -4,7 +4,7 @@ title: ""
 
 <span style="color:#0A475D;font-size:200%"> Presentations </span>
 
-<span style="color:#F4C76D;font-size:85%;"> {{< fa globe >}} Homepage &nbsp;&nbsp; {{< fa person-chalkboard >}} Slides &nbsp;&nbsp; {{< fa brands youtube >}} Video &nbsp;&nbsp; {{< fa file-pdf >}} Poster </span>
+<span style="color:#C54F43;font-size:85%;"> {{< fa globe >}} Homepage &nbsp;&nbsp; {{< fa person-chalkboard >}} Slides &nbsp;&nbsp; {{< fa brands youtube >}} Video &nbsp;&nbsp; {{< fa file-pdf >}} Poster </span>
 
 <br>
 

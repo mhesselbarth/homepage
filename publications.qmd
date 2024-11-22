@@ -4,19 +4,22 @@ title: ""
 
 <span style="color:#0A475D;font-size:200%"> Publications </span>
 
-<span style="color:#F4C76D;font-size:85%;"> {{< fa file-pdf >}} PDF file &nbsp;&nbsp; {{< fa book-open >}} Citation &nbsp;&nbsp; {{< fa code >}} Code  </span>
-
 <span style="color:#F4C76D;font-size:85%;"> \† Authors contributed equally </span>
+&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#C54F43;font-size:85%;"> {{< fa file-pdf >}} PDF file &nbsp;&nbsp; {{< fa book-open >}} Citation &nbsp;&nbsp; {{< fa code >}} Code  </span>
 
 <br>
 
 {{< fa solid scroll >}} **Hesselbarth, M.H.K.**, Nowosad, J., de Flamingh, A., Simpkins, C.E., Jung, M., Gerber, G., Bosch, M. (In press). _Computational methods in landscape ecology_. Current Landscape Ecology Reports.
 ---
 
-{{< fa solid scroll >}} **Hesselbarth, M.H.K.** <span style="color:#F4C76D"> \† </span>, Allgeier, J.E. <span style="color:#F4C76D"> \† </span> (In press). _High fish biomass and low nutrient enrichment synergistically enhance stability in a seagrass meta-ecosystem_. Conservation Letters.
+{{< fa solid scroll >}} **Hesselbarth, M.H.K.** <span style="color:#F4C76D"> \† </span>, Allgeier, J.E. <span style="color:#F4C76D"> \† </span> (In press). _High fish biomass and low nutrient enrichment synergistically enhance stability in a seagrass meta-ecosystem_. Conservation Letters. e13071. [DOI:10.1111/conl.13071](https://doi.org/10.1111/conl.13071). 
+
+[{{< fa file-pdf >}}](files/Hesselbarth_2024_Conservation_Letters.pdf) - [{{< fa book-open >}}]() - [{{< fa code >}}](https://doi.org/10.5281/zenodo.10671464)
 ---
 
-{{< fa solid scroll >}} Munsterman, K., **Hesselbarth, M.H.K.**, Allgeier, J.E. (In press). _Smaller and bolder fish enhance ecosystem-scale primary production around artificial reefs in seagrass beds_. Ecological Applications.
+{{< fa solid scroll >}} Munsterman, K., **Hesselbarth, M.H.K.**, Allgeier, J.E. (In press). _Smaller and bolder fish enhance ecosystem-scale primary production around artificial reefs in seagrass beds_. Ecological Applications. e3055. [DOI:10.1002/eap.3055](https://doi.org/10.1002/eap.3055). 
+
+[{{< fa file-pdf >}}](files/Munsterman_2024_Ecological_Applications.pdf) - [{{< fa book-open >}}]() - [{{< fa code >}}](https://doi.org/10.5281/zenodo.12683020)
 ---
 
 {{< fa solid scroll >}} Nowosad, J., **Hesselbarth, M.H.K.** (2024). _The landscapemetrics and motif packages for measuring landscape patterns and processes_. arxiv, stat.ME. [DOI:10.48550/arxiv.2405.06559](https://doi.org/10.48550/arxiv.2405.06559)
