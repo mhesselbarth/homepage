@@ -9,7 +9,9 @@ title: ""
 
 <br>
 
-{{< fa solid scroll >}} **Hesselbarth, M.H.K.**, Nowosad, J., de Flamingh, A., Simpkins, C.E., Jung, M., Gerber, G., Bosch, M. (In press). _Computational methods in landscape ecology_. Current Landscape Ecology Reports.
+{{< fa solid scroll >}} **Hesselbarth, M.H.K.**, Nowosad, J., de Flamingh, A., Simpkins, C.E., Jung, M., Gerber, G., Bosch, M. (2025). _Computational methods in landscape ecology_. Current Landscape Ecology Reports 10, 2. [DOI:10.1007/s40823-024-00104-6](https://doi.org/10.1007/s40823-024-00104-6).
+
+[{{< fa file-pdf >}}](files/Hesselbarth-2024-CurrLandscapeEcolRep-10-2.pdf) - [{{< fa book-open >}}](files/Hesselbarth-2024-CurrLandscapeEcolRep-10-2.bib) - [{{< fa code >}}](https://github.com/mhesselbarth/Hesselbarth-etal-2024-CLER)
 ---
 
 {{< fa solid scroll >}} **Hesselbarth, M.H.K.** <span style="color:#F4C76D"> \† </span>, Allgeier, J.E. <span style="color:#F4C76D"> \† </span> (2024). _High fish biomass and low nutrient enrichment synergistically enhance stability in a seagrass meta-ecosystem_. Conservation Letters. e13071. [DOI:10.1111/conl.13071](https://doi.org/10.1111/conl.13071).
