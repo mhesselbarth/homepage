@@ -74,7 +74,7 @@ title: ""
 [{{< fa file-pdf >}}](files/Hesselbarth-2020-UniversityofGoettingen.pdf) - [{{< fa book-open >}}](files/Hesselbarth-2020-UniversityofGoettingen.bib)
 ---
 
-{{< fa solid scroll >}} **Hesselbarth, M.H.K.**, Sciaini,M., With,K.A., Wiegand,K., Nowosad,J. (2019). _landscapemetrics: An open-source R tool to calculate landscape metrics_. Ecography 42 (10), 1648-1657. [DOI:10.1111/ecog.04617](https://doi.org/10.1111/ecog.04617).
+{{< fa solid scroll >}} **Hesselbarth, M.H.K.**, Sciaini, M., With, K.A., Wiegand, K., Nowosad, J. (2019). _landscapemetrics: An open-source R tool to calculate landscape metrics_. Ecography 42 (10), 1648-1657. [DOI:10.1111/ecog.04617](https://doi.org/10.1111/ecog.04617).
 
 [{{< fa file-pdf >}}](files/Hesselbarth-2019-Ecography-42-10.pdf) - [{{< fa book-open >}}](files/Hesselbarth-2019-Ecography-42-10.bib) - [{{< fa code >}}](https://github.com/mhesselbarth/Hesselbarth_et_al_2019_Ecography)
 ---
