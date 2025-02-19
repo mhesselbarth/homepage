@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.maxhesselbarth.com/work-progress.html</loc>
-    <lastmod>2023-06-13T06:44:22.526Z</lastmod>
+    <loc>https://www.maxhesselbarth.com/presentations.html</loc>
+    <lastmod>2024-11-25T08:08:30.820Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.maxhesselbarth.com/software.html</loc>
+    <lastmod>2023-06-13T06:45:43.052Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.maxhesselbarth.com/software/landscapemetrics/landscapemetrics.html</loc>
+    <lastmod>2023-02-16T12:39:25.312Z</lastmod>
   </url>
   <url>
     <loc>https://www.maxhesselbarth.com/software/spectre/spectre.html</loc>
@@ -10,31 +18,19 @@
   </url>
   <url>
     <loc>https://www.maxhesselbarth.com/software/onpoint/onpoint.html</loc>
-    <lastmod>2023-02-16T12:39:25.318Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.maxhesselbarth.com/software/landscapemetrics/landscapemetrics.html</loc>
-    <lastmod>2023-02-16T12:39:25.312Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.maxhesselbarth.com/presentations.html</loc>
-    <lastmod>2024-11-25T08:08:30.821Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.maxhesselbarth.com/cv.html</loc>
-    <lastmod>2023-06-13T06:43:48.811Z</lastmod>
+    <lastmod>2023-02-16T12:39:25.317Z</lastmod>
   </url>
   <url>
     <loc>https://www.maxhesselbarth.com/contact.html</loc>
-    <lastmod>2024-10-01T06:23:18.236Z</lastmod>
+    <lastmod>2024-10-01T06:23:18.235Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.maxhesselbarth.com/work-progress.html</loc>
+    <lastmod>2023-06-13T06:44:22.526Z</lastmod>
   </url>
   <url>
     <loc>https://www.maxhesselbarth.com/index.html</loc>
-    <lastmod>2024-10-21T11:15:40.046Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.maxhesselbarth.com/publications.html</loc>
-    <lastmod>2025-01-16T12:50:59.457Z</lastmod>
+    <lastmod>2025-02-19T11:18:06.879Z</lastmod>
   </url>
   <url>
     <loc>https://www.maxhesselbarth.com/software/NLMR/NLMR.html</loc>
@@ -45,7 +41,11 @@
     <lastmod>2023-02-16T12:39:25.325Z</lastmod>
   </url>
   <url>
-    <loc>https://www.maxhesselbarth.com/software.html</loc>
-    <lastmod>2023-06-13T06:45:43.052Z</lastmod>
+    <loc>https://www.maxhesselbarth.com/publications.html</loc>
+    <lastmod>2025-01-16T12:50:59.457Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.maxhesselbarth.com/cv.html</loc>
+    <lastmod>2023-06-13T06:43:48.810Z</lastmod>
   </url>
 </urlset>
