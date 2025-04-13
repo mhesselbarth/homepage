@@ -17,8 +17,6 @@ title: ""
 
 <span style="color:#0A475D;font-size:150%"> Biography </span>
 
-<span style="color:#F8BCB0"> This homepage is currently under construction, and some information may not be up to date. </span>
-
 Hi, my name is Max, and I am a computational ecologist by training and a data scientist at the [Energy and Environment](https://www.statistik.at/en/statistics/energy-and-environment) section of _Statistics Austria_.
 
 <!-- I am particularly interested in ecological modeling, with a focus on the spatially explicit nature of most ecological processes. My research primarily focuses on using spatial patterns to infer underlying ecological processes. I specialize in spatial point pattern analysis, individual-based modeling, and various other computational modeling techniques. -->
@@ -29,28 +27,30 @@ Hi, my name is Max, and I am a computational ecologist by training and a data sc
 
 For more information about my background, please refer to my [CV](CV.html).
 
-<br>
+<span style="color:#F8BCB0"> This homepage is currently under construction, and some information may not be up to date. </span>
 
-<span style="color:#0A475D;font-size:150%"> Interests </span>
+<!-- <br> -->
 
-<div class="row">
-  <div class="column">
+<!-- <span style="color:#0A475D;font-size:150%"> Interests </span> -->
 
-  {{< fa tree >}} Forest Ecology
+<!-- <div class="row"> -->
+<!--   <div class="column"> -->
 
-  {{< fa map >}} Landscape Ecology
+<!--   {{< fa tree >}} Forest Ecology -->
 
-  {{< fa cogs >}} Ecosystem Ecology
+<!--   {{< fa map >}} Landscape Ecology -->
 
-  </div>
+<!--   {{< fa cogs >}} Ecosystem Ecology -->
 
-  <div class="column">
+<!--   </div> -->
 
-  {{< fa regular circle-dot >}} Point pattern analysis
+<!--   <div class="column"> -->
 
-  {{< fa computer >}} Individual-based modelling
+<!--   {{< fa regular circle-dot >}} Point pattern analysis -->
 
-  {{< fa brands r-project >}} R programming
+<!--   {{< fa computer >}} Individual-based modelling -->
 
-  </div>
-</div>
+<!--   {{< fa brands r-project >}} R programming -->
+
+<!--   </div> -->
+<!-- </div> -->
