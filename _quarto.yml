@@ -23,15 +23,15 @@ website:
   navbar:
     logo: "images/icon.png"
     left:
-      - href: publications.qmd
+      - href: publications.html
         text: Publications
-      - href: presentations.qmd
+      - href: presentations.html
         text: Presentations
-      - href: software.qmd
+      - href: software.html
         text: Software
-      - href: cv.qmd
+      - href: cv.html
         text: CV
-      - href: contact.qmd
+      - href: contact.html
         text: Contact
         
   # page footer

@@ -4,14 +4,15 @@ title: ""
 
 <span style="color:#0A475D;font-size:200%"> Publications </span>
 
+<span style="color:#C54F43;font-size:85%;"> {{< fa file-pdf >}} PDF file &nbsp;&nbsp; {{< fa book-open >}} Citation &nbsp;&nbsp; {{< fa code >}} Code </span>
+
 <span style="color:#F4C76D;font-size:85%;"> \† Authors contributed equally </span>
-&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#C54F43;font-size:85%;"> {{< fa file-pdf >}} PDF file &nbsp;&nbsp; {{< fa book-open >}} Citation &nbsp;&nbsp; {{< fa code >}} Code  </span>
 
 <br>
 
 {{< fa solid scroll >}} Nowosad, J., **Hesselbarth, M.H.K.** (2026). _The landscapemetrics and motif Packages for Measuring Landscape Patterns and Processes_. In: Rocchini, D. (eds) R Coding for Ecology. Use R!. Springer, Cham. [DOI:10.1007/978-3-031-99665-8_10](https://doi.org/10.1007/978-3-031-99665-8_10).
 
-[{{< fa file-pdf >}}](work-progress.qmd) - [{{< fa book-open >}}](files/Nowosad-2026-UseR.bib) - [{{< fa code >}}](https://github.com/Nowosad/r-ecology-book-chapterIII7)
+[{{< fa file-pdf >}}](files/Nowosad-2026-SpringerNatureSwitzerland.pdf) - [{{< fa book-open >}}](files/Nowosad-2026-UseR.bib) - [{{< fa code >}}](https://github.com/Nowosad/r-ecology-book-chapterIII7)
 ---
 
 {{< fa solid scroll >}} **Hesselbarth, M.H.K.**, Nowosad, J., de Flamingh, A., Simpkins, C.E., Jung, M., Gerber, G., Bosch, M. (2025). _Computational methods in landscape ecology_. Current Landscape Ecology Reports 10 (2). [DOI:10.1007/s40823-024-00104-6](https://doi.org/10.1007/s40823-024-00104-6).
