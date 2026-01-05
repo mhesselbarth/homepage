@@ -37,7 +37,7 @@ website:
   # page footer
   page-footer:
     left: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    right: "&copy; 2024 M.H.K. Hesselbarth [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+    right: "&copy; 2026 M.H.K. Hesselbarth, {{< fa brands creative-commons >}} [BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
 
 # format 
 format:

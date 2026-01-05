@@ -8,16 +8,16 @@ title: ""
 <span style="font-size:75%;"> (_he/him_) </span>
 
 <span style="color:#F4C76D;font-size:125%;"> Computational Ecologist </span> ||
-<span style="color:#F4C76D;font-size:125%;"> Data Scientist </span>
+<span style="color:#F4C76D;font-size:125%;"> Data Scientist </span> ||
+<span style="color:#F4C76D;font-size:125%;"> R programmer </span>
 
 <span style="font-size:150%"> [{{< fa brands github >}}](https://github.com/mhesselbarth) </span>
 <span style="font-size:150%"> [{{< fa brands orcid >}}](https://orcid.org/0000-0003-1125-9918) </span>
 <span style="font-size:150%"> [{{< fa brands google >}}](https://scholar.google.com/citations?hl=en&user=PNMHIXAAAAAJ) </span>
-<span style="font-size:150%"> [{{< fa brands twitter >}}](https://twitter.com/mhkhesselbarth) </span>
 
 <span style="color:#0A475D;font-size:150%"> Biography </span>
 
-Hi, my name is Max, and I am a computational ecologist by training and a data scientist at the [Energy and Environment](https://www.statistik.at/en/statistics/energy-and-environment) section of _Statistics Austria_.
+Hi, my name is Max, and I am a computational ecologist by training and a data scientist at the [Energy and Environment](https://www.statistik.at/en/statistics/energy-and-environment) section of _Statistics Austria_. For more information about my background, please refer to my [CV](CV.html).
 
 <!-- I am particularly interested in ecological modeling, with a focus on the spatially explicit nature of most ecological processes. My research primarily focuses on using spatial patterns to infer underlying ecological processes. I specialize in spatial point pattern analysis, individual-based modeling, and various other computational modeling techniques. -->
 
@@ -25,9 +25,7 @@ Hi, my name is Max, and I am a computational ecologist by training and a data sc
 
 <!-- Previously, I held positions in the [_Biodiversity, Ecology, and Conservation Group_](https://iiasa.ac.at/programs/bnr/bec) at the _International Institute for Applied Systems Analysis (IIASA)_, in the [_Coastal Ecology and Conservation Lab_](https://www.jacoballgeier.com/) at the _University of Michigan_, and in the [_Ecosystem Modelling Group_](https://www.uni-goettingen.de/de/102170.html) at the _University of Goettingen_. -->
 
-For more information about my background, please refer to my [CV](CV.html).
-
-<span style="color:#F8BCB0"> This homepage is currently under construction, and some information may not be up to date. </span>
+Feel free to [reach out](contact.qmd) anytime if you’re interested in my past or current work.
 
 <!-- <br> -->
 

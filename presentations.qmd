@@ -29,6 +29,8 @@ title: ""
 ---
 
 {{< fa comment >}} **Hesselbarth, M.H.K.** (2022). _Artificial reefs to promote primary production in tropical seagrass ecosystems: A simulation study using individual-based modelling_. Ecology and Evolutionary Biology Department Seminar, University of Michigan. Ann Arbor (USA).
+
+[{{< fa file-pdf >}}](files/Hesselbarth-2022-EEB.pdf)
 ---
 
 {{< fa comment >}} **Hesselbarth, M.H.K.** (2022). _Introduction to R Workshop._ Ecology and Evolutionary Biology Department, University of Michigan. Ann Arbor (USA).
@@ -44,6 +46,11 @@ title: ""
 {{< fa comment >}} Nowosad, J., **Hesselbarth, M.H.K.** (2020). _Introduction to landscape ecology with R._ Annual Meeting International Association of Landscape Ecology North America. Toronto (Canada).
 
 [{{< fa person-chalkboard >}}](https://r-spatialecology.github.io/ialena-2020/) - [{{< fa brands youtube >}}](https://www.youtube.com/watch?v=jtAxJ-S89qI)
+---
+
+{{< fa comment >}} **Hesselbarth, M.H.K.**, Getzin, S., Ortega, J., Wiegand, K. (2020). _Spatial statistics._ Courses on spatial point pattern analysis for Master’s and PhD students. Göttingen (Germany).
+
+[{{< fa globe >}}](https://mhesselbarth.github.io/spatial-statistics-practicals/)
 ---
 
 {{< fa file-image >}}  **Hesselbarth, M.H.K.**, Sciaini, M., Nowosad, J., Hanss, S. (2019). _landscapemetrics. Introducing a new R tool to characterise landscapes._ 10th World Congress International Association of Landscape Ecology. Milano (Italy).
