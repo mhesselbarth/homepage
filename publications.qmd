@@ -10,6 +10,16 @@ title: ""
 
 <br>
 
+{{< fa solid scroll >}} Richards, S.P., **Hesselbarth, M.H.K.**, Allgeier, J.E. (2026). Rising temperature non-additively alters how different dimensions of biodiversity affect ecosystem-scale processes. J. Anim. Ecol. 1365-2656.70255. [https://doi.org/10.1111/1365-2656.70255](https://doi.org/10.1111/1365-2656.70255)
+
+[{{< fa file-pdf >}}](files/Richards-2026-JAnimEcol.pdf) - [{{< fa book-open >}}](files/Richards-2026-JAnimEcol.bib)
+---
+
+{{< fa solid scroll >}} Jung, M., Cornford, R., Romanchuk, Z., Yashchun, O., **Hesselbarth, M.H.K.**, See, L. (2026). Trends in extent and size of European ecosystem units from 2000 to 2018. Divers. Distrib. 32, e70179. [https://doi.org/10.1111/ddi.70179](https://doi.org/10.1111/ddi.70179)
+
+[{{< fa file-pdf >}}](files/Jung-2026-DiversDistrib-32-3.pdf) - [{{< fa book-open >}}](files/Jung-2026-DiversDistrib-32-3.bib)
+---
+
 {{< fa solid scroll >}} Nowosad, J., **Hesselbarth, M.H.K.** (2026). _The landscapemetrics and motif Packages for Measuring Landscape Patterns and Processes_. In: Rocchini, D. (eds) R Coding for Ecology. Use R!. Springer, Cham. [DOI:10.1007/978-3-031-99665-8_10](https://doi.org/10.1007/978-3-031-99665-8_10).
 
 [{{< fa file-pdf >}}](files/Nowosad-2026-SpringerNatureSwitzerland.pdf) - [{{< fa book-open >}}](files/Nowosad-2026-UseR.bib) - [{{< fa code >}}](https://github.com/RCodingForEcology/landscapemetrics.motif)
